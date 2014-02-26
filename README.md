@@ -25,3 +25,6 @@ The World Atlas Of Language Structures Online (http://wals.info).
 
 - gzipped sql-dump from postgresql 9.1.
 
+Note that the current online database results from applying the alembic migration scripts at
+https://github.com/clld/wals3
+to an initial database created from the above SQL dump.
