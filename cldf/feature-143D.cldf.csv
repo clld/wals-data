@@ -1,0 +1,7 @@
+LANGUAGE_NAME,VALUE,SOURCE_NAME,ID,LANGUAGE_ID,FEATURE_ID,SOURCE
+Doyayo,Neg[V-Neg]/NegVNeg&NegTone,"Wiering and Wiering 1994[ 56, 80-81]",http://wals.info/valuesets/143D-doy,http://wals.info/languoid/lect/wals_code_doy,http://wals.info/feature/143D,"http://wals.info/refdb/record/Wiering-and-Wiering-1994[ 56, 80-81]"
+Gunbalang,(Neg)[Neg-V-Neg],"Harris 1969b[ 4, 12-13, 35-37]",http://wals.info/valuesets/143D-gnb,http://wals.info/languoid/lect/wals_code_gnb,http://wals.info/feature/143D,"http://wals.info/refdb/record/Harris-1969b[ 4, 12-13, 35-37]"
+Kongo,Neg[V(-Neg)]Neg/[Neg-V(-Neg)]Neg,"Lumwamu 1973[ 213];Bentley 1887[ 607, 648]",http://wals.info/valuesets/143D-kon,http://wals.info/languoid/lect/wals_code_kon,http://wals.info/feature/143D,"http://wals.info/refdb/record/Lumwamu-1973[ 213];http://wals.info/refdb/record/Bentley-1887[ 607, 648]"
+Kwomtari,Neg[V-(Neg)](Neg),"Spencer 2008[ 107, 124, 131, 132, 150]",http://wals.info/valuesets/143D-kwt,http://wals.info/languoid/lect/wals_code_kwt,http://wals.info/feature/143D,"http://wals.info/refdb/record/Spencer-2008[ 107, 124, 131, 132, 150]"
+Noni,NegVNeg/NegNegVNeg,"Hyman 1981b[ 57-62, 71-72]",http://wals.info/valuesets/143D-non,http://wals.info/languoid/lect/wals_code_non,http://wals.info/feature/143D,"http://wals.info/refdb/record/Hyman-1981b[ 57-62, 71-72]"
+Tabla,[V-Neg]Neg&OptNegInfix or Pref,Abisay et al. 1983[ 13],http://wals.info/valuesets/143D-tbl,http://wals.info/languoid/lect/wals_code_tbl,http://wals.info/feature/143D,http://wals.info/refdb/record/Abisay-et-al-1983[ 13]

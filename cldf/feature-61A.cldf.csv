@@ -1,0 +1,125 @@
+LANGUAGE_NAME,VALUE,SOURCE_NAME,ID,LANGUAGE_ID,FEATURE_ID,SOURCE
+Abkhaz,Without marking,,http://wals.info/valuesets/61A-abk,http://wals.info/languoid/lect/wals_code_abk,http://wals.info/feature/61A,
+Alagwa,Marked by preceding word,,http://wals.info/valuesets/61A-agw,http://wals.info/languoid/lect/wals_code_agw,http://wals.info/feature/61A,
+Albanian,Marked by preceding word,,http://wals.info/valuesets/61A-alb,http://wals.info/languoid/lect/wals_code_alb,http://wals.info/feature/61A,
+Alyawarra,Without marking,Yallop 1992[123],http://wals.info/valuesets/61A-aly,http://wals.info/languoid/lect/wals_code_aly,http://wals.info/feature/61A,http://wals.info/refdb/record/Yallop-1992[123]
+Ambae (Lolovoli Northeast),Marked by suffix,Hyslop 2001,http://wals.info/valuesets/61A-aml,http://wals.info/languoid/lect/wals_code_aml,http://wals.info/feature/61A,http://wals.info/refdb/record/Hyslop-2001
+Amele,Without marking,"Roberts 1987[155 (b) (i), 738]",http://wals.info/valuesets/61A-ame,http://wals.info/languoid/lect/wals_code_ame,http://wals.info/feature/61A,"http://wals.info/refdb/record/Roberts-1987[155 (b) (i), 738]"
+Arabic (Moroccan),Without marking,Harrell et al. 1965[72-73],http://wals.info/valuesets/61A-amr,http://wals.info/languoid/lect/wals_code_amr,http://wals.info/feature/61A,http://wals.info/refdb/record/Harrell-et-al-1965[72-73]
+Arawak,Marked by suffix,,http://wals.info/valuesets/61A-ara,http://wals.info/languoid/lect/wals_code_ara,http://wals.info/feature/61A,
+Avar,Without marking,,http://wals.info/valuesets/61A-ava,http://wals.info/languoid/lect/wals_code_ava,http://wals.info/feature/61A,
+Awa Pit,Without marking,Obando Ordonez 1992[91];Curnow 1997[91],http://wals.info/valuesets/61A-awp,http://wals.info/languoid/lect/wals_code_awp,http://wals.info/feature/61A,http://wals.info/refdb/record/Obando-Ordonez-1992[91];http://wals.info/refdb/record/Curnow-1997[91]
+Balinese,Marked by preceding word,,http://wals.info/valuesets/61A-bal,http://wals.info/languoid/lect/wals_code_bal,http://wals.info/feature/61A,
+Baré,Without marking,Aikhenvald 1996[40],http://wals.info/valuesets/61A-bae,http://wals.info/languoid/lect/wals_code_bae,http://wals.info/feature/61A,http://wals.info/refdb/record/Aikhenvald-1996[40]
+Basque,Without marking,,http://wals.info/valuesets/61A-bsq,http://wals.info/languoid/lect/wals_code_bsq,http://wals.info/feature/61A,
+Batak (Karo),Marked by preceding word,Woollams 1996,http://wals.info/valuesets/61A-bkr,http://wals.info/languoid/lect/wals_code_bkr,http://wals.info/feature/61A,http://wals.info/refdb/record/Woollams-1996
+Belhare,Marked by suffix,,http://wals.info/valuesets/61A-bel,http://wals.info/languoid/lect/wals_code_bel,http://wals.info/feature/61A,
+Burmese,Without marking,Okell 1969[84-87],http://wals.info/valuesets/61A-brm,http://wals.info/languoid/lect/wals_code_brm,http://wals.info/feature/61A,http://wals.info/refdb/record/Okell-1969[84-87]
+Burunge,Marked by preceding word,,http://wals.info/valuesets/61A-brn,http://wals.info/languoid/lect/wals_code_brn,http://wals.info/feature/61A,
+Cantonese,Marked by following word,,http://wals.info/valuesets/61A-cnt,http://wals.info/languoid/lect/wals_code_cnt,http://wals.info/feature/61A,
+Cèmuhî,Marked by suffix,"Ross 1998[103-104, citing Rivierre 1994]",http://wals.info/valuesets/61A-cem,http://wals.info/languoid/lect/wals_code_cem,http://wals.info/feature/61A,"http://wals.info/refdb/record/Ross-1998[103-104, citing Rivierre 1994]"
+Chamorro,Without marking,Topping 1973[104],http://wals.info/valuesets/61A-cha,http://wals.info/languoid/lect/wals_code_cha,http://wals.info/feature/61A,http://wals.info/refdb/record/Topping-1973[104]
+Chukchi,Marked by mixed or other strategies,,http://wals.info/valuesets/61A-chk,http://wals.info/languoid/lect/wals_code_chk,http://wals.info/feature/61A,
+Chumash (Barbareño),Marked by prefix,,http://wals.info/valuesets/61A-cba,http://wals.info/languoid/lect/wals_code_cba,http://wals.info/feature/61A,
+Dargwa,Without marking,,http://wals.info/valuesets/61A-drg,http://wals.info/languoid/lect/wals_code_drg,http://wals.info/feature/61A,
+Dyirbal,Without marking,Dixon 1972[61],http://wals.info/valuesets/61A-dyi,http://wals.info/languoid/lect/wals_code_dyi,http://wals.info/feature/61A,http://wals.info/refdb/record/Dixon-1972[61]
+English,Marked by following word,,http://wals.info/valuesets/61A-eng,http://wals.info/languoid/lect/wals_code_eng,http://wals.info/feature/61A,
+Epena Pedee,Marked by mixed or other strategies,Harms 1994,http://wals.info/valuesets/61A-epe,http://wals.info/languoid/lect/wals_code_epe,http://wals.info/feature/61A,http://wals.info/refdb/record/Harms-1994
+Evenki,Without marking,Nedjalkov 1997[278],http://wals.info/valuesets/61A-eve,http://wals.info/languoid/lect/wals_code_eve,http://wals.info/feature/61A,http://wals.info/refdb/record/Nedjalkov-1997[278]
+Finnish,Without marking,,http://wals.info/valuesets/61A-fin,http://wals.info/languoid/lect/wals_code_fin,http://wals.info/feature/61A,
+French,Without marking,,http://wals.info/valuesets/61A-fre,http://wals.info/languoid/lect/wals_code_fre,http://wals.info/feature/61A,
+Gaagudju,Without marking,Harvey 1992,http://wals.info/valuesets/61A-gaa,http://wals.info/languoid/lect/wals_code_gaa,http://wals.info/feature/61A,http://wals.info/refdb/record/Harvey-1992
+Gavião,Marked by prefix,Moore 1984,http://wals.info/valuesets/61A-gav,http://wals.info/languoid/lect/wals_code_gav,http://wals.info/feature/61A,http://wals.info/refdb/record/Moore-1984
+Georgian,Without marking,,http://wals.info/valuesets/61A-geo,http://wals.info/languoid/lect/wals_code_geo,http://wals.info/feature/61A,
+Gooniyandi,Without marking,McGregor 1990,http://wals.info/valuesets/61A-goo,http://wals.info/languoid/lect/wals_code_goo,http://wals.info/feature/61A,http://wals.info/refdb/record/McGregor-1990
+Gumbaynggir,Without marking,Eades 1979[271-272],http://wals.info/valuesets/61A-gum,http://wals.info/languoid/lect/wals_code_gum,http://wals.info/feature/61A,http://wals.info/refdb/record/Eades-1979[271-272]
+Hatam,Marked by prefix,Reesink 1999[46],http://wals.info/valuesets/61A-hat,http://wals.info/languoid/lect/wals_code_hat,http://wals.info/feature/61A,http://wals.info/refdb/record/Reesink-1999[46]
+Hebrew (Modern),Without marking,,http://wals.info/valuesets/61A-heb,http://wals.info/languoid/lect/wals_code_heb,http://wals.info/feature/61A,
+Hindi,Marked by following word,,http://wals.info/valuesets/61A-hin,http://wals.info/languoid/lect/wals_code_hin,http://wals.info/feature/61A,
+Hmong Daw,Without marking,,http://wals.info/valuesets/61A-hmd,http://wals.info/languoid/lect/wals_code_hmd,http://wals.info/feature/61A,
+Hokkien,Marked by following word,,http://wals.info/valuesets/61A-hok,http://wals.info/languoid/lect/wals_code_hok,http://wals.info/feature/61A,
+Hungarian,Without marking,"Gil 1994a[38; Istvan Kenesei, p.c., cited in Gil 1994]",http://wals.info/valuesets/61A-hun,http://wals.info/languoid/lect/wals_code_hun,http://wals.info/feature/61A,"http://wals.info/refdb/record/Gil-1994a[38; Istvan Kenesei, p.c., cited in Gil 1994]"
+Hunzib,Marked by suffix,van den Berg 1995[57],http://wals.info/valuesets/61A-hzb,http://wals.info/languoid/lect/wals_code_hzb,http://wals.info/feature/61A,http://wals.info/refdb/record/van-den-Berg-1995[57]
+Hup,Marked by prefix,,http://wals.info/valuesets/61A-hpd,http://wals.info/languoid/lect/wals_code_hpd,http://wals.info/feature/61A,
+Imonda,Marked by suffix,"Seiler 1985[59, 185-193]",http://wals.info/valuesets/61A-imo,http://wals.info/languoid/lect/wals_code_imo,http://wals.info/feature/61A,"http://wals.info/refdb/record/Seiler-1985[59, 185-193]"
+Indonesian,Marked by preceding word,,http://wals.info/valuesets/61A-ind,http://wals.info/languoid/lect/wals_code_ind,http://wals.info/feature/61A,
+Ingush,Marked by suffix,,http://wals.info/valuesets/61A-ing,http://wals.info/languoid/lect/wals_code_ing,http://wals.info/feature/61A,
+Iraqw,Marked by preceding word,,http://wals.info/valuesets/61A-irq,http://wals.info/languoid/lect/wals_code_irq,http://wals.info/feature/61A,
+Irish,Marked by preceding word,"Caoimhin P. O'Donnaile, p.c., cited in Gil 1994[36]",http://wals.info/valuesets/61A-iri,http://wals.info/languoid/lect/wals_code_iri,http://wals.info/feature/61A,http://wals.info/refdb/record/Caoimhin-P-ODonnaile-pc-cited-in-Gil-1994[36]
+Jaminjung,Without marking,,http://wals.info/valuesets/61A-jam,http://wals.info/languoid/lect/wals_code_jam,http://wals.info/feature/61A,
+Japanese,Marked by mixed or other strategies,,http://wals.info/valuesets/61A-jpn,http://wals.info/languoid/lect/wals_code_jpn,http://wals.info/feature/61A,
+Javanese,Marked by preceding word,,http://wals.info/valuesets/61A-jav,http://wals.info/languoid/lect/wals_code_jav,http://wals.info/feature/61A,
+Kanuri,Without marking,Cyffer 1998[32],http://wals.info/valuesets/61A-knr,http://wals.info/languoid/lect/wals_code_knr,http://wals.info/feature/61A,http://wals.info/refdb/record/Cyffer-1998[32]
+Kayah Li (Eastern),Marked by mixed or other strategies,,http://wals.info/valuesets/61A-kyl,http://wals.info/languoid/lect/wals_code_kyl,http://wals.info/feature/61A,
+Kayardild,Not without noun,Evans 1995,http://wals.info/valuesets/61A-kay,http://wals.info/languoid/lect/wals_code_kay,http://wals.info/feature/61A,http://wals.info/refdb/record/Evans-1995
+Khalkha,Without marking,,http://wals.info/valuesets/61A-kha,http://wals.info/languoid/lect/wals_code_kha,http://wals.info/feature/61A,
+Khoekhoe,Without marking,Hagman 1977,http://wals.info/valuesets/61A-kho,http://wals.info/languoid/lect/wals_code_kho,http://wals.info/feature/61A,http://wals.info/refdb/record/Hagman-1977
+Korafe,Without marking,Farr 1999[73],http://wals.info/valuesets/61A-krf,http://wals.info/languoid/lect/wals_code_krf,http://wals.info/feature/61A,http://wals.info/refdb/record/Farr-1999[73]
+Korean,Marked by following word,,http://wals.info/valuesets/61A-kor,http://wals.info/languoid/lect/wals_code_kor,http://wals.info/feature/61A,
+Koromfe,Without marking,Rennison 1997[333],http://wals.info/valuesets/61A-kfe,http://wals.info/languoid/lect/wals_code_kfe,http://wals.info/feature/61A,http://wals.info/refdb/record/Rennison-1997[333]
+Koyra Chiini,Marked by prefix,"Heath 1999b[73, 87]",http://wals.info/valuesets/61A-kch,http://wals.info/languoid/lect/wals_code_kch,http://wals.info/feature/61A,"http://wals.info/refdb/record/Heath-1999b[73, 87]"
+Kutenai,Without marking,,http://wals.info/valuesets/61A-kut,http://wals.info/languoid/lect/wals_code_kut,http://wals.info/feature/61A,
+Kwaza,Marked by suffix,,http://wals.info/valuesets/61A-kwz,http://wals.info/languoid/lect/wals_code_kwz,http://wals.info/feature/61A,
+Lai,Marked by mixed or other strategies,,http://wals.info/valuesets/61A-lai,http://wals.info/languoid/lect/wals_code_lai,http://wals.info/feature/61A,
+Lango,Marked by preceding word,,http://wals.info/valuesets/61A-lan,http://wals.info/languoid/lect/wals_code_lan,http://wals.info/feature/61A,
+Lezgian,Marked by suffix,Haspelmath 1993[312-314],http://wals.info/valuesets/61A-lez,http://wals.info/languoid/lect/wals_code_lez,http://wals.info/feature/61A,http://wals.info/refdb/record/Haspelmath-1993[312-314]
+Lillooet,Without marking,Matthewson 1998[217],http://wals.info/valuesets/61A-lil,http://wals.info/languoid/lect/wals_code_lil,http://wals.info/feature/61A,http://wals.info/refdb/record/Matthewson-1998[217]
+Loven,Marked by preceding word,,http://wals.info/valuesets/61A-lov,http://wals.info/languoid/lect/wals_code_lov,http://wals.info/feature/61A,
+Lucazi,Without marking,Fleisch 2001,http://wals.info/valuesets/61A-luc,http://wals.info/languoid/lect/wals_code_luc,http://wals.info/feature/61A,http://wals.info/refdb/record/Fleisch-2001
+Ma'anyan,Marked by preceding word,Kawi et al. 1984[73-74],http://wals.info/valuesets/61A-myn,http://wals.info/languoid/lect/wals_code_myn,http://wals.info/feature/61A,http://wals.info/refdb/record/Kawi-et-al-1984[73-74]
+Makassar,Without marking,,http://wals.info/valuesets/61A-mks,http://wals.info/languoid/lect/wals_code_mks,http://wals.info/feature/61A,
+Malagasy,Marked by preceding word,,http://wals.info/valuesets/61A-mal,http://wals.info/languoid/lect/wals_code_mal,http://wals.info/feature/61A,
+Mandarin,Marked by following word,,http://wals.info/valuesets/61A-mnd,http://wals.info/languoid/lect/wals_code_mnd,http://wals.info/feature/61A,
+Mangap-Mbula,Without marking,"Ross 1998[98-99, citing Bugenhgen 1995:86]",http://wals.info/valuesets/61A-mmb,http://wals.info/languoid/lect/wals_code_mmb,http://wals.info/feature/61A,"http://wals.info/refdb/record/Ross-1998[98-99, citing Bugenhgen 1995:86]"
+Margi,Without marking,Hoffmann 1963[69-70],http://wals.info/valuesets/61A-mrg,http://wals.info/languoid/lect/wals_code_mrg,http://wals.info/feature/61A,http://wals.info/refdb/record/Hoffmann-1963[69-70]
+Maricopa,Without marking,,http://wals.info/valuesets/61A-mar,http://wals.info/languoid/lect/wals_code_mar,http://wals.info/feature/61A,
+Martuthunira,Without marking,Dench 1995[52-55],http://wals.info/valuesets/61A-mrt,http://wals.info/languoid/lect/wals_code_mrt,http://wals.info/feature/61A,http://wals.info/refdb/record/Dench-1995[52-55]
+Maung,Without marking,Capell and Hinch 1970,http://wals.info/valuesets/61A-mau,http://wals.info/languoid/lect/wals_code_mau,http://wals.info/feature/61A,http://wals.info/refdb/record/Capell-and-Hinch-1970
+Maybrat,Marked by preceding word,Dol 1999,http://wals.info/valuesets/61A-may,http://wals.info/languoid/lect/wals_code_may,http://wals.info/feature/61A,http://wals.info/refdb/record/Dol-1999
+Mbugu,Without marking,,http://wals.info/valuesets/61A-mbg,http://wals.info/languoid/lect/wals_code_mbg,http://wals.info/feature/61A,
+Minangkabau,Without marking,,http://wals.info/valuesets/61A-min,http://wals.info/languoid/lect/wals_code_min,http://wals.info/feature/61A,
+Mixtec (Chalcatongo),Marked by prefix,Macaulay 2005,http://wals.info/valuesets/61A-mxc,http://wals.info/languoid/lect/wals_code_mxc,http://wals.info/feature/61A,http://wals.info/refdb/record/Macaulay-2005
+Mosetén,Without marking,,http://wals.info/valuesets/61A-mos,http://wals.info/languoid/lect/wals_code_mos,http://wals.info/feature/61A,
+Nakkara,Without marking,Eather 1990,http://wals.info/valuesets/61A-nkk,http://wals.info/languoid/lect/wals_code_nkk,http://wals.info/feature/61A,http://wals.info/refdb/record/Eather-1990
+Nandi,Marked by preceding word,Creider n.d.[9],http://wals.info/valuesets/61A-nan,http://wals.info/languoid/lect/wals_code_nan,http://wals.info/feature/61A,http://wals.info/refdb/record/Creider-nd[9]
+Ndyuka,Marked by following word,"George Huttar, p.c., cited in Gil 1994[42]",http://wals.info/valuesets/61A-ndy,http://wals.info/languoid/lect/wals_code_ndy,http://wals.info/feature/61A,http://wals.info/refdb/record/George-Huttar-pc-cited-in-Gil-1994[42]
+Neo-Aramaic (Arbel Jewish),Marked by preceding word,Khan 1999,http://wals.info/valuesets/61A-naj,http://wals.info/languoid/lect/wals_code_naj,http://wals.info/feature/61A,http://wals.info/refdb/record/Khan-1999
+Ngizim,Without marking,,http://wals.info/valuesets/61A-ngz,http://wals.info/languoid/lect/wals_code_ngz,http://wals.info/feature/61A,
+Nivkh (South Sakhalin),Marked by suffix,,http://wals.info/valuesets/61A-nvs,http://wals.info/languoid/lect/wals_code_nvs,http://wals.info/feature/61A,
+Nubian (Dongolese),Without marking,Armbruster 1960[341],http://wals.info/valuesets/61A-nbd,http://wals.info/languoid/lect/wals_code_nbd,http://wals.info/feature/61A,http://wals.info/refdb/record/Armbruster-1960[341]
+O'odham,Without marking,Saxton 1982[202],http://wals.info/valuesets/61A-ood,http://wals.info/languoid/lect/wals_code_ood,http://wals.info/feature/61A,http://wals.info/refdb/record/Saxton-1982[202]
+Panare,Without marking,,http://wals.info/valuesets/61A-pnr,http://wals.info/languoid/lect/wals_code_pnr,http://wals.info/feature/61A,
+Persian,Without marking,Jones 1809[27],http://wals.info/valuesets/61A-prs,http://wals.info/languoid/lect/wals_code_prs,http://wals.info/feature/61A,http://wals.info/refdb/record/Jones-1809[27]
+Quechua (Imbabura),Without marking,Cole 1982[76],http://wals.info/valuesets/61A-qim,http://wals.info/languoid/lect/wals_code_qim,http://wals.info/feature/61A,http://wals.info/refdb/record/Cole-1982[76]
+Russian,Without marking,,http://wals.info/valuesets/61A-rus,http://wals.info/languoid/lect/wals_code_rus,http://wals.info/feature/61A,
+Russian-Chinese Pidgin (Birobidjan),Without marking,,http://wals.info/valuesets/61A-rcp,http://wals.info/languoid/lect/wals_code_rcp,http://wals.info/feature/61A,
+Santali,Marked by suffix,Neukom 2001,http://wals.info/valuesets/61A-stl,http://wals.info/languoid/lect/wals_code_stl,http://wals.info/feature/61A,http://wals.info/refdb/record/Neukom-2001
+Semelai,Marked by prefix,,http://wals.info/valuesets/61A-sml,http://wals.info/languoid/lect/wals_code_sml,http://wals.info/feature/61A,
+Sesotho,Without marking,Guma 1971[94-95],http://wals.info/valuesets/61A-ses,http://wals.info/languoid/lect/wals_code_ses,http://wals.info/feature/61A,http://wals.info/refdb/record/Guma-1971[94-95]
+Shipibo-Konibo,Without marking,,http://wals.info/valuesets/61A-shk,http://wals.info/languoid/lect/wals_code_shk,http://wals.info/feature/61A,
+Spanish,Without marking,,http://wals.info/valuesets/61A-spa,http://wals.info/languoid/lect/wals_code_spa,http://wals.info/feature/61A,
+Supyire,Without marking,Carlson 1994[227],http://wals.info/valuesets/61A-sup,http://wals.info/languoid/lect/wals_code_sup,http://wals.info/feature/61A,http://wals.info/refdb/record/Carlson-1994[227]
+Swahili,Without marking,,http://wals.info/valuesets/61A-swa,http://wals.info/languoid/lect/wals_code_swa,http://wals.info/feature/61A,
+Tagalog,Without marking,,http://wals.info/valuesets/61A-tag,http://wals.info/languoid/lect/wals_code_tag,http://wals.info/feature/61A,
+Tamang (Eastern),Without marking,Mazaudon 1976[9],http://wals.info/valuesets/61A-tam,http://wals.info/languoid/lect/wals_code_tam,http://wals.info/feature/61A,http://wals.info/refdb/record/Mazaudon-1976[9]
+Tatar,Without marking,,http://wals.info/valuesets/61A-tvo,http://wals.info/languoid/lect/wals_code_tvo,http://wals.info/feature/61A,
+Tawala,Without marking,Ezard 1997[145],http://wals.info/valuesets/61A-taw,http://wals.info/languoid/lect/wals_code_taw,http://wals.info/feature/61A,http://wals.info/refdb/record/Ezard-1997[145]
+Thai,Without marking,,http://wals.info/valuesets/61A-tha,http://wals.info/languoid/lect/wals_code_tha,http://wals.info/feature/61A,
+Tidore,Marked by preceding word,,http://wals.info/valuesets/61A-tid,http://wals.info/languoid/lect/wals_code_tid,http://wals.info/feature/61A,
+Tiwi,Without marking,Osborne 1974,http://wals.info/valuesets/61A-tiw,http://wals.info/languoid/lect/wals_code_tiw,http://wals.info/feature/61A,http://wals.info/refdb/record/Osborne-1974
+Tukang Besi,Without marking,Donohue 1999a[309],http://wals.info/valuesets/61A-tuk,http://wals.info/languoid/lect/wals_code_tuk,http://wals.info/feature/61A,http://wals.info/refdb/record/Donohue-1999a[309]
+Tunen,Without marking,,http://wals.info/valuesets/61A-tnn,http://wals.info/languoid/lect/wals_code_tnn,http://wals.info/feature/61A,
+Turkish,Without marking,Lewis 1967[53],http://wals.info/valuesets/61A-tur,http://wals.info/languoid/lect/wals_code_tur,http://wals.info/feature/61A,http://wals.info/refdb/record/Lewis-1967[53]
+Ura,Without marking,Crowley 1999,http://wals.info/valuesets/61A-ura,http://wals.info/languoid/lect/wals_code_ura,http://wals.info/feature/61A,http://wals.info/refdb/record/Crowley-1999
+Vafsi,Without marking,,http://wals.info/valuesets/61A-vaf,http://wals.info/languoid/lect/wals_code_vaf,http://wals.info/feature/61A,
+Vietnamese,Marked by preceding word,,http://wals.info/valuesets/61A-vie,http://wals.info/languoid/lect/wals_code_vie,http://wals.info/feature/61A,
+Wari',Without marking,Everett and Kern 1997,http://wals.info/valuesets/61A-war,http://wals.info/languoid/lect/wals_code_war,http://wals.info/feature/61A,http://wals.info/refdb/record/Everett-and-Kern-1997
+Watjarri,Without marking,Douglas 1981[196-272],http://wals.info/valuesets/61A-wat,http://wals.info/languoid/lect/wals_code_wat,http://wals.info/feature/61A,http://wals.info/refdb/record/Douglas-1981[196-272]
+Wirangu,Without marking,Hercus 1999a[42],http://wals.info/valuesets/61A-wir,http://wals.info/languoid/lect/wals_code_wir,http://wals.info/feature/61A,http://wals.info/refdb/record/Hercus-1999a[42]
+Yagua,Marked by suffix,,http://wals.info/valuesets/61A-yag,http://wals.info/languoid/lect/wals_code_yag,http://wals.info/feature/61A,
+Yessan-Mayo,Without marking,Foreman 1974[58],http://wals.info/valuesets/61A-yes,http://wals.info/languoid/lect/wals_code_yes,http://wals.info/feature/61A,http://wals.info/refdb/record/Foreman-1974[58]
+Yidiny,Without marking,Dixon 1977a[250],http://wals.info/valuesets/61A-yid,http://wals.info/languoid/lect/wals_code_yid,http://wals.info/feature/61A,http://wals.info/refdb/record/Dixon-1977a[250]
+Yimas,Without marking,Foley 1991[426],http://wals.info/valuesets/61A-yim,http://wals.info/languoid/lect/wals_code_yim,http://wals.info/feature/61A,http://wals.info/refdb/record/Foley-1991[426]
+Yingkarta,Without marking,Dench 1998,http://wals.info/valuesets/61A-yng,http://wals.info/languoid/lect/wals_code_yng,http://wals.info/feature/61A,http://wals.info/refdb/record/Dench-1998
+Yukaghir (Kolyma),Marked by suffix,,http://wals.info/valuesets/61A-yko,http://wals.info/languoid/lect/wals_code_yko,http://wals.info/feature/61A,
+Zulu,Without marking,Doke 1927[98],http://wals.info/valuesets/61A-zul,http://wals.info/languoid/lect/wals_code_zul,http://wals.info/feature/61A,http://wals.info/refdb/record/Doke-1927[98]

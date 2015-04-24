@@ -1,0 +1,17 @@
+LANGUAGE_NAME,VALUE,SOURCE_NAME,ID,LANGUAGE_ID,FEATURE_ID,SOURCE
+Apalaí,O[V-Neg]S/SO[V-Neg],Koehn and Koehn 1986[ 64],http://wals.info/valuesets/144Y-apl,http://wals.info/languoid/lect/wals_code_apl,http://wals.info/feature/144Y,http://wals.info/refdb/record/Koehn-and-Koehn-1986[ 64]
+Asuriní,O[Neg-V-Neg]S,Harrison 1970[ 172],http://wals.info/valuesets/144Y-asu,http://wals.info/languoid/lect/wals_code_asu,http://wals.info/feature/144Y,http://wals.info/refdb/record/Harrison-1970[ 172]
+Cubeo,O[V-Neg]S,Morse and Maxwell 1999a[ 30],http://wals.info/valuesets/144Y-cub,http://wals.info/languoid/lect/wals_code_cub,http://wals.info/feature/144Y,http://wals.info/refdb/record/Morse-and-Maxwell-1999a[ 30]
+Hixkaryana,O[V-Neg]S,Derbyshire 1985[ 138];Derbyshire 1979[ 48],http://wals.info/valuesets/144Y-hix,http://wals.info/languoid/lect/wals_code_hix,http://wals.info/feature/144Y,http://wals.info/refdb/record/Derbyshire-1985[ 138];http://wals.info/refdb/record/Derbyshire-1979[ 48]
+Kxoe,OSVNeg,Köhler 1981[ 537],http://wals.info/valuesets/144Y-kxo,http://wals.info/languoid/lect/wals_code_kxo,http://wals.info/feature/144Y,http://wals.info/refdb/record/Kohler-1981[ 537]
+Macushi,OVNegS/SOVNeg,Abbott 1991[ 55],http://wals.info/valuesets/144Y-mac,http://wals.info/languoid/lect/wals_code_mac,http://wals.info/feature/144Y,http://wals.info/refdb/record/Abbott-1991[ 55]
+Mangarrayi,ONegVS,"Merlan 1982[ 36, 124, 146]",http://wals.info/valuesets/144Y-myi,http://wals.info/languoid/lect/wals_code_myi,http://wals.info/feature/144Y,"http://wals.info/refdb/record/Merlan-1982[ 36, 124, 146]"
+Nadëb,O[Neg-V]S/NegSVO,Weir 1994[ 294-298],http://wals.info/valuesets/144Y-nad,http://wals.info/languoid/lect/wals_code_nad,http://wals.info/feature/144Y,http://wals.info/refdb/record/Weir-1994[ 294-298]
+Päri,OVS & NegV,Andersen 1988[ 292];Simeoni 1978[ passim],http://wals.info/valuesets/144Y-par,http://wals.info/languoid/lect/wals_code_par,http://wals.info/feature/144Y,http://wals.info/refdb/record/Andersen-1988[ 292];http://wals.info/refdb/record/Simeoni-1978[ passim]
+Selknam,OVNegS,"Najlis 1973[ 8, 13]",http://wals.info/valuesets/144Y-sel,http://wals.info/languoid/lect/wals_code_sel,http://wals.info/feature/144Y,"http://wals.info/refdb/record/Najlis-1973[ 8, 13]"
+Tiriyo,O[V-Neg]S,Meira 1999[ 559],http://wals.info/valuesets/144Y-tir,http://wals.info/languoid/lect/wals_code_tir,http://wals.info/feature/144Y,http://wals.info/refdb/record/Meira-1999[ 559]
+Tobati,OS(Neg)[V(-Neg)],Donohue 2002[ 201],http://wals.info/valuesets/144Y-tbt,http://wals.info/languoid/lect/wals_code_tbt,http://wals.info/feature/144Y,http://wals.info/refdb/record/Donohue-2002[ 201]
+Tuvaluan,ONegVS,Besnier 2000[ 177-180],http://wals.info/valuesets/144Y-tvl,http://wals.info/languoid/lect/wals_code_tvl,http://wals.info/feature/144Y,http://wals.info/refdb/record/Besnier-2000[ 177-180]
+Ungarinjin,ONegVS,Rumsey 1982[ 167],http://wals.info/valuesets/144Y-ung,http://wals.info/languoid/lect/wals_code_ung,http://wals.info/feature/144Y,http://wals.info/refdb/record/Rumsey-1982[ 167]
+Urarina,O[V-Neg]S,Olawsky 2006[ 552],http://wals.info/valuesets/144Y-urn,http://wals.info/languoid/lect/wals_code_urn,http://wals.info/feature/144Y,http://wals.info/refdb/record/Olawsky-2006[ 552]
+Wichita,NegOVS/NegSOV,Rood 1996[ 600];Rood 1976[ 157-158],http://wals.info/valuesets/144Y-wic,http://wals.info/languoid/lect/wals_code_wic,http://wals.info/feature/144Y,http://wals.info/refdb/record/Rood-1996[ 600];http://wals.info/refdb/record/Rood-1976[ 157-158]

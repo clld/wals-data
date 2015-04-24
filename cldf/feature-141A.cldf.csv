@@ -1,0 +1,7 @@
+LANGUAGE_NAME,VALUE,SOURCE_NAME,ID,LANGUAGE_ID,FEATURE_ID,SOURCE
+Cherokee,Syllabic,,http://wals.info/valuesets/141A-che,http://wals.info/languoid/lect/wals_code_che,http://wals.info/feature/141A,
+Chipewyan,Alphasyllabic,,http://wals.info/valuesets/141A-chp,http://wals.info/languoid/lect/wals_code_chp,http://wals.info/feature/141A,
+Cree (Plains),Alphasyllabic,,http://wals.info/valuesets/141A-cre,http://wals.info/languoid/lect/wals_code_cre,http://wals.info/feature/141A,
+Inuktitut (Quebec-Labrador),Alphasyllabic,,http://wals.info/valuesets/141A-iql,http://wals.info/languoid/lect/wals_code_iql,http://wals.info/feature/141A,
+Ojibwa (Eastern),Alphasyllabic,,http://wals.info/valuesets/141A-oji,http://wals.info/languoid/lect/wals_code_oji,http://wals.info/feature/141A,
+Vai,Syllabic,,http://wals.info/valuesets/141A-vai,http://wals.info/languoid/lect/wals_code_vai,http://wals.info/feature/141A,

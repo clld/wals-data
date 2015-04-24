@@ -1,0 +1,323 @@
+LANGUAGE_NAME,VALUE,SOURCE_NAME,ID,LANGUAGE_ID,FEATURE_ID,SOURCE
+Abkhaz,Differentiation,Hewitt 1989a,http://wals.info/valuesets/52A-abk,http://wals.info/languoid/lect/wals_code_abk,http://wals.info/feature/52A,http://wals.info/refdb/record/Hewitt-1989a
+Achagua,Differentiation,Meléndez 1989[47],http://wals.info/valuesets/52A-acg,http://wals.info/languoid/lect/wals_code_acg,http://wals.info/feature/52A,http://wals.info/refdb/record/Melendez-1989[47]
+Acholi,Identity,Stolz 1996[185],http://wals.info/valuesets/52A-acl,http://wals.info/languoid/lect/wals_code_acl,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[185]
+Acoma,Differentiation,Maring 1967;Miller 1965,http://wals.info/valuesets/52A-aco,http://wals.info/languoid/lect/wals_code_aco,http://wals.info/feature/52A,http://wals.info/refdb/record/Maring-1967;http://wals.info/refdb/record/Miller-1965
+Afrikaans,Identity,Donaldson 1993[334],http://wals.info/valuesets/52A-afr,http://wals.info/languoid/lect/wals_code_afr,http://wals.info/feature/52A,http://wals.info/refdb/record/Donaldson-1993[334]
+Ainu,Differentiation,Refsing 1986[168ff],http://wals.info/valuesets/52A-ain,http://wals.info/languoid/lect/wals_code_ain,http://wals.info/feature/52A,http://wals.info/refdb/record/Refsing-1986[168ff]
+Alamblak,Differentiation,"Bruce 1984[202, 206]",http://wals.info/valuesets/52A-ala,http://wals.info/languoid/lect/wals_code_ala,http://wals.info/feature/52A,"http://wals.info/refdb/record/Bruce-1984[202, 206]"
+Albanian,Identity,Buchholz and Fiedler 1987[379f],http://wals.info/valuesets/52A-alb,http://wals.info/languoid/lect/wals_code_alb,http://wals.info/feature/52A,http://wals.info/refdb/record/Buchholz-and-Fiedler-1987[379f]
+Aleut,Mixed,"Bergsland 1994[101, 488]",http://wals.info/valuesets/52A-ale,http://wals.info/languoid/lect/wals_code_ale,http://wals.info/feature/52A,"http://wals.info/refdb/record/Bergsland-1994[101, 488]"
+Alyawarra,Differentiation,Stolz 1996[197],http://wals.info/valuesets/52A-aly,http://wals.info/languoid/lect/wals_code_aly,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[197]
+Amele,Differentiation,"Roberts 1987[81, 160]",http://wals.info/valuesets/52A-ame,http://wals.info/languoid/lect/wals_code_ame,http://wals.info/feature/52A,"http://wals.info/refdb/record/Roberts-1987[81, 160]"
+Andoke,Identity,Landaburu 1979[169],http://wals.info/valuesets/52A-adk,http://wals.info/languoid/lect/wals_code_adk,http://wals.info/feature/52A,http://wals.info/refdb/record/Landaburu-1979[169]
+Anguthimri,Differentiation,Crowley 1981[166-167],http://wals.info/valuesets/52A-agt,http://wals.info/languoid/lect/wals_code_agt,http://wals.info/feature/52A,http://wals.info/refdb/record/Crowley-1981[166-167]
+Arabic (Egyptian),Differentiation,Gary and Gamal-Eldin 1982[63],http://wals.info/valuesets/52A-aeg,http://wals.info/languoid/lect/wals_code_aeg,http://wals.info/feature/52A,http://wals.info/refdb/record/Gary-and-Gamal-Eldin-1982[63]
+Arabic (Gulf),Differentiation,Holes 1990,http://wals.info/valuesets/52A-arg,http://wals.info/languoid/lect/wals_code_arg,http://wals.info/feature/52A,http://wals.info/refdb/record/Holes-1990
+Arapesh (Mountain),Differentiation,Conrad and Wogiga 1991,http://wals.info/valuesets/52A-arp,http://wals.info/languoid/lect/wals_code_arp,http://wals.info/feature/52A,http://wals.info/refdb/record/Conrad-and-Wogiga-1991
+Armenian (Eastern),Differentiation,"Guréghian and Guréghian 1999[536, 543]",http://wals.info/valuesets/52A-arm,http://wals.info/languoid/lect/wals_code_arm,http://wals.info/feature/52A,"http://wals.info/refdb/record/Gureghian-and-Gureghian-1999[536, 543]"
+Arrernte,Differentiation,Stolz 1996[197],http://wals.info/valuesets/52A-arr,http://wals.info/languoid/lect/wals_code_arr,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[197]
+Auyana,Differentiation,McKaughan and Marks 1973[183],http://wals.info/valuesets/52A-auy,http://wals.info/languoid/lect/wals_code_auy,http://wals.info/feature/52A,http://wals.info/refdb/record/McKaughan-and-Marks-1973[183]
+Avar,Differentiation,Charachidzé 1981,http://wals.info/valuesets/52A-ava,http://wals.info/languoid/lect/wals_code_ava,http://wals.info/feature/52A,http://wals.info/refdb/record/Charachidze-1981
+Awtuw,Identity,Feldman 1986[113],http://wals.info/valuesets/52A-awt,http://wals.info/languoid/lect/wals_code_awt,http://wals.info/feature/52A,http://wals.info/refdb/record/Feldman-1986[113]
+Aymara,Identity,Hardman de Bautista et al. 1988[221f],http://wals.info/valuesets/52A-aym,http://wals.info/languoid/lect/wals_code_aym,http://wals.info/feature/52A,http://wals.info/refdb/record/Hardman-de-Bautista-et-al-1988[221f]
+Bagirmi,Differentiation,"Stevenson 1969[67, 72f.]",http://wals.info/valuesets/52A-bag,http://wals.info/languoid/lect/wals_code_bag,http://wals.info/feature/52A,"http://wals.info/refdb/record/Stevenson-1969[67, 72f.]"
+Bahuana,Differentiation,Stolz 1996[192],http://wals.info/valuesets/52A-bah,http://wals.info/languoid/lect/wals_code_bah,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[192]
+Baka (in Cameroon),Identity,"Kilian-Hatz 1995[123ff., 159]",http://wals.info/valuesets/52A-bak,http://wals.info/languoid/lect/wals_code_bak,http://wals.info/feature/52A,"http://wals.info/refdb/record/Kilian-Hatz-1995[123ff., 159]"
+Bambara,Mixed,"Kastenholz 1989[48, 100]",http://wals.info/valuesets/52A-bam,http://wals.info/languoid/lect/wals_code_bam,http://wals.info/feature/52A,"http://wals.info/refdb/record/Kastenholz-1989[48, 100]"
+Barasano,Identity,Jones and Jones 1991[68],http://wals.info/valuesets/52A-brs,http://wals.info/languoid/lect/wals_code_brs,http://wals.info/feature/52A,http://wals.info/refdb/record/Jones-and-Jones-1991[68]
+Bari,Identity,Stolz 1996[185],http://wals.info/valuesets/52A-bar,http://wals.info/languoid/lect/wals_code_bar,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[185]
+Basque,Differentiation,Kühnel 1999[18],http://wals.info/valuesets/52A-bsq,http://wals.info/languoid/lect/wals_code_bsq,http://wals.info/feature/52A,http://wals.info/refdb/record/Kuhnel-1999[18]
+Berber (Middle Atlas),Differentiation,Penchoen 1973b[28],http://wals.info/valuesets/52A-bma,http://wals.info/languoid/lect/wals_code_bma,http://wals.info/feature/52A,http://wals.info/refdb/record/Penchoen-1973b[28]
+Berber (Wargla),Differentiation,Quitout 1997[125],http://wals.info/valuesets/52A-bou,http://wals.info/languoid/lect/wals_code_bou,http://wals.info/feature/52A,http://wals.info/refdb/record/Quitout-1997[125]
+Bikol,Identity,Stolz 1996[186],http://wals.info/valuesets/52A-bkl,http://wals.info/languoid/lect/wals_code_bkl,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[186]
+Binumarien,Differentiation,Oatridge et al. 1973[557],http://wals.info/valuesets/52A-bnm,http://wals.info/languoid/lect/wals_code_bnm,http://wals.info/feature/52A,http://wals.info/refdb/record/Oatridge-et-al-1973[557]
+Bisa,Differentiation,Stolz 1996[189],http://wals.info/valuesets/52A-bis,http://wals.info/languoid/lect/wals_code_bis,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[189]
+Blackfoot,Differentiation,Uhlenbeck 1938,http://wals.info/valuesets/52A-bla,http://wals.info/languoid/lect/wals_code_bla,http://wals.info/feature/52A,http://wals.info/refdb/record/Uhlenbeck-1938
+Brahui,Differentiation,Bray 1986,http://wals.info/valuesets/52A-brh,http://wals.info/languoid/lect/wals_code_brh,http://wals.info/feature/52A,http://wals.info/refdb/record/Bray-1986
+Breton,Identity,Press 1986[119],http://wals.info/valuesets/52A-bre,http://wals.info/languoid/lect/wals_code_bre,http://wals.info/feature/52A,http://wals.info/refdb/record/Press-1986[119]
+Burushaski,Differentiation,Berger 1974,http://wals.info/valuesets/52A-bur,http://wals.info/languoid/lect/wals_code_bur,http://wals.info/feature/52A,http://wals.info/refdb/record/Berger-1974
+Carib,Differentiation,Hoff 1968,http://wals.info/valuesets/52A-car,http://wals.info/languoid/lect/wals_code_car,http://wals.info/feature/52A,http://wals.info/refdb/record/Hoff-1968
+Catalan,Identity,,http://wals.info/valuesets/52A-ctl,http://wals.info/languoid/lect/wals_code_ctl,http://wals.info/feature/52A,
+Cèmuhî,Differentiation,Rivierre 1980[189],http://wals.info/valuesets/52A-cem,http://wals.info/languoid/lect/wals_code_cem,http://wals.info/feature/52A,http://wals.info/refdb/record/Rivierre-1980[189]
+Chemehuevi,Differentiation,Stolz 1996[192],http://wals.info/valuesets/52A-cmh,http://wals.info/languoid/lect/wals_code_cmh,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[192]
+Chinantec (Lealao),Identity,Rupp 1989,http://wals.info/valuesets/52A-cle,http://wals.info/languoid/lect/wals_code_cle,http://wals.info/feature/52A,http://wals.info/refdb/record/Rupp-1989
+Chiriguano,Differentiation,Dietrich 1986,http://wals.info/valuesets/52A-crg,http://wals.info/languoid/lect/wals_code_crg,http://wals.info/feature/52A,http://wals.info/refdb/record/Dietrich-1986
+Chocho,Identity,Veerman-Leichsenring 2000,http://wals.info/valuesets/52A-cch,http://wals.info/languoid/lect/wals_code_cch,http://wals.info/feature/52A,http://wals.info/refdb/record/Veerman-Leichsenring-2000
+Chol,Identity,Warkentin and Scott 1980[26f],http://wals.info/valuesets/52A-col,http://wals.info/languoid/lect/wals_code_col,http://wals.info/feature/52A,http://wals.info/refdb/record/Warkentin-and-Scott-1980[26f]
+Chukchi,Differentiation,Dunn 1999,http://wals.info/valuesets/52A-chk,http://wals.info/languoid/lect/wals_code_chk,http://wals.info/feature/52A,http://wals.info/refdb/record/Dunn-1999
+Cocopa,Identity,Stolz 1996[185],http://wals.info/valuesets/52A-ccp,http://wals.info/languoid/lect/wals_code_ccp,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[185]
+Cogui,Differentiation,Preuß 1926,http://wals.info/valuesets/52A-cog,http://wals.info/languoid/lect/wals_code_cog,http://wals.info/feature/52A,http://wals.info/refdb/record/Preuss-1926
+Comanche,Differentiation,Charney 1993[85],http://wals.info/valuesets/52A-cmn,http://wals.info/languoid/lect/wals_code_cmn,http://wals.info/feature/52A,http://wals.info/refdb/record/Charney-1993[85]
+Comorian,Differentiation,Saleh 1989[77],http://wals.info/valuesets/52A-com,http://wals.info/languoid/lect/wals_code_com,http://wals.info/feature/52A,http://wals.info/refdb/record/Saleh-1989[77]
+Comox,Identity,Hagège 1981[73],http://wals.info/valuesets/52A-cmx,http://wals.info/languoid/lect/wals_code_cmx,http://wals.info/feature/52A,http://wals.info/refdb/record/Hagege-1981[73]
+Coos (Hanis),Mixed,Stolz 1996[187],http://wals.info/valuesets/52A-coo,http://wals.info/languoid/lect/wals_code_coo,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[187]
+Cora,Differentiation,Casad 1985,http://wals.info/valuesets/52A-cor,http://wals.info/languoid/lect/wals_code_cor,http://wals.info/feature/52A,http://wals.info/refdb/record/Casad-1985
+Dagur,Differentiation,Stolz 1996;Wu 1996[16],http://wals.info/valuesets/52A-dgr,http://wals.info/languoid/lect/wals_code_dgr,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996;http://wals.info/refdb/record/Wu-1996[16]
+Dahalo,Differentiation,Tosco 1991[77-79],http://wals.info/valuesets/52A-dah,http://wals.info/languoid/lect/wals_code_dah,http://wals.info/feature/52A,http://wals.info/refdb/record/Tosco-1991[77-79]
+Damana,Differentiation,Stolz 1996[194],http://wals.info/valuesets/52A-dam,http://wals.info/languoid/lect/wals_code_dam,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[194]
+Dani (Lower Grand Valley),Differentiation,"Bromley 1981[90, 94]",http://wals.info/valuesets/52A-dni,http://wals.info/languoid/lect/wals_code_dni,http://wals.info/feature/52A,"http://wals.info/refdb/record/Bromley-1981[90, 94]"
+Danish,Identity,Nielsen 1975,http://wals.info/valuesets/52A-dsh,http://wals.info/languoid/lect/wals_code_dsh,http://wals.info/feature/52A,http://wals.info/refdb/record/Nielsen-1975
+Desano,Differentiation,Stolz 1996[192],http://wals.info/valuesets/52A-des,http://wals.info/languoid/lect/wals_code_des,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[192]
+Drehu,Differentiation,Moyse-Faurie 1983[184f],http://wals.info/valuesets/52A-dre,http://wals.info/languoid/lect/wals_code_dre,http://wals.info/feature/52A,http://wals.info/refdb/record/Moyse-Faurie-1983[184f]
+Dullay (Gollango),Differentiation,Stolz 1996[190],http://wals.info/valuesets/52A-dug,http://wals.info/languoid/lect/wals_code_dug,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[190]
+Dumi,Differentiation,van Driem 1993,http://wals.info/valuesets/52A-dmi,http://wals.info/languoid/lect/wals_code_dmi,http://wals.info/feature/52A,http://wals.info/refdb/record/van-Driem-1993
+Efik,Differentiation,Stolz 1996[190],http://wals.info/valuesets/52A-efi,http://wals.info/languoid/lect/wals_code_efi,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[190]
+Enga,Differentiation,Stolz 1996[198],http://wals.info/valuesets/52A-ena,http://wals.info/languoid/lect/wals_code_ena,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[198]
+English,Identity,,http://wals.info/valuesets/52A-eng,http://wals.info/languoid/lect/wals_code_eng,http://wals.info/feature/52A,
+Estonian,Identity,Laanest 1982,http://wals.info/valuesets/52A-est,http://wals.info/languoid/lect/wals_code_est,http://wals.info/feature/52A,http://wals.info/refdb/record/Laanest-1982
+Even,Differentiation,Benzing 1955,http://wals.info/valuesets/52A-evn,http://wals.info/languoid/lect/wals_code_evn,http://wals.info/feature/52A,http://wals.info/refdb/record/Benzing-1955
+Evenki,Differentiation,"Bulatova and Grenoble 1999[9, 12]",http://wals.info/valuesets/52A-eve,http://wals.info/languoid/lect/wals_code_eve,http://wals.info/feature/52A,"http://wals.info/refdb/record/Bulatova-and-Grenoble-1999[9, 12]"
+Ewe,Identity,Rongier 1988,http://wals.info/valuesets/52A-ewe,http://wals.info/languoid/lect/wals_code_ewe,http://wals.info/feature/52A,http://wals.info/refdb/record/Rongier-1988
+Fijian,Differentiation,Dixon 1988,http://wals.info/valuesets/52A-fij,http://wals.info/languoid/lect/wals_code_fij,http://wals.info/feature/52A,http://wals.info/refdb/record/Dixon-1988
+Finnish,Differentiation,Laanest 1982,http://wals.info/valuesets/52A-fin,http://wals.info/languoid/lect/wals_code_fin,http://wals.info/feature/52A,http://wals.info/refdb/record/Laanest-1982
+Fongbe,Mixed,"Höftmann 1993[114, 137]",http://wals.info/valuesets/52A-fon,http://wals.info/languoid/lect/wals_code_fon,http://wals.info/feature/52A,"http://wals.info/refdb/record/Hoftmann-1993[114, 137]"
+French,Identity,Lausberg 1972,http://wals.info/valuesets/52A-fre,http://wals.info/languoid/lect/wals_code_fre,http://wals.info/feature/52A,http://wals.info/refdb/record/Lausberg-1972
+Fula (Nigerian),Differentiation,Jungraithmayr and Abu-Manga 1989,http://wals.info/valuesets/52A-fni,http://wals.info/languoid/lect/wals_code_fni,http://wals.info/feature/52A,http://wals.info/refdb/record/Jungraithmayr-and-Abu-Manga-1989
+Fur,Identity,Jakobi 1990,http://wals.info/valuesets/52A-fur,http://wals.info/languoid/lect/wals_code_fur,http://wals.info/feature/52A,http://wals.info/refdb/record/Jakobi-1990
+Futuna-Aniwa,Identity,Capell 1984a[131],http://wals.info/valuesets/52A-fut,http://wals.info/languoid/lect/wals_code_fut,http://wals.info/feature/52A,http://wals.info/refdb/record/Capell-1984a[131]
+Gadsup,Differentiation,Frantz 1973[427f.],http://wals.info/valuesets/52A-gds,http://wals.info/languoid/lect/wals_code_gds,http://wals.info/feature/52A,http://wals.info/refdb/record/Frantz-1973[427f.]
+Garífuna,Mixed,Stolz 1996[187],http://wals.info/valuesets/52A-grf,http://wals.info/languoid/lect/wals_code_grf,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[187]
+Gbeya Bossangoa,Identity,Stolz 1996[185],http://wals.info/valuesets/52A-gbb,http://wals.info/languoid/lect/wals_code_gbb,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[185]
+Georgian,Mixed,"Fähnrich 1987[47, 144]",http://wals.info/valuesets/52A-geo,http://wals.info/languoid/lect/wals_code_geo,http://wals.info/feature/52A,"http://wals.info/refdb/record/Fahnrich-1987[47, 144]"
+German,Identity,,http://wals.info/valuesets/52A-ger,http://wals.info/languoid/lect/wals_code_ger,http://wals.info/feature/52A,
+Goajiro,Differentiation,Olza Zubiri and Jusayú 1985,http://wals.info/valuesets/52A-goa,http://wals.info/languoid/lect/wals_code_goa,http://wals.info/feature/52A,http://wals.info/refdb/record/Olza-Zubiri-and-Jusayu-1985
+Gola,Differentiation,Koroma 1994,http://wals.info/valuesets/52A-gol,http://wals.info/languoid/lect/wals_code_gol,http://wals.info/feature/52A,http://wals.info/refdb/record/Koroma-1994
+Gondi,Differentiation,Stolz 1996[195],http://wals.info/valuesets/52A-gon,http://wals.info/languoid/lect/wals_code_gon,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[195]
+Gooniyandi,Differentiation,McGregor 1990,http://wals.info/valuesets/52A-goo,http://wals.info/languoid/lect/wals_code_goo,http://wals.info/feature/52A,http://wals.info/refdb/record/McGregor-1990
+Greek (Modern),Identity,,http://wals.info/valuesets/52A-grk,http://wals.info/languoid/lect/wals_code_grk,http://wals.info/feature/52A,
+Greenlandic (West),Differentiation,"Fortescue 1984[206, 214-216]",http://wals.info/valuesets/52A-grw,http://wals.info/languoid/lect/wals_code_grw,http://wals.info/feature/52A,"http://wals.info/refdb/record/Fortescue-1984[206, 214-216]"
+Guaraní,Differentiation,Guasch 1996,http://wals.info/valuesets/52A-gua,http://wals.info/languoid/lect/wals_code_gua,http://wals.info/feature/52A,http://wals.info/refdb/record/Guasch-1996
+Guarijío,Differentiation,Miller 1993[98],http://wals.info/valuesets/52A-grj,http://wals.info/languoid/lect/wals_code_grj,http://wals.info/feature/52A,http://wals.info/refdb/record/Miller-1993[98]
+Gumbaynggir,Differentiation,Eades 1979[273],http://wals.info/valuesets/52A-gum,http://wals.info/languoid/lect/wals_code_gum,http://wals.info/feature/52A,http://wals.info/refdb/record/Eades-1979[273]
+Gunin,Differentiation,McGregor 1993[36],http://wals.info/valuesets/52A-gnn,http://wals.info/languoid/lect/wals_code_gnn,http://wals.info/feature/52A,http://wals.info/refdb/record/McGregor-1993[36]
+Guugu Yimidhirr,Differentiation,Haviland 1979[48-54],http://wals.info/valuesets/52A-guu,http://wals.info/languoid/lect/wals_code_guu,http://wals.info/feature/52A,http://wals.info/refdb/record/Haviland-1979[48-54]
+Haida,Mixed,Stolz 1996[187f.],http://wals.info/valuesets/52A-hai,http://wals.info/languoid/lect/wals_code_hai,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[187f.]
+Hausa,Identity,Kraft and Kirk-Greene 1973,http://wals.info/valuesets/52A-hau,http://wals.info/languoid/lect/wals_code_hau,http://wals.info/feature/52A,http://wals.info/refdb/record/Kraft-and-Kirk-Greene-1973
+Hawaiian,Mixed,Elbert and Pukui 1979,http://wals.info/valuesets/52A-haw,http://wals.info/languoid/lect/wals_code_haw,http://wals.info/feature/52A,http://wals.info/refdb/record/Elbert-and-Pukui-1979
+Hebrew (Modern),Identity,Simon 1979,http://wals.info/valuesets/52A-heb,http://wals.info/languoid/lect/wals_code_heb,http://wals.info/feature/52A,http://wals.info/refdb/record/Simon-1979
+Hindi,Differentiation,McGregor 1977,http://wals.info/valuesets/52A-hin,http://wals.info/languoid/lect/wals_code_hin,http://wals.info/feature/52A,http://wals.info/refdb/record/McGregor-1977
+Hixkaryana,Differentiation,Derbyshire 1979,http://wals.info/valuesets/52A-hix,http://wals.info/languoid/lect/wals_code_hix,http://wals.info/feature/52A,http://wals.info/refdb/record/Derbyshire-1979
+Ho,Differentiation,Stolz 1996[195],http://wals.info/valuesets/52A-ho,http://wals.info/languoid/lect/wals_code_ho,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[195]
+Hua,Differentiation,Stolz 1996[198],http://wals.info/valuesets/52A-hua,http://wals.info/languoid/lect/wals_code_hua,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[198]
+Huave (San Mateo del Mar),Differentiation,Stolz 1996[192],http://wals.info/valuesets/52A-hve,http://wals.info/languoid/lect/wals_code_hve,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[192]
+Huichol,Differentiation,Stolz 1996[192],http://wals.info/valuesets/52A-hui,http://wals.info/languoid/lect/wals_code_hui,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[192]
+Hungarian,Mixed,"Banhidi et al. 1975[235, 252]",http://wals.info/valuesets/52A-hun,http://wals.info/languoid/lect/wals_code_hun,http://wals.info/feature/52A,"http://wals.info/refdb/record/Banhidi-et-al-1975[235, 252]"
+Hunzib,Differentiation,"van den Berg 1995[43, 48]",http://wals.info/valuesets/52A-hzb,http://wals.info/languoid/lect/wals_code_hzb,http://wals.info/feature/52A,"http://wals.info/refdb/record/van-den-Berg-1995[43, 48]"
+Hupa,Differentiation,Stolz 1996[192],http://wals.info/valuesets/52A-hup,http://wals.info/languoid/lect/wals_code_hup,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[192]
+Icelandic,Mixed,Pétursson 1978[117],http://wals.info/valuesets/52A-ice,http://wals.info/languoid/lect/wals_code_ice,http://wals.info/feature/52A,http://wals.info/refdb/record/Petursson-1978[117]
+Ila,Identity,Stolz 1996[185],http://wals.info/valuesets/52A-ila,http://wals.info/languoid/lect/wals_code_ila,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[185]
+Imonda,Differentiation,"Seiler 1985[74, 78]",http://wals.info/valuesets/52A-imo,http://wals.info/languoid/lect/wals_code_imo,http://wals.info/feature/52A,"http://wals.info/refdb/record/Seiler-1985[74, 78]"
+Indonesian,Mixed,"Krause 1994[40, 104]",http://wals.info/valuesets/52A-ind,http://wals.info/languoid/lect/wals_code_ind,http://wals.info/feature/52A,"http://wals.info/refdb/record/Krause-1994[40, 104]"
+Inga,Identity,Stolz 1996[185],http://wals.info/valuesets/52A-iga,http://wals.info/languoid/lect/wals_code_iga,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[185]
+Iraqw,Mixed,Mous 1993,http://wals.info/valuesets/52A-irq,http://wals.info/languoid/lect/wals_code_irq,http://wals.info/feature/52A,http://wals.info/refdb/record/Mous-1993
+Irish,Identity,Bammesberger 1983[57],http://wals.info/valuesets/52A-iri,http://wals.info/languoid/lect/wals_code_iri,http://wals.info/feature/52A,http://wals.info/refdb/record/Bammesberger-1983[57]
+Italian,Identity,Lausberg 1972,http://wals.info/valuesets/52A-ita,http://wals.info/languoid/lect/wals_code_ita,http://wals.info/feature/52A,http://wals.info/refdb/record/Lausberg-1972
+Itelmen,Differentiation,Georg and Volodin 1999,http://wals.info/valuesets/52A-ite,http://wals.info/languoid/lect/wals_code_ite,http://wals.info/feature/52A,http://wals.info/refdb/record/Georg-and-Volodin-1999
+Jakaltek,Differentiation,"Craig 1977[76, 124]",http://wals.info/valuesets/52A-jak,http://wals.info/languoid/lect/wals_code_jak,http://wals.info/feature/52A,"http://wals.info/refdb/record/Craig-1977[76, 124]"
+Japanese,Differentiation,Lewin et al. 1983[325],http://wals.info/valuesets/52A-jpn,http://wals.info/languoid/lect/wals_code_jpn,http://wals.info/feature/52A,http://wals.info/refdb/record/Lewin-et-al-1983[325]
+Ju|'hoan,Identity,Stolz 1996[185],http://wals.info/valuesets/52A-juh,http://wals.info/languoid/lect/wals_code_juh,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[185]
+Kaingang,Differentiation,Stolz 1996[192],http://wals.info/valuesets/52A-kng,http://wals.info/languoid/lect/wals_code_kng,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[192]
+Kamass,Identity,Künnap 1999b,http://wals.info/valuesets/52A-kms,http://wals.info/languoid/lect/wals_code_kms,http://wals.info/feature/52A,http://wals.info/refdb/record/Kunnap-1999b
+Kambera,Differentiation,"Klamer 1998[284, 287, 295]",http://wals.info/valuesets/52A-kam,http://wals.info/languoid/lect/wals_code_kam,http://wals.info/feature/52A,"http://wals.info/refdb/record/Klamer-1998[284, 287, 295]"
+Kanjobal (Western),Differentiation,Stolz 1996[191],http://wals.info/valuesets/52A-kwe,http://wals.info/languoid/lect/wals_code_kwe,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[191]
+Kannada,Differentiation,Jensen 1969,http://wals.info/valuesets/52A-knd,http://wals.info/languoid/lect/wals_code_knd,http://wals.info/feature/52A,http://wals.info/refdb/record/Jensen-1969
+Kanuri,Differentiation,Cyffer 1991,http://wals.info/valuesets/52A-knr,http://wals.info/languoid/lect/wals_code_knr,http://wals.info/feature/52A,http://wals.info/refdb/record/Cyffer-1991
+Karok,Differentiation,"Bright 1957[128, 130]",http://wals.info/valuesets/52A-krk,http://wals.info/languoid/lect/wals_code_krk,http://wals.info/feature/52A,"http://wals.info/refdb/record/Bright-1957[128, 130]"
+Kâte,Differentiation,Flierl and Strauss 1977[passim],http://wals.info/valuesets/52A-kat,http://wals.info/languoid/lect/wals_code_kat,http://wals.info/feature/52A,http://wals.info/refdb/record/Flierl-and-Strauss-1977[passim]
+Kayardild,Differentiation,Evans 1995,http://wals.info/valuesets/52A-kay,http://wals.info/languoid/lect/wals_code_kay,http://wals.info/feature/52A,http://wals.info/refdb/record/Evans-1995
+Kera,Identity,Ebert 1979,http://wals.info/valuesets/52A-ker,http://wals.info/languoid/lect/wals_code_ker,http://wals.info/feature/52A,http://wals.info/refdb/record/Ebert-1979
+Ket,Identity,Werner 1997a,http://wals.info/valuesets/52A-ket,http://wals.info/languoid/lect/wals_code_ket,http://wals.info/feature/52A,http://wals.info/refdb/record/Werner-1997a
+Khalaj,Identity,Stolz 1996[186],http://wals.info/valuesets/52A-khl,http://wals.info/languoid/lect/wals_code_khl,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[186]
+Khalkha,Differentiation,Vietze 1988[64-66],http://wals.info/valuesets/52A-kha,http://wals.info/languoid/lect/wals_code_kha,http://wals.info/feature/52A,http://wals.info/refdb/record/Vietze-1988[64-66]
+Khanty,Identity,Stolz 1996[186],http://wals.info/valuesets/52A-kty,http://wals.info/languoid/lect/wals_code_kty,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[186]
+Kharia,Differentiation,Pinnow 1965[passim],http://wals.info/valuesets/52A-khr,http://wals.info/languoid/lect/wals_code_khr,http://wals.info/feature/52A,http://wals.info/refdb/record/Pinnow-1965[passim]
+Khasi,Differentiation,"Rabel 1961[71, 74]",http://wals.info/valuesets/52A-khs,http://wals.info/languoid/lect/wals_code_khs,http://wals.info/feature/52A,"http://wals.info/refdb/record/Rabel-1961[71, 74]"
+Khmer,Differentiation,Huffman 1970b,http://wals.info/valuesets/52A-khm,http://wals.info/languoid/lect/wals_code_khm,http://wals.info/feature/52A,http://wals.info/refdb/record/Huffman-1970b
+Khoekhoe,Identity,Stolz 1996[185],http://wals.info/valuesets/52A-kho,http://wals.info/languoid/lect/wals_code_kho,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[185]
+Kilivila,Differentiation,Senft 1952[595],http://wals.info/valuesets/52A-klv,http://wals.info/languoid/lect/wals_code_klv,http://wals.info/feature/52A,http://wals.info/refdb/record/Senft-1952[595]
+Kinyarwanda,Differentiation,Stolz 1996[190],http://wals.info/valuesets/52A-kin,http://wals.info/languoid/lect/wals_code_kin,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[190]
+Kisi,Identity,Childs 1995,http://wals.info/valuesets/52A-kis,http://wals.info/languoid/lect/wals_code_kis,http://wals.info/feature/52A,http://wals.info/refdb/record/Childs-1995
+Koasati,Differentiation,Kimball 1991[140f],http://wals.info/valuesets/52A-koa,http://wals.info/languoid/lect/wals_code_koa,http://wals.info/feature/52A,http://wals.info/refdb/record/Kimball-1991[140f]
+Kobon,Differentiation,Davies 1989b,http://wals.info/valuesets/52A-kob,http://wals.info/languoid/lect/wals_code_kob,http://wals.info/feature/52A,http://wals.info/refdb/record/Davies-1989b
+Koiari,Differentiation,Dutton 1996[51],http://wals.info/valuesets/52A-koi,http://wals.info/languoid/lect/wals_code_koi,http://wals.info/feature/52A,http://wals.info/refdb/record/Dutton-1996[51]
+Komi-Zyrian,Mixed,Rédei 1978,http://wals.info/valuesets/52A-kzy,http://wals.info/languoid/lect/wals_code_kzy,http://wals.info/feature/52A,http://wals.info/refdb/record/Redei-1978
+Korean,Differentiation,Sohn 1994,http://wals.info/valuesets/52A-kor,http://wals.info/languoid/lect/wals_code_kor,http://wals.info/feature/52A,http://wals.info/refdb/record/Sohn-1994
+Koryak,Differentiation,Stolz 1996[196],http://wals.info/valuesets/52A-kry,http://wals.info/languoid/lect/wals_code_kry,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[196]
+Kott,Differentiation,Werner 1997b,http://wals.info/valuesets/52A-ktt,http://wals.info/languoid/lect/wals_code_ktt,http://wals.info/feature/52A,http://wals.info/refdb/record/Werner-1997b
+Koya,Mixed,Stolz 1996[188],http://wals.info/valuesets/52A-koy,http://wals.info/languoid/lect/wals_code_koy,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[188]
+Koyra Chiini,Mixed,Heath 1999b[117],http://wals.info/valuesets/52A-kch,http://wals.info/languoid/lect/wals_code_kch,http://wals.info/feature/52A,http://wals.info/refdb/record/Heath-1999b[117]
+Krongo,Differentiation,Reh 1985,http://wals.info/valuesets/52A-kro,http://wals.info/languoid/lect/wals_code_kro,http://wals.info/feature/52A,http://wals.info/refdb/record/Reh-1985
+Kunama,Differentiation,Bender 1996[14f],http://wals.info/valuesets/52A-knm,http://wals.info/languoid/lect/wals_code_knm,http://wals.info/feature/52A,http://wals.info/refdb/record/Bender-1996[14f]
+Kurukh,Differentiation,Hahn 1900,http://wals.info/valuesets/52A-kur,http://wals.info/languoid/lect/wals_code_kur,http://wals.info/feature/52A,http://wals.info/refdb/record/Hahn-1900
+Kwamera,Identity,Lindstrom and Lynch 1994[18],http://wals.info/valuesets/52A-kwr,http://wals.info/languoid/lect/wals_code_kwr,http://wals.info/feature/52A,http://wals.info/refdb/record/Lindstrom-and-Lynch-1994[18]
+Kwami,Differentiation,Leger 1994,http://wals.info/valuesets/52A-kwm,http://wals.info/languoid/lect/wals_code_kwm,http://wals.info/feature/52A,http://wals.info/refdb/record/Leger-1994
+Kxoe,Differentiation,Böhm 1985[195],http://wals.info/valuesets/52A-kxo,http://wals.info/languoid/lect/wals_code_kxo,http://wals.info/feature/52A,http://wals.info/refdb/record/Bohm-1985[195]
+Ladakhi,Differentiation,Francke 1979,http://wals.info/valuesets/52A-lad,http://wals.info/languoid/lect/wals_code_lad,http://wals.info/feature/52A,http://wals.info/refdb/record/Francke-1979
+Ladin,Identity,Alton 1968,http://wals.info/valuesets/52A-ldn,http://wals.info/languoid/lect/wals_code_ldn,http://wals.info/feature/52A,http://wals.info/refdb/record/Alton-1968
+Lahu,Differentiation,Stolz 1996[196],http://wals.info/valuesets/52A-lah,http://wals.info/languoid/lect/wals_code_lah,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[196]
+Lak,Differentiation,Stolz 1996[189],http://wals.info/valuesets/52A-lak,http://wals.info/languoid/lect/wals_code_lak,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[189]
+Lakhota,Differentiation,Buechel 1939[114],http://wals.info/valuesets/52A-lkt,http://wals.info/languoid/lect/wals_code_lkt,http://wals.info/feature/52A,http://wals.info/refdb/record/Buechel-1939[114]
+Lango,Mixed,Noonan 1992,http://wals.info/valuesets/52A-lan,http://wals.info/languoid/lect/wals_code_lan,http://wals.info/feature/52A,http://wals.info/refdb/record/Noonan-1992
+Latvian,Identity,Eckert et al. 1998,http://wals.info/valuesets/52A-lat,http://wals.info/languoid/lect/wals_code_lat,http://wals.info/feature/52A,http://wals.info/refdb/record/Eckert-et-al-1998
+Laz,Differentiation,Stolz 1996[189],http://wals.info/valuesets/52A-laz,http://wals.info/languoid/lect/wals_code_laz,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[189]
+Lese,Differentiation,Vorbichler 1965[91f],http://wals.info/valuesets/52A-les,http://wals.info/languoid/lect/wals_code_les,http://wals.info/feature/52A,http://wals.info/refdb/record/Vorbichler-1965[91f]
+Lezgian,Differentiation,Haspelmath 1993,http://wals.info/valuesets/52A-lez,http://wals.info/languoid/lect/wals_code_lez,http://wals.info/feature/52A,http://wals.info/refdb/record/Haspelmath-1993
+Limbu,Differentiation,van Driem 1987,http://wals.info/valuesets/52A-lim,http://wals.info/languoid/lect/wals_code_lim,http://wals.info/feature/52A,http://wals.info/refdb/record/van-Driem-1987
+Lithuanian,Mixed,Eckert et al. 1998,http://wals.info/valuesets/52A-lit,http://wals.info/languoid/lect/wals_code_lit,http://wals.info/feature/52A,http://wals.info/refdb/record/Eckert-et-al-1998
+Luangiua,Identity,Stolz 1996[186],http://wals.info/valuesets/52A-lga,http://wals.info/languoid/lect/wals_code_lga,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[186]
+Lugbara,Differentiation,Stolz 1996[190],http://wals.info/valuesets/52A-lug,http://wals.info/languoid/lect/wals_code_lug,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[190]
+Luiseño,Differentiation,Stolz 1996[193],http://wals.info/valuesets/52A-lui,http://wals.info/languoid/lect/wals_code_lui,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[193]
+Luo,Differentiation,Creider 1994,http://wals.info/valuesets/52A-luo,http://wals.info/languoid/lect/wals_code_luo,http://wals.info/feature/52A,http://wals.info/refdb/record/Creider-1994
+Maidu (Northeast),Differentiation,Stolz 1996[193],http://wals.info/valuesets/52A-mne,http://wals.info/languoid/lect/wals_code_mne,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[193]
+Maltese,Differentiation,Borg and Azzopardi-Alexander 1997,http://wals.info/valuesets/52A-mlt,http://wals.info/languoid/lect/wals_code_mlt,http://wals.info/feature/52A,http://wals.info/refdb/record/Borg-and-Azzopardi-Alexander-1997
+Mamvu,Differentiation,Vorbichler 1971,http://wals.info/valuesets/52A-mmv,http://wals.info/languoid/lect/wals_code_mmv,http://wals.info/feature/52A,http://wals.info/refdb/record/Vorbichler-1971
+Manchu,Differentiation,Haenisch 1986,http://wals.info/valuesets/52A-mnc,http://wals.info/languoid/lect/wals_code_mnc,http://wals.info/feature/52A,http://wals.info/refdb/record/Haenisch-1986
+Mandarin,Differentiation,Stolz 1996[196],http://wals.info/valuesets/52A-mnd,http://wals.info/languoid/lect/wals_code_mnd,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[196]
+Mangarrayi,Differentiation,Merlan 1982,http://wals.info/valuesets/52A-myi,http://wals.info/languoid/lect/wals_code_myi,http://wals.info/feature/52A,http://wals.info/refdb/record/Merlan-1982
+Mangghuer,Differentiation,Stolz 1996[196],http://wals.info/valuesets/52A-mgg,http://wals.info/languoid/lect/wals_code_mgg,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[196]
+Maninka (Western),Differentiation,"Friedländer 1992[39, 67]",http://wals.info/valuesets/52A-maw,http://wals.info/languoid/lect/wals_code_maw,http://wals.info/feature/52A,"http://wals.info/refdb/record/Friedlander-1992[39, 67]"
+Manjaku,Differentiation,Buis 1990,http://wals.info/valuesets/52A-mjk,http://wals.info/languoid/lect/wals_code_mjk,http://wals.info/feature/52A,http://wals.info/refdb/record/Buis-1990
+Mansi,Mixed,Kálmán 1976,http://wals.info/valuesets/52A-mns,http://wals.info/languoid/lect/wals_code_mns,http://wals.info/feature/52A,http://wals.info/refdb/record/Kalman-1976
+Maori,Differentiation,Bauer 1993,http://wals.info/valuesets/52A-mao,http://wals.info/languoid/lect/wals_code_mao,http://wals.info/feature/52A,http://wals.info/refdb/record/Bauer-1993
+Mapudungun,Differentiation,Smeets 1989,http://wals.info/valuesets/52A-map,http://wals.info/languoid/lect/wals_code_map,http://wals.info/feature/52A,http://wals.info/refdb/record/Smeets-1989
+Marathi,Identity,Stolz 1996[186],http://wals.info/valuesets/52A-mhi,http://wals.info/languoid/lect/wals_code_mhi,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[186]
+Margi,Differentiation,Stolz 1996[190],http://wals.info/valuesets/52A-mrg,http://wals.info/languoid/lect/wals_code_mrg,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[190]
+Mari (Hill),Differentiation,Alhoniemi 1993,http://wals.info/valuesets/52A-mah,http://wals.info/languoid/lect/wals_code_mah,http://wals.info/feature/52A,http://wals.info/refdb/record/Alhoniemi-1993
+Marind,Differentiation,Drabbe 1955,http://wals.info/valuesets/52A-mrd,http://wals.info/languoid/lect/wals_code_mrd,http://wals.info/feature/52A,http://wals.info/refdb/record/Drabbe-1955
+Marshallese,Differentiation,Bender 1993,http://wals.info/valuesets/52A-msh,http://wals.info/languoid/lect/wals_code_msh,http://wals.info/feature/52A,http://wals.info/refdb/record/Bender-1993
+Martuthunira,Differentiation,"Dench 1995[72, 75, 86]",http://wals.info/valuesets/52A-mrt,http://wals.info/languoid/lect/wals_code_mrt,http://wals.info/feature/52A,"http://wals.info/refdb/record/Dench-1995[72, 75, 86]"
+Masalit,Identity,Edgar 1989,http://wals.info/valuesets/52A-msl,http://wals.info/languoid/lect/wals_code_msl,http://wals.info/feature/52A,http://wals.info/refdb/record/Edgar-1989
+Mayo,Differentiation,Stolz 1996[193];Freeze 1989,http://wals.info/valuesets/52A-myo,http://wals.info/languoid/lect/wals_code_myo,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[193];http://wals.info/refdb/record/Freeze-1989
+Mazatec (Chiquihuitlán),Identity,Jamieson 1988[155],http://wals.info/valuesets/52A-mzc,http://wals.info/languoid/lect/wals_code_mzc,http://wals.info/feature/52A,http://wals.info/refdb/record/Jamieson-1988[155]
+Mbalanhu,Identity,Fourie 1993[19],http://wals.info/valuesets/52A-mhu,http://wals.info/languoid/lect/wals_code_mhu,http://wals.info/feature/52A,http://wals.info/refdb/record/Fourie-1993[19]
+Meithei,Differentiation,Chelliah 1997[128f],http://wals.info/valuesets/52A-mei,http://wals.info/languoid/lect/wals_code_mei,http://wals.info/feature/52A,http://wals.info/refdb/record/Chelliah-1997[128f]
+Mixtec (Atatlahuca),Identity,Alexander 1980[80],http://wals.info/valuesets/52A-mxa,http://wals.info/languoid/lect/wals_code_mxa,http://wals.info/feature/52A,http://wals.info/refdb/record/Alexander-1980[80]
+Moghol,Identity,Weiers 1972[118-119],http://wals.info/valuesets/52A-mog,http://wals.info/languoid/lect/wals_code_mog,http://wals.info/feature/52A,http://wals.info/refdb/record/Weiers-1972[118-119]
+Mokilese,Identity,Stolz 1996[186],http://wals.info/valuesets/52A-mok,http://wals.info/languoid/lect/wals_code_mok,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[186]
+Mono-Alu,Differentiation,Stolz 1996[199],http://wals.info/valuesets/52A-moa,http://wals.info/languoid/lect/wals_code_moa,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[199]
+Mundari,Differentiation,Osada 1992,http://wals.info/valuesets/52A-mun,http://wals.info/languoid/lect/wals_code_mun,http://wals.info/feature/52A,http://wals.info/refdb/record/Osada-1992
+Mupun,Differentiation,Frajzyngier 1993,http://wals.info/valuesets/52A-mup,http://wals.info/languoid/lect/wals_code_mup,http://wals.info/feature/52A,http://wals.info/refdb/record/Frajzyngier-1993
+Muruwari,Differentiation,"Oates 1988[56, 72]",http://wals.info/valuesets/52A-mrw,http://wals.info/languoid/lect/wals_code_mrw,http://wals.info/feature/52A,"http://wals.info/refdb/record/Oates-1988[56, 72]"
+Nahali,Differentiation,Stolz 1996[196],http://wals.info/valuesets/52A-nah,http://wals.info/languoid/lect/wals_code_nah,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[196]
+Nahuatl (Mecayapan Isthmus),Differentiation,"Wolgemuth 1981[171, 197]",http://wals.info/valuesets/52A-nmi,http://wals.info/languoid/lect/wals_code_nmi,http://wals.info/feature/52A,"http://wals.info/refdb/record/Wolgemuth-1981[171, 197]"
+Nandi,Differentiation,Creider and Creider 1989,http://wals.info/valuesets/52A-nan,http://wals.info/languoid/lect/wals_code_nan,http://wals.info/feature/52A,http://wals.info/refdb/record/Creider-and-Creider-1989
+Navajo,Differentiation,Young 1992,http://wals.info/valuesets/52A-nav,http://wals.info/languoid/lect/wals_code_nav,http://wals.info/feature/52A,http://wals.info/refdb/record/Young-1992
+Nenets,Mixed,Stolz 1996[188],http://wals.info/valuesets/52A-nen,http://wals.info/languoid/lect/wals_code_nen,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[188]
+Newar (Dolakha),Differentiation,Genetti 1991[233],http://wals.info/valuesets/52A-nwd,http://wals.info/languoid/lect/wals_code_nwd,http://wals.info/feature/52A,http://wals.info/refdb/record/Genetti-1991[233]
+Ngalakan,Mixed,Merlan 1983[39f],http://wals.info/valuesets/52A-ngl,http://wals.info/languoid/lect/wals_code_ngl,http://wals.info/feature/52A,http://wals.info/refdb/record/Merlan-1983[39f]
+Ngiti,Differentiation,Kutsch Lojenga 1994,http://wals.info/valuesets/52A-nti,http://wals.info/languoid/lect/wals_code_nti,http://wals.info/feature/52A,http://wals.info/refdb/record/Kutsch-Lojenga-1994
+Ngiyambaa,Differentiation,Donaldson 1980[83f 109],http://wals.info/valuesets/52A-ngi,http://wals.info/languoid/lect/wals_code_ngi,http://wals.info/feature/52A,http://wals.info/refdb/record/Donaldson-1980[83f 109]
+Nivkh,Differentiation,Gruzdeva 1998,http://wals.info/valuesets/52A-niv,http://wals.info/languoid/lect/wals_code_niv,http://wals.info/feature/52A,http://wals.info/refdb/record/Gruzdeva-1998
+Nobiin,Differentiation,Werner 1987,http://wals.info/valuesets/52A-nob,http://wals.info/languoid/lect/wals_code_nob,http://wals.info/feature/52A,http://wals.info/refdb/record/Werner-1987
+Norwegian,Identity,Berulfsen 1977,http://wals.info/valuesets/52A-nor,http://wals.info/languoid/lect/wals_code_nor,http://wals.info/feature/52A,http://wals.info/refdb/record/Berulfsen-1977
+Nukuoro,Differentiation,Stolz 1996[199],http://wals.info/valuesets/52A-nkr,http://wals.info/languoid/lect/wals_code_nkr,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[199]
+Nyawaygi,Differentiation,Dixon 1983[452-456],http://wals.info/valuesets/52A-nya,http://wals.info/languoid/lect/wals_code_nya,http://wals.info/feature/52A,http://wals.info/refdb/record/Dixon-1983[452-456]
+Nyulnyul,Mixed,McGregor 1996[29],http://wals.info/valuesets/52A-nyu,http://wals.info/languoid/lect/wals_code_nyu,http://wals.info/feature/52A,http://wals.info/refdb/record/McGregor-1996[29]
+Oromo (Harar),Differentiation,"Owens 1985[117, 120]",http://wals.info/valuesets/52A-orh,http://wals.info/languoid/lect/wals_code_orh,http://wals.info/feature/52A,"http://wals.info/refdb/record/Owens-1985[117, 120]"
+Oromo (West-Central),Mixed,Griefenow-Mewis and Bitima 1994[163f 374],http://wals.info/valuesets/52A-owc,http://wals.info/languoid/lect/wals_code_owc,http://wals.info/feature/52A,http://wals.info/refdb/record/Griefenow-Mewis-and-Bitima-1994[163f 374]
+Otomí (Sierra),Differentiation,Voigtlander and Echegoyen 1985,http://wals.info/valuesets/52A-ots,http://wals.info/languoid/lect/wals_code_ots,http://wals.info/feature/52A,http://wals.info/refdb/record/Voigtlander-and-Echegoyen-1985
+Páez,Differentiation,Rojas Curieux et al. 1991[26f],http://wals.info/valuesets/52A-pae,http://wals.info/languoid/lect/wals_code_pae,http://wals.info/feature/52A,http://wals.info/refdb/record/Rojas-Curieux-et-al-1991[26f]
+Paiwan,Differentiation,Egli 1990,http://wals.info/valuesets/52A-pai,http://wals.info/languoid/lect/wals_code_pai,http://wals.info/feature/52A,http://wals.info/refdb/record/Egli-1990
+Palauan,Differentiation,Hagège 1986,http://wals.info/valuesets/52A-pal,http://wals.info/languoid/lect/wals_code_pal,http://wals.info/feature/52A,http://wals.info/refdb/record/Hagege-1986
+Pengo,Mixed,Stolz 1996[188],http://wals.info/valuesets/52A-pen,http://wals.info/languoid/lect/wals_code_pen,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[188]
+Pero,Differentiation,Frajzyngier 1989,http://wals.info/valuesets/52A-per,http://wals.info/languoid/lect/wals_code_per,http://wals.info/feature/52A,http://wals.info/refdb/record/Frajzyngier-1989
+Persian,Identity,Alavi and Lorenz 1988[46],http://wals.info/valuesets/52A-prs,http://wals.info/languoid/lect/wals_code_prs,http://wals.info/feature/52A,http://wals.info/refdb/record/Alavi-and-Lorenz-1988[46]
+Piaroa,Differentiation,Krisologo 1976,http://wals.info/valuesets/52A-pia,http://wals.info/languoid/lect/wals_code_pia,http://wals.info/feature/52A,http://wals.info/refdb/record/Krisologo-1976
+Pipil,Identity,Campbell 1985[562],http://wals.info/valuesets/52A-pip,http://wals.info/languoid/lect/wals_code_pip,http://wals.info/feature/52A,http://wals.info/refdb/record/Campbell-1985[562]
+Pirahã,Differentiation,Everett 1986[passim],http://wals.info/valuesets/52A-prh,http://wals.info/languoid/lect/wals_code_prh,http://wals.info/feature/52A,http://wals.info/refdb/record/Everett-1986[passim]
+Pitta Pitta,Differentiation,Blake 1979c[193],http://wals.info/valuesets/52A-ppi,http://wals.info/languoid/lect/wals_code_ppi,http://wals.info/feature/52A,http://wals.info/refdb/record/Blake-1979c[193]
+Polish,Differentiation,Laskowski 1972[61],http://wals.info/valuesets/52A-pol,http://wals.info/languoid/lect/wals_code_pol,http://wals.info/feature/52A,http://wals.info/refdb/record/Laskowski-1972[61]
+Popoloca (San Juan Atzingo),Differentiation,Kalstrom Dolson et al. 1995,http://wals.info/valuesets/52A-psj,http://wals.info/languoid/lect/wals_code_psj,http://wals.info/feature/52A,http://wals.info/refdb/record/Kalstrom-Dolson-et-al-1995
+Portuguese,Identity,Lausberg 1972,http://wals.info/valuesets/52A-por,http://wals.info/languoid/lect/wals_code_por,http://wals.info/feature/52A,http://wals.info/refdb/record/Lausberg-1972
+Purépecha,Differentiation,Stolz 1996[193],http://wals.info/valuesets/52A-pur,http://wals.info/languoid/lect/wals_code_pur,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[193]
+Qawasqar,Differentiation,Clairis 1985[499],http://wals.info/valuesets/52A-qaw,http://wals.info/languoid/lect/wals_code_qaw,http://wals.info/feature/52A,http://wals.info/refdb/record/Clairis-1985[499]
+Quechua (Ayacucho),Mixed,Hartmann 1987,http://wals.info/valuesets/52A-qay,http://wals.info/languoid/lect/wals_code_qay,http://wals.info/feature/52A,http://wals.info/refdb/record/Hartmann-1987
+Quechua (Imbabura),Identity,Cole 1982[114],http://wals.info/valuesets/52A-qim,http://wals.info/languoid/lect/wals_code_qim,http://wals.info/feature/52A,http://wals.info/refdb/record/Cole-1982[114]
+Quiché,Differentiation,Stolz 1996[193],http://wals.info/valuesets/52A-qch,http://wals.info/languoid/lect/wals_code_qch,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[193]
+Rapanui,Differentiation,Du Feu 1996[120],http://wals.info/valuesets/52A-rap,http://wals.info/languoid/lect/wals_code_rap,http://wals.info/feature/52A,http://wals.info/refdb/record/Du-Feu-1996[120]
+Romanian,Identity,Lausberg 1972,http://wals.info/valuesets/52A-rom,http://wals.info/languoid/lect/wals_code_rom,http://wals.info/feature/52A,http://wals.info/refdb/record/Lausberg-1972
+Romani (Bugurdzi),Identity,Boretzky 1993[27],http://wals.info/valuesets/52A-rbu,http://wals.info/languoid/lect/wals_code_rbu,http://wals.info/feature/52A,http://wals.info/refdb/record/Boretzky-1993[27]
+Romansch,Identity,Lausberg 1972,http://wals.info/valuesets/52A-rmc,http://wals.info/languoid/lect/wals_code_rmc,http://wals.info/feature/52A,http://wals.info/refdb/record/Lausberg-1972
+Russian,Mixed,Berneker and Vasmer 1971,http://wals.info/valuesets/52A-rus,http://wals.info/languoid/lect/wals_code_rus,http://wals.info/feature/52A,http://wals.info/refdb/record/Berneker-and-Vasmer-1971
+Saami (Northern),Identity,Bergsland 1976,http://wals.info/valuesets/52A-sno,http://wals.info/languoid/lect/wals_code_sno,http://wals.info/feature/52A,http://wals.info/refdb/record/Bergsland-1976
+Saliba (in Papua New Guinea),Differentiation,Mosel 1994a[15f],http://wals.info/valuesets/52A-slb,http://wals.info/languoid/lect/wals_code_slb,http://wals.info/feature/52A,http://wals.info/refdb/record/Mosel-1994a[15f]
+Salt-Yui,Differentiation,Irwin 1974[36],http://wals.info/valuesets/52A-syu,http://wals.info/languoid/lect/wals_code_syu,http://wals.info/feature/52A,http://wals.info/refdb/record/Irwin-1974[36]
+Samoan,Differentiation,Mosel and Hovdhaugen 1992,http://wals.info/valuesets/52A-sam,http://wals.info/languoid/lect/wals_code_sam,http://wals.info/feature/52A,http://wals.info/refdb/record/Mosel-and-Hovdhaugen-1992
+Sango,Identity,"Samarin 1967b[86, 96]",http://wals.info/valuesets/52A-san,http://wals.info/languoid/lect/wals_code_san,http://wals.info/feature/52A,"http://wals.info/refdb/record/Samarin-1967b[86, 96]"
+Saramaccan,Mixed,Stolz 1996[188],http://wals.info/valuesets/52A-srm,http://wals.info/languoid/lect/wals_code_srm,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[188]
+Selepet,Differentiation,McElhanon 1972[passim],http://wals.info/valuesets/52A-slp,http://wals.info/languoid/lect/wals_code_slp,http://wals.info/feature/52A,http://wals.info/refdb/record/McElhanon-1972[passim]
+Shinassha,Differentiation,Lamberti 1993a[65],http://wals.info/valuesets/52A-ssh,http://wals.info/languoid/lect/wals_code_ssh,http://wals.info/feature/52A,http://wals.info/refdb/record/Lamberti-1993a[65]
+Shona,Differentiation,"Brauner 1993[222, 227]",http://wals.info/valuesets/52A-shn,http://wals.info/languoid/lect/wals_code_shn,http://wals.info/feature/52A,"http://wals.info/refdb/record/Brauner-1993[222, 227]"
+Siuslaw,Differentiation,Stolz 1996[193],http://wals.info/valuesets/52A-siu,http://wals.info/languoid/lect/wals_code_siu,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[193]
+Slave,Differentiation,Rice 1989,http://wals.info/valuesets/52A-sla,http://wals.info/languoid/lect/wals_code_sla,http://wals.info/feature/52A,http://wals.info/refdb/record/Rice-1989
+So,Differentiation,Carlin 1993,http://wals.info/valuesets/52A-so,http://wals.info/languoid/lect/wals_code_so,http://wals.info/feature/52A,http://wals.info/refdb/record/Carlin-1993
+Somali,Differentiation,El-Solami-Mewis 1987[216f],http://wals.info/valuesets/52A-som,http://wals.info/languoid/lect/wals_code_som,http://wals.info/feature/52A,http://wals.info/refdb/record/El-Solami-Mewis-1987[216f]
+Sora,Identity,Stolz 1996[186],http://wals.info/valuesets/52A-sor,http://wals.info/languoid/lect/wals_code_sor,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[186]
+Sorbian (Lower),Identity,Janas 1976,http://wals.info/valuesets/52A-srl,http://wals.info/languoid/lect/wals_code_srl,http://wals.info/feature/52A,http://wals.info/refdb/record/Janas-1976
+Sre,Mixed,Stolz 1996[188],http://wals.info/valuesets/52A-sre,http://wals.info/languoid/lect/wals_code_sre,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[188]
+Supyire,Mixed,Carlson 1994[275],http://wals.info/valuesets/52A-sup,http://wals.info/languoid/lect/wals_code_sup,http://wals.info/feature/52A,http://wals.info/refdb/record/Carlson-1994[275]
+Susu,Identity,Friedländer 1974,http://wals.info/valuesets/52A-sus,http://wals.info/languoid/lect/wals_code_sus,http://wals.info/feature/52A,http://wals.info/refdb/record/Friedlander-1974
+Swahili,Differentiation,Möhlig and Heine 1999[200f],http://wals.info/valuesets/52A-swa,http://wals.info/languoid/lect/wals_code_swa,http://wals.info/feature/52A,http://wals.info/refdb/record/Mohlig-and-Heine-1999[200f]
+Swedish,Identity,Holm and Nylund Lindgren 1977,http://wals.info/valuesets/52A-swe,http://wals.info/languoid/lect/wals_code_swe,http://wals.info/feature/52A,http://wals.info/refdb/record/Holm-and-Nylund-Lindgren-1977
+Tabassaran,Differentiation,Stolz 1996[189],http://wals.info/valuesets/52A-tbs,http://wals.info/languoid/lect/wals_code_tbs,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[189]
+Tagalog,Differentiation,Ramos 1971[66],http://wals.info/valuesets/52A-tag,http://wals.info/languoid/lect/wals_code_tag,http://wals.info/feature/52A,http://wals.info/refdb/record/Ramos-1971[66]
+Tahitian,Differentiation,Paia and Vernaudon 1999,http://wals.info/valuesets/52A-tah,http://wals.info/languoid/lect/wals_code_tah,http://wals.info/feature/52A,http://wals.info/refdb/record/Paia-and-Vernaudon-1999
+Tairora,Differentiation,Vincent 1973a[534],http://wals.info/valuesets/52A-trr,http://wals.info/languoid/lect/wals_code_trr,http://wals.info/feature/52A,http://wals.info/refdb/record/Vincent-1973a[534]
+Takelma,Mixed,Stolz 1996[188],http://wals.info/valuesets/52A-tkl,http://wals.info/languoid/lect/wals_code_tkl,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[188]
+Tamil,Differentiation,Beythan 1943,http://wals.info/valuesets/52A-tml,http://wals.info/languoid/lect/wals_code_tml,http://wals.info/feature/52A,http://wals.info/refdb/record/Beythan-1943
+Tashlhiyt,Differentiation,Quitout 1997[125],http://wals.info/valuesets/52A-tas,http://wals.info/languoid/lect/wals_code_tas,http://wals.info/feature/52A,http://wals.info/refdb/record/Quitout-1997[125]
+Tauya,Differentiation,MacDonald 1990,http://wals.info/valuesets/52A-tau,http://wals.info/languoid/lect/wals_code_tau,http://wals.info/feature/52A,http://wals.info/refdb/record/MacDonald-1990
+Telugu,Differentiation,Stolz 1996[197],http://wals.info/valuesets/52A-tel,http://wals.info/languoid/lect/wals_code_tel,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[197]
+Tera,Identity,Stolz 1996[185],http://wals.info/valuesets/52A-ter,http://wals.info/languoid/lect/wals_code_ter,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[185]
+Thai,Differentiation,Yates and Tryon 1970,http://wals.info/valuesets/52A-tha,http://wals.info/languoid/lect/wals_code_tha,http://wals.info/feature/52A,http://wals.info/refdb/record/Yates-and-Tryon-1970
+Tigak,Identity,Stolz 1996[186],http://wals.info/valuesets/52A-tgk,http://wals.info/languoid/lect/wals_code_tgk,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[186]
+Tikar,Identity,Stolz 1996[185],http://wals.info/valuesets/52A-tik,http://wals.info/languoid/lect/wals_code_tik,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[185]
+Tinrin,Differentiation,"Osumi 1995[165, 211]",http://wals.info/valuesets/52A-tin,http://wals.info/languoid/lect/wals_code_tin,http://wals.info/feature/52A,"http://wals.info/refdb/record/Osumi-1995[165, 211]"
+Tlapanec,Identity,Suárez 1988[passim],http://wals.info/valuesets/52A-tlp,http://wals.info/languoid/lect/wals_code_tlp,http://wals.info/feature/52A,http://wals.info/refdb/record/Suarez-1988[passim]
+Tlingit,Differentiation,Stolz 1996[194],http://wals.info/valuesets/52A-tli,http://wals.info/languoid/lect/wals_code_tli,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[194]
+Tokelauan,Differentiation,"Hooper 1996[6, 8]",http://wals.info/valuesets/52A-tke,http://wals.info/languoid/lect/wals_code_tke,http://wals.info/feature/52A,"http://wals.info/refdb/record/Hooper-1996[6, 8]"
+Tongan,Differentiation,Broschart 1994[48-49],http://wals.info/valuesets/52A-tng,http://wals.info/languoid/lect/wals_code_tng,http://wals.info/feature/52A,http://wals.info/refdb/record/Broschart-1994[48-49]
+Toqabaqita,Differentiation,Lichtenberk 1991[passim],http://wals.info/valuesets/52A-toq,http://wals.info/languoid/lect/wals_code_toq,http://wals.info/feature/52A,http://wals.info/refdb/record/Lichtenberk-1991[passim]
+Totonac (Xicotepec de Juárez),Differentiation,Reid 1991[29],http://wals.info/valuesets/52A-txj,http://wals.info/languoid/lect/wals_code_txj,http://wals.info/feature/52A,http://wals.info/refdb/record/Reid-1991[29]
+Trique (Copala),Differentiation,Hollenbach and Hollenbach 1975[passim],http://wals.info/valuesets/52A-tri,http://wals.info/languoid/lect/wals_code_tri,http://wals.info/feature/52A,http://wals.info/refdb/record/Hollenbach-and-Hollenbach-1975[passim]
+Trumai,Differentiation,Guirardello 1999a,http://wals.info/valuesets/52A-tru,http://wals.info/languoid/lect/wals_code_tru,http://wals.info/feature/52A,http://wals.info/refdb/record/Guirardello-1999a
+Tuareg (Ahaggar),Differentiation,Quitout 1997[125],http://wals.info/valuesets/52A-tug,http://wals.info/languoid/lect/wals_code_tug,http://wals.info/feature/52A,http://wals.info/refdb/record/Quitout-1997[125]
+Tubu,Differentiation,Stolz 1996[191],http://wals.info/valuesets/52A-tbu,http://wals.info/languoid/lect/wals_code_tbu,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[191]
+Tupi,Differentiation,Stolz 1996[194],http://wals.info/valuesets/52A-tup,http://wals.info/languoid/lect/wals_code_tup,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[194]
+Turkish,Identity,,http://wals.info/valuesets/52A-tur,http://wals.info/languoid/lect/wals_code_tur,http://wals.info/feature/52A,
+Ubykh,Differentiation,Stolz 1996[189],http://wals.info/valuesets/52A-uby,http://wals.info/languoid/lect/wals_code_uby,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[189]
+Udi,Differentiation,Stolz 1996[189],http://wals.info/valuesets/52A-udi,http://wals.info/languoid/lect/wals_code_udi,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[189]
+Udmurt,Identity,Stolz 1996[185],http://wals.info/valuesets/52A-udm,http://wals.info/languoid/lect/wals_code_udm,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[185]
+Una,Differentiation,Louwerse 1988,http://wals.info/valuesets/52A-una,http://wals.info/languoid/lect/wals_code_una,http://wals.info/feature/52A,http://wals.info/refdb/record/Louwerse-1988
+Uradhi,Differentiation,"Crowley 1983[334, 347]",http://wals.info/valuesets/52A-uhi,http://wals.info/languoid/lect/wals_code_uhi,http://wals.info/feature/52A,"http://wals.info/refdb/record/Crowley-1983[334, 347]"
+Urak Lawoi',Identity,Hogan 1988[207],http://wals.info/valuesets/52A-url,http://wals.info/languoid/lect/wals_code_url,http://wals.info/feature/52A,http://wals.info/refdb/record/Hogan-1988[207]
+Urdu,Differentiation,Stolz 1996[197],http://wals.info/valuesets/52A-urd,http://wals.info/languoid/lect/wals_code_urd,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[197]
+Urubú-Kaapor,Differentiation,Stolz 1996[194],http://wals.info/valuesets/52A-urk,http://wals.info/languoid/lect/wals_code_urk,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[194]
+Usarufa,Differentiation,Bee 1973[250-251],http://wals.info/valuesets/52A-usr,http://wals.info/languoid/lect/wals_code_usr,http://wals.info/feature/52A,http://wals.info/refdb/record/Bee-1973[250-251]
+Uzbek,Mixed,Sjoberg 1963[145];Kononov 1960[101],http://wals.info/valuesets/52A-uzb,http://wals.info/languoid/lect/wals_code_uzb,http://wals.info/feature/52A,http://wals.info/refdb/record/Sjoberg-1963[145];http://wals.info/refdb/record/Kononov-1960[101]
+Vai,Differentiation,Stolz 1996[191],http://wals.info/valuesets/52A-vai,http://wals.info/languoid/lect/wals_code_vai,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[191]
+Venda,Differentiation,Stolz 1996[191],http://wals.info/valuesets/52A-ven,http://wals.info/languoid/lect/wals_code_ven,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[191]
+Votic,Mixed,Laanest 1982,http://wals.info/valuesets/52A-vot,http://wals.info/languoid/lect/wals_code_vot,http://wals.info/feature/52A,http://wals.info/refdb/record/Laanest-1982
+Wangkumara,Differentiation,McDonald and Wurm 1979[26-27],http://wals.info/valuesets/52A-wan,http://wals.info/languoid/lect/wals_code_wan,http://wals.info/feature/52A,http://wals.info/refdb/record/McDonald-and-Wurm-1979[26-27]
+Warao,Differentiation,Vaquero 1965,http://wals.info/valuesets/52A-wra,http://wals.info/languoid/lect/wals_code_wra,http://wals.info/feature/52A,http://wals.info/refdb/record/Vaquero-1965
+Warrgamay,Differentiation,Dixon 1981[28-33],http://wals.info/valuesets/52A-wrg,http://wals.info/languoid/lect/wals_code_wrg,http://wals.info/feature/52A,http://wals.info/refdb/record/Dixon-1981[28-33]
+Warrwa,Differentiation,"McGregor 1994[18, 26]",http://wals.info/valuesets/52A-wrw,http://wals.info/languoid/lect/wals_code_wrw,http://wals.info/feature/52A,"http://wals.info/refdb/record/McGregor-1994[18, 26]"
+Waskia,Differentiation,Ross and Paol 1978[73-74],http://wals.info/valuesets/52A-wsk,http://wals.info/languoid/lect/wals_code_wsk,http://wals.info/feature/52A,http://wals.info/refdb/record/Ross-and-Paol-1978[73-74]
+Wayampi,Differentiation,Grenand 1980[62-63],http://wals.info/valuesets/52A-way,http://wals.info/languoid/lect/wals_code_way,http://wals.info/feature/52A,http://wals.info/refdb/record/Grenand-1980[62-63]
+Welsh,Mixed,Williams 1980b,http://wals.info/valuesets/52A-wel,http://wals.info/languoid/lect/wals_code_wel,http://wals.info/feature/52A,http://wals.info/refdb/record/Williams-1980b
+Wichí,Differentiation,Tovar 1981[227],http://wals.info/valuesets/52A-wch,http://wals.info/languoid/lect/wals_code_wch,http://wals.info/feature/52A,http://wals.info/refdb/record/Tovar-1981[227]
+Wintu,Differentiation,Shepherd 1989[passim],http://wals.info/valuesets/52A-win,http://wals.info/languoid/lect/wals_code_win,http://wals.info/feature/52A,http://wals.info/refdb/record/Shepherd-1989[passim]
+/Xam,Identity,Stolz 1996[185],http://wals.info/valuesets/52A-xam,http://wals.info/languoid/lect/wals_code_xam,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[185]
+Yakut,Differentiation,Stachowski and Menz 1998,http://wals.info/valuesets/52A-ykt,http://wals.info/languoid/lect/wals_code_ykt,http://wals.info/feature/52A,http://wals.info/refdb/record/Stachowski-and-Menz-1998
+Yaqui,Differentiation,Johnson 1962,http://wals.info/valuesets/52A-yaq,http://wals.info/languoid/lect/wals_code_yaq,http://wals.info/feature/52A,http://wals.info/refdb/record/Johnson-1962
+Yelî Dnye,Differentiation,"Henderson 1995[64, 68]",http://wals.info/valuesets/52A-yel,http://wals.info/languoid/lect/wals_code_yel,http://wals.info/feature/52A,"http://wals.info/refdb/record/Henderson-1995[64, 68]"
+Yir Yiront,Differentiation,Stolz 1996[200],http://wals.info/valuesets/52A-yir,http://wals.info/languoid/lect/wals_code_yir,http://wals.info/feature/52A,http://wals.info/refdb/record/Stolz-1996[200]
+Yoruba,Differentiation,Ashiwaju 1968,http://wals.info/valuesets/52A-yor,http://wals.info/languoid/lect/wals_code_yor,http://wals.info/feature/52A,http://wals.info/refdb/record/Ashiwaju-1968
+Yucatec,Identity,,http://wals.info/valuesets/52A-yct,http://wals.info/languoid/lect/wals_code_yct,http://wals.info/feature/52A,
+Yukaghir (Kolyma),Differentiation,Maslova 1999,http://wals.info/valuesets/52A-yko,http://wals.info/languoid/lect/wals_code_yko,http://wals.info/feature/52A,http://wals.info/refdb/record/Maslova-1999
+Yukulta,Differentiation,"Keen 1983[203, 210]",http://wals.info/valuesets/52A-yuk,http://wals.info/languoid/lect/wals_code_yuk,http://wals.info/feature/52A,"http://wals.info/refdb/record/Keen-1983[203, 210]"
+Yup'ik (Central),Differentiation,Jacobson 1995,http://wals.info/valuesets/52A-ypk,http://wals.info/languoid/lect/wals_code_ypk,http://wals.info/feature/52A,http://wals.info/refdb/record/Jacobson-1995
+Zapotec (Yatzachi),Mixed,Butler 1980[247],http://wals.info/valuesets/52A-zya,http://wals.info/languoid/lect/wals_code_zya,http://wals.info/feature/52A,http://wals.info/refdb/record/Butler-1980[247]
+Zazaki,Identity,Paul 1998[292],http://wals.info/valuesets/52A-zaz,http://wals.info/languoid/lect/wals_code_zaz,http://wals.info/feature/52A,http://wals.info/refdb/record/Paul-1998[292]
+Zoque (Chimalapa),Differentiation,Knudson 1980[passim],http://wals.info/valuesets/52A-zch,http://wals.info/languoid/lect/wals_code_zch,http://wals.info/feature/52A,http://wals.info/refdb/record/Knudson-1980[passim]

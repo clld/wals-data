@@ -1,0 +1,6 @@
+LANGUAGE_NAME,VALUE,SOURCE_NAME,ID,LANGUAGE_ID,FEATURE_ID,SOURCE
+Jamsay,Double-headed or internally-headed,Heath 2008[479-480],http://wals.info/valuesets/90G-jms,http://wals.info/languoid/lect/wals_code_jms,http://wals.info/feature/90G,http://wals.info/refdb/record/Heath-2008[479-480]
+Kobon,Double-headed or RelN,"Davies 1981b[ 29, 58]",http://wals.info/valuesets/90G-kob,http://wals.info/languoid/lect/wals_code_kob,http://wals.info/feature/90G,"http://wals.info/refdb/record/Davies-1981b[ 29, 58]"
+Kombai,Double-headed dominant,de Vries 1989[ 189],http://wals.info/valuesets/90G-kmb,http://wals.info/languoid/lect/wals_code_kmb,http://wals.info/feature/90G,http://wals.info/refdb/record/de-Vries-1989[ 189]
+Mina,Double-headed as nondominant type,Frajzyngier and Johnston 2005[ 436],http://wals.info/valuesets/90G-hna,http://wals.info/languoid/lect/wals_code_hna,http://wals.info/feature/90G,http://wals.info/refdb/record/Frajzyngier-and-Johnston-2005[ 436]
+Yagaria,Double-headed as nondominant type,"Renck 1975[ 173, 206-208]",http://wals.info/valuesets/90G-ygr,http://wals.info/languoid/lect/wals_code_ygr,http://wals.info/feature/90G,"http://wals.info/refdb/record/Renck-1975[ 173, 206-208]"

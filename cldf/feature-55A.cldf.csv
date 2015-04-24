@@ -1,0 +1,401 @@
+LANGUAGE_NAME,VALUE,SOURCE_NAME,ID,LANGUAGE_ID,FEATURE_ID,SOURCE
+Abkhaz,Absent,,http://wals.info/valuesets/55A-abk,http://wals.info/languoid/lect/wals_code_abk,http://wals.info/feature/55A,
+Abun,Obligatory,Berry and Berry 1999[92-93],http://wals.info/valuesets/55A-abu,http://wals.info/languoid/lect/wals_code_abu,http://wals.info/feature/55A,http://wals.info/refdb/record/Berry-and-Berry-1999[92-93]
+Acoma,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-aco,http://wals.info/languoid/lect/wals_code_aco,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Ainu,Optional,Nichols 1992[295];Refsing 1986[115-116],http://wals.info/valuesets/55A-ain,http://wals.info/languoid/lect/wals_code_ain,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[295];http://wals.info/refdb/record/Refsing-1986[115-116]
+Alagwa,Absent,,http://wals.info/valuesets/55A-agw,http://wals.info/languoid/lect/wals_code_agw,http://wals.info/feature/55A,
+Alamblak,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-ala,http://wals.info/languoid/lect/wals_code_ala,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Albanian,Absent,,http://wals.info/valuesets/55A-alb,http://wals.info/languoid/lect/wals_code_alb,http://wals.info/feature/55A,
+Alune,Obligatory,,http://wals.info/valuesets/55A-aln,http://wals.info/languoid/lect/wals_code_aln,http://wals.info/feature/55A,
+Amarakaeri,Absent,Derbyshire and Payne 1990[260],http://wals.info/valuesets/55A-amk,http://wals.info/languoid/lect/wals_code_amk,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[260]
+Ambae (Lolovoli Northeast),Absent,Hyslop 2001,http://wals.info/valuesets/55A-aml,http://wals.info/languoid/lect/wals_code_aml,http://wals.info/feature/55A,http://wals.info/refdb/record/Hyslop-2001
+Ambulas,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-amb,http://wals.info/languoid/lect/wals_code_amb,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Amele,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-ame,http://wals.info/languoid/lect/wals_code_ame,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Amharic,Absent,Nichols 1992[295],http://wals.info/valuesets/55A-amh,http://wals.info/languoid/lect/wals_code_amh,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[295]
+Amis,Absent,,http://wals.info/valuesets/55A-ami,http://wals.info/languoid/lect/wals_code_ami,http://wals.info/feature/55A,
+Apurinã,Absent,Derbyshire and Payne 1990[248-249],http://wals.info/valuesets/55A-apu,http://wals.info/languoid/lect/wals_code_apu,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[248-249]
+Arabela,Absent,Derbyshire and Payne 1990[256],http://wals.info/valuesets/55A-arb,http://wals.info/languoid/lect/wals_code_arb,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[256]
+Arabic (Egyptian),Absent,,http://wals.info/valuesets/55A-aeg,http://wals.info/languoid/lect/wals_code_aeg,http://wals.info/feature/55A,
+Arabic (Kormakiti),Absent,,http://wals.info/valuesets/55A-ako,http://wals.info/languoid/lect/wals_code_ako,http://wals.info/feature/55A,
+Arabic (Moroccan),Absent,Harrell et al. 1965,http://wals.info/valuesets/55A-amr,http://wals.info/languoid/lect/wals_code_amr,http://wals.info/feature/55A,http://wals.info/refdb/record/Harrell-et-al-1965
+Arawak,Absent,,http://wals.info/valuesets/55A-ara,http://wals.info/languoid/lect/wals_code_ara,http://wals.info/feature/55A,
+Arbore,Absent,Hayward 1984[208-214],http://wals.info/valuesets/55A-abo,http://wals.info/languoid/lect/wals_code_abo,http://wals.info/feature/55A,http://wals.info/refdb/record/Hayward-1984[208-214]
+Armenian (Eastern),Absent,Kozintseva 1995[11-12];Nichols 1992[295],http://wals.info/valuesets/55A-arm,http://wals.info/languoid/lect/wals_code_arm,http://wals.info/feature/55A,http://wals.info/refdb/record/Kozintseva-1995[11-12];http://wals.info/refdb/record/Nichols-1992[295]
+Armenian (Iranian),Optional,,http://wals.info/valuesets/55A-arz,http://wals.info/languoid/lect/wals_code_arz,http://wals.info/feature/55A,
+Arosi,Absent,Capell 1971,http://wals.info/valuesets/55A-aro,http://wals.info/languoid/lect/wals_code_aro,http://wals.info/feature/55A,http://wals.info/refdb/record/Capell-1971
+Assamese,Obligatory,,http://wals.info/valuesets/55A-ass,http://wals.info/languoid/lect/wals_code_ass,http://wals.info/feature/55A,
+Atakapa,Absent,Nichols 1992[301],http://wals.info/valuesets/55A-atk,http://wals.info/languoid/lect/wals_code_atk,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[301]
+Atayal,Absent,,http://wals.info/valuesets/55A-ata,http://wals.info/languoid/lect/wals_code_ata,http://wals.info/feature/55A,
+Athpare,Obligatory,Noonan 2003c,http://wals.info/valuesets/55A-ath,http://wals.info/languoid/lect/wals_code_ath,http://wals.info/feature/55A,http://wals.info/refdb/record/Noonan-2003c
+Avar,Absent,,http://wals.info/valuesets/55A-ava,http://wals.info/languoid/lect/wals_code_ava,http://wals.info/feature/55A,
+Awtuw,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-awt,http://wals.info/languoid/lect/wals_code_awt,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Azerbaijani,Optional,Householder and Lofti 1965[122-123],http://wals.info/valuesets/55A-aze,http://wals.info/languoid/lect/wals_code_aze,http://wals.info/feature/55A,http://wals.info/refdb/record/Householder-and-Lofti-1965[122-123]
+Bagvalal,Absent,Kibrik 2001[155-159],http://wals.info/valuesets/55A-bgv,http://wals.info/languoid/lect/wals_code_bgv,http://wals.info/feature/55A,http://wals.info/refdb/record/Kibrik-2001[155-159]
+Bajau (Semporna),Optional,Omar 1983[145-147],http://wals.info/valuesets/55A-bjs,http://wals.info/languoid/lect/wals_code_bjs,http://wals.info/feature/55A,http://wals.info/refdb/record/Omar-1983[145-147]
+Balinese,Optional,,http://wals.info/valuesets/55A-bal,http://wals.info/languoid/lect/wals_code_bal,http://wals.info/feature/55A,
+Baniwa,Obligatory,Aikhenvald 1998[298],http://wals.info/valuesets/55A-bnw,http://wals.info/languoid/lect/wals_code_bnw,http://wals.info/feature/55A,http://wals.info/refdb/record/Aikhenvald-1998[298]
+Baragaunle,Absent,Noonan 2003c,http://wals.info/valuesets/55A-brl,http://wals.info/languoid/lect/wals_code_brl,http://wals.info/feature/55A,http://wals.info/refdb/record/Noonan-2003c
+Baré,Absent,Aikhenvald 1999[410];Aikhenvald 1996[21-22],http://wals.info/valuesets/55A-bae,http://wals.info/languoid/lect/wals_code_bae,http://wals.info/feature/55A,http://wals.info/refdb/record/Aikhenvald-1999[410];http://wals.info/refdb/record/Aikhenvald-1996[21-22]
+Basque,Absent,Nichols 1992[295],http://wals.info/valuesets/55A-bsq,http://wals.info/languoid/lect/wals_code_bsq,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[295]
+Batak (Karo),Optional,Woollams 1996[131-133],http://wals.info/valuesets/55A-bkr,http://wals.info/languoid/lect/wals_code_bkr,http://wals.info/feature/55A,http://wals.info/refdb/record/Woollams-1996[131-133]
+Begak-Ida'an,Optional,,http://wals.info/valuesets/55A-beg,http://wals.info/languoid/lect/wals_code_beg,http://wals.info/feature/55A,
+Belhare,Obligatory,,http://wals.info/valuesets/55A-bel,http://wals.info/languoid/lect/wals_code_bel,http://wals.info/feature/55A,
+Bengali,Obligatory,,http://wals.info/valuesets/55A-ben,http://wals.info/languoid/lect/wals_code_ben,http://wals.info/feature/55A,
+Biatah,Optional,Omar 1983[474-475],http://wals.info/valuesets/55A-bit,http://wals.info/languoid/lect/wals_code_bit,http://wals.info/feature/55A,http://wals.info/refdb/record/Omar-1983[474-475]
+Boko,Obligatory,Jones 1998b[128],http://wals.info/valuesets/55A-bok,http://wals.info/languoid/lect/wals_code_bok,http://wals.info/feature/55A,http://wals.info/refdb/record/Jones-1998b[128]
+Bora,Optional,Derbyshire and Payne 1990[257],http://wals.info/valuesets/55A-bor,http://wals.info/languoid/lect/wals_code_bor,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[257]
+Brahui,Absent,Bray 1909,http://wals.info/valuesets/55A-brh,http://wals.info/languoid/lect/wals_code_brh,http://wals.info/feature/55A,http://wals.info/refdb/record/Bray-1909
+Bulgarian,Absent,,http://wals.info/valuesets/55A-bul,http://wals.info/languoid/lect/wals_code_bul,http://wals.info/feature/55A,
+Buriat,Absent,Poppe 1960[110],http://wals.info/valuesets/55A-but,http://wals.info/languoid/lect/wals_code_but,http://wals.info/feature/55A,http://wals.info/refdb/record/Poppe-1960[110]
+Burmese,Obligatory,Okell 1969,http://wals.info/valuesets/55A-brm,http://wals.info/languoid/lect/wals_code_brm,http://wals.info/feature/55A,http://wals.info/refdb/record/Okell-1969
+Burushaski,Absent,,http://wals.info/valuesets/55A-bur,http://wals.info/languoid/lect/wals_code_bur,http://wals.info/feature/55A,
+Canela-Krahô,Absent,Nichols 1992[301],http://wals.info/valuesets/55A-ckr,http://wals.info/languoid/lect/wals_code_ckr,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[301]
+Cantonese,Obligatory,,http://wals.info/valuesets/55A-cnt,http://wals.info/languoid/lect/wals_code_cnt,http://wals.info/feature/55A,
+Capanahua,Absent,Derbyshire and Payne 1990[264],http://wals.info/valuesets/55A-cap,http://wals.info/languoid/lect/wals_code_cap,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[264]
+Carrier,Obligatory,,http://wals.info/valuesets/55A-crq,http://wals.info/languoid/lect/wals_code_crq,http://wals.info/feature/55A,
+Cayuvava,Absent,Nichols 1992[301];Aikhenvald and Dixon 1999[369],http://wals.info/valuesets/55A-cyv,http://wals.info/languoid/lect/wals_code_cyv,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[301];http://wals.info/refdb/record/Aikhenvald-and-Dixon-1999[369]
+Cham (Eastern),Obligatory,Alieva and Bùi Khánh Thê 1999,http://wals.info/valuesets/55A-cme,http://wals.info/languoid/lect/wals_code_cme,http://wals.info/feature/55A,http://wals.info/refdb/record/Alieva-and-Bui-Khanh-The-1999
+Chamorro,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-cha,http://wals.info/languoid/lect/wals_code_cha,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Cham (Western),Obligatory,Baumgartner 1998[11],http://wals.info/valuesets/55A-chw,http://wals.info/languoid/lect/wals_code_chw,http://wals.info/feature/55A,http://wals.info/refdb/record/Baumgartner-1998[11]
+Chantyal,Optional,Noonan 2003c,http://wals.info/valuesets/55A-chn,http://wals.info/languoid/lect/wals_code_chn,http://wals.info/feature/55A,http://wals.info/refdb/record/Noonan-2003c
+Chayahuita,Optional,Derbyshire and Payne 1990[258-259],http://wals.info/valuesets/55A-chy,http://wals.info/languoid/lect/wals_code_chy,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[258-259]
+Chechen,Absent,Nichols 1992[295],http://wals.info/valuesets/55A-chc,http://wals.info/languoid/lect/wals_code_chc,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[295]
+Chepang,Absent,Noonan 2003c,http://wals.info/valuesets/55A-cpn,http://wals.info/languoid/lect/wals_code_cpn,http://wals.info/feature/55A,http://wals.info/refdb/record/Noonan-2003c
+Chichimeca-Jonaz,Absent,Nichols 1992[301],http://wals.info/valuesets/55A-cjo,http://wals.info/languoid/lect/wals_code_cjo,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[301]
+Chimariko,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-chi,http://wals.info/languoid/lect/wals_code_chi,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Chinook (Upper),Absent,Nichols 1992[299],http://wals.info/valuesets/55A-cku,http://wals.info/languoid/lect/wals_code_cku,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Chitimacha,Absent,Nichols 1992[301],http://wals.info/valuesets/55A-ctm,http://wals.info/languoid/lect/wals_code_ctm,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[301]
+Choctaw,Absent,Nichols 1992[301],http://wals.info/valuesets/55A-cct,http://wals.info/languoid/lect/wals_code_cct,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[301]
+Chontal (Huamelultec Oaxaca),Obligatory,Nichols 1992[301],http://wals.info/valuesets/55A-chx,http://wals.info/languoid/lect/wals_code_chx,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[301]
+Chukchi,Absent,Nichols 1992[295],http://wals.info/valuesets/55A-chk,http://wals.info/languoid/lect/wals_code_chk,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[295]
+Chumash (Barbareño),Absent,,http://wals.info/valuesets/55A-cba,http://wals.info/languoid/lect/wals_code_cba,http://wals.info/feature/55A,
+Chumash (Ineseño),Absent,Nichols 1992[299],http://wals.info/valuesets/55A-cin,http://wals.info/languoid/lect/wals_code_cin,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Chuukese,Obligatory,Lynch 1998[120],http://wals.info/valuesets/55A-cuu,http://wals.info/languoid/lect/wals_code_cuu,http://wals.info/feature/55A,http://wals.info/refdb/record/Lynch-1998[120]
+Chuvash,Absent,Krueger 1961[172-173],http://wals.info/valuesets/55A-chv,http://wals.info/languoid/lect/wals_code_chv,http://wals.info/feature/55A,http://wals.info/refdb/record/Krueger-1961[172-173]
+Coos (Hanis),Absent,Nichols 1992[299],http://wals.info/valuesets/55A-coo,http://wals.info/languoid/lect/wals_code_coo,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Cree (Plains),Absent,Nichols 1992[301],http://wals.info/valuesets/55A-cre,http://wals.info/languoid/lect/wals_code_cre,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[301]
+Culina,Absent,Derbyshire and Payne 1990[249-252],http://wals.info/valuesets/55A-cul,http://wals.info/languoid/lect/wals_code_cul,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[249-252]
+Dagaare,Absent,Bodomo 1997,http://wals.info/valuesets/55A-dga,http://wals.info/languoid/lect/wals_code_dga,http://wals.info/feature/55A,http://wals.info/refdb/record/Bodomo-1997
+Dargwa,Absent,,http://wals.info/valuesets/55A-drg,http://wals.info/languoid/lect/wals_code_drg,http://wals.info/feature/55A,
+Datooga,Absent,,http://wals.info/valuesets/55A-dat,http://wals.info/languoid/lect/wals_code_dat,http://wals.info/feature/55A,
+Dení,Absent,Derbyshire and Payne 1990[249-252],http://wals.info/valuesets/55A-den,http://wals.info/languoid/lect/wals_code_den,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[249-252]
+Dizi,Absent,Nichols 1992[295],http://wals.info/valuesets/55A-diz,http://wals.info/languoid/lect/wals_code_diz,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[295]
+Djingili,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-dji,http://wals.info/languoid/lect/wals_code_dji,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Dobel,Optional,Hughes 2000,http://wals.info/valuesets/55A-dob,http://wals.info/languoid/lect/wals_code_dob,http://wals.info/feature/55A,http://wals.info/refdb/record/Hughes-2000
+Drehu,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-dre,http://wals.info/languoid/lect/wals_code_dre,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Dumo,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-dum,http://wals.info/languoid/lect/wals_code_dum,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Dyirbal,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-dyi,http://wals.info/languoid/lect/wals_code_dyi,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+English,Absent,,http://wals.info/valuesets/55A-eng,http://wals.info/languoid/lect/wals_code_eng,http://wals.info/feature/55A,
+Epena Pedee,Absent,Harms 1994,http://wals.info/valuesets/55A-epe,http://wals.info/languoid/lect/wals_code_epe,http://wals.info/feature/55A,http://wals.info/refdb/record/Harms-1994
+Erromangan,Absent,Crowley 1998a[165-169],http://wals.info/valuesets/55A-err,http://wals.info/languoid/lect/wals_code_err,http://wals.info/feature/55A,http://wals.info/refdb/record/Crowley-1998a[165-169]
+Evenki,Absent,Nedjalkov 1997,http://wals.info/valuesets/55A-eve,http://wals.info/languoid/lect/wals_code_eve,http://wals.info/feature/55A,http://wals.info/refdb/record/Nedjalkov-1997
+Eyak,Obligatory,Kinkade 2001,http://wals.info/valuesets/55A-eya,http://wals.info/languoid/lect/wals_code_eya,http://wals.info/feature/55A,http://wals.info/refdb/record/Kinkade-2001
+Fijian,Absent,Schütz 1985,http://wals.info/valuesets/55A-fij,http://wals.info/languoid/lect/wals_code_fij,http://wals.info/feature/55A,http://wals.info/refdb/record/Schutz-1985
+Finnish,Absent,,http://wals.info/valuesets/55A-fin,http://wals.info/languoid/lect/wals_code_fin,http://wals.info/feature/55A,
+French,Absent,,http://wals.info/valuesets/55A-fre,http://wals.info/languoid/lect/wals_code_fre,http://wals.info/feature/55A,
+Fula (Mauritanian),Absent,,http://wals.info/valuesets/55A-fma,http://wals.info/languoid/lect/wals_code_fma,http://wals.info/feature/55A,
+Fur,Absent,Nichols 1992[295],http://wals.info/valuesets/55A-fur,http://wals.info/languoid/lect/wals_code_fur,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[295]
+Futuna-Aniwa,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-fut,http://wals.info/languoid/lect/wals_code_fut,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Gaagudju,Absent,Harvey 1992[308-312],http://wals.info/valuesets/55A-gaa,http://wals.info/languoid/lect/wals_code_gaa,http://wals.info/feature/55A,http://wals.info/refdb/record/Harvey-1992[308-312]
+Garo,Obligatory,Burling 1961[50-51],http://wals.info/valuesets/55A-gar,http://wals.info/languoid/lect/wals_code_gar,http://wals.info/feature/55A,http://wals.info/refdb/record/Burling-1961[50-51]
+Garrwa,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-grr,http://wals.info/languoid/lect/wals_code_grr,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Gavião,Absent,Moore 1984,http://wals.info/valuesets/55A-gav,http://wals.info/languoid/lect/wals_code_gav,http://wals.info/feature/55A,http://wals.info/refdb/record/Moore-1984
+Gbeya Bossangoa,Absent,Nichols 1992[295],http://wals.info/valuesets/55A-gbb,http://wals.info/languoid/lect/wals_code_gbb,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[295]
+Georgian,Absent,,http://wals.info/valuesets/55A-geo,http://wals.info/languoid/lect/wals_code_geo,http://wals.info/feature/55A,
+German,Absent,,http://wals.info/valuesets/55A-ger,http://wals.info/languoid/lect/wals_code_ger,http://wals.info/feature/55A,
+Gilaki,Optional,,http://wals.info/valuesets/55A-gil,http://wals.info/languoid/lect/wals_code_gil,http://wals.info/feature/55A,
+Gooniyandi,Absent,McGregor 1990,http://wals.info/valuesets/55A-goo,http://wals.info/languoid/lect/wals_code_goo,http://wals.info/feature/55A,http://wals.info/refdb/record/McGregor-1990
+Guaraní,Absent,Nichols 1992[301],http://wals.info/valuesets/55A-gua,http://wals.info/languoid/lect/wals_code_gua,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[301]
+Guduf,Absent,,http://wals.info/valuesets/55A-gdf,http://wals.info/languoid/lect/wals_code_gdf,http://wals.info/feature/55A,
+Gunin,Absent,McGregor 1993,http://wals.info/valuesets/55A-gnn,http://wals.info/languoid/lect/wals_code_gnn,http://wals.info/feature/55A,http://wals.info/refdb/record/McGregor-1993
+Haida,Optional,Swanton 1911b[277-278],http://wals.info/valuesets/55A-hai,http://wals.info/languoid/lect/wals_code_hai,http://wals.info/feature/55A,http://wals.info/refdb/record/Swanton-1911b[277-278]
+Hatam,Optional,Reesink 1996[10];Reesink 1999[57-58],http://wals.info/valuesets/55A-hat,http://wals.info/languoid/lect/wals_code_hat,http://wals.info/feature/55A,http://wals.info/refdb/record/Reesink-1996[10];http://wals.info/refdb/record/Reesink-1999[57-58]
+Hausa,Absent,Nichols 1992[295],http://wals.info/valuesets/55A-hau,http://wals.info/languoid/lect/wals_code_hau,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[295]
+Hawaiian,Absent,Alexander 1968,http://wals.info/valuesets/55A-haw,http://wals.info/languoid/lect/wals_code_haw,http://wals.info/feature/55A,http://wals.info/refdb/record/Alexander-1968
+Hebrew (Modern),Absent,,http://wals.info/valuesets/55A-heb,http://wals.info/languoid/lect/wals_code_heb,http://wals.info/feature/55A,
+Hindi,Absent,,http://wals.info/valuesets/55A-hin,http://wals.info/languoid/lect/wals_code_hin,http://wals.info/feature/55A,
+Hixkaryana,Absent,Derbyshire and Payne 1990[263];Nichols 1992[301],http://wals.info/valuesets/55A-hix,http://wals.info/languoid/lect/wals_code_hix,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[263];http://wals.info/refdb/record/Nichols-1992[301]
+Hmong Daw,Obligatory,,http://wals.info/valuesets/55A-hmd,http://wals.info/languoid/lect/wals_code_hmd,http://wals.info/feature/55A,
+Hokkien,Optional,,http://wals.info/valuesets/55A-hok,http://wals.info/languoid/lect/wals_code_hok,http://wals.info/feature/55A,
+Hua,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-hua,http://wals.info/languoid/lect/wals_code_hua,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Hungarian,Optional,Beckwith 1992,http://wals.info/valuesets/55A-hun,http://wals.info/languoid/lect/wals_code_hun,http://wals.info/feature/55A,http://wals.info/refdb/record/Beckwith-1992
+Hunzib,Absent,,http://wals.info/valuesets/55A-hzb,http://wals.info/languoid/lect/wals_code_hzb,http://wals.info/feature/55A,
+Hup,Absent,,http://wals.info/valuesets/55A-hpd,http://wals.info/languoid/lect/wals_code_hpd,http://wals.info/feature/55A,
+Hyow,Obligatory,,http://wals.info/valuesets/55A-hyo,http://wals.info/languoid/lect/wals_code_hyo,http://wals.info/feature/55A,
+Iaai,Absent,Ozanne-Rivierre 1976[184],http://wals.info/valuesets/55A-iaa,http://wals.info/languoid/lect/wals_code_iaa,http://wals.info/feature/55A,http://wals.info/refdb/record/Ozanne-Rivierre-1976[184]
+Igbo,Absent,"Welmers 1973[289, 297]",http://wals.info/valuesets/55A-igb,http://wals.info/languoid/lect/wals_code_igb,http://wals.info/feature/55A,"http://wals.info/refdb/record/Welmers-1973[289, 297]"
+Ika,Absent,Frank 1990[30-32],http://wals.info/valuesets/55A-ika,http://wals.info/languoid/lect/wals_code_ika,http://wals.info/feature/55A,http://wals.info/refdb/record/Frank-1990[30-32]
+Imonda,Absent,Seiler 1985[62],http://wals.info/valuesets/55A-imo,http://wals.info/languoid/lect/wals_code_imo,http://wals.info/feature/55A,http://wals.info/refdb/record/Seiler-1985[62]
+Indonesian,Optional,,http://wals.info/valuesets/55A-ind,http://wals.info/languoid/lect/wals_code_ind,http://wals.info/feature/55A,
+Ingush,Absent,Nichols 1994b,http://wals.info/valuesets/55A-ing,http://wals.info/languoid/lect/wals_code_ing,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1994b
+Iraqw,Absent,,http://wals.info/valuesets/55A-irq,http://wals.info/languoid/lect/wals_code_irq,http://wals.info/feature/55A,
+Jahai,Optional,Burenhult 2000,http://wals.info/valuesets/55A-jah,http://wals.info/languoid/lect/wals_code_jah,http://wals.info/feature/55A,http://wals.info/refdb/record/Burenhult-2000
+Jakaltek,Obligatory,Craig 1986;Suárez 1983b[88],http://wals.info/valuesets/55A-jak,http://wals.info/languoid/lect/wals_code_jak,http://wals.info/feature/55A,http://wals.info/refdb/record/Craig-1986;http://wals.info/refdb/record/Suarez-1983b[88]
+Jamamadi,Absent,Derbyshire and Payne 1990[249-252],http://wals.info/valuesets/55A-jmm,http://wals.info/languoid/lect/wals_code_jmm,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[249-252]
+Jaminjung,Absent,,http://wals.info/valuesets/55A-jam,http://wals.info/languoid/lect/wals_code_jam,http://wals.info/feature/55A,
+Japanese,Obligatory,,http://wals.info/valuesets/55A-jpn,http://wals.info/languoid/lect/wals_code_jpn,http://wals.info/feature/55A,
+Jaqaru,Absent,Nichols 1992[301],http://wals.info/valuesets/55A-jaq,http://wals.info/languoid/lect/wals_code_jaq,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[301]
+Javanese,Optional,Robson 1992[77],http://wals.info/valuesets/55A-jav,http://wals.info/languoid/lect/wals_code_jav,http://wals.info/feature/55A,http://wals.info/refdb/record/Robson-1992[77]
+Jivaro,Absent,Nichols 1992[301],http://wals.info/valuesets/55A-jiv,http://wals.info/languoid/lect/wals_code_jiv,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[301]
+Ju|'hoan,Absent,Nichols 1992[295],http://wals.info/valuesets/55A-juh,http://wals.info/languoid/lect/wals_code_juh,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[295]
+Kalapuya,Obligatory,Kinkade 2001,http://wals.info/valuesets/55A-klp,http://wals.info/languoid/lect/wals_code_klp,http://wals.info/feature/55A,http://wals.info/refdb/record/Kinkade-2001
+Kambera,Obligatory,Klamer 1998[136-141],http://wals.info/valuesets/55A-kam,http://wals.info/languoid/lect/wals_code_kam,http://wals.info/feature/55A,http://wals.info/refdb/record/Klamer-1998[136-141]
+Kana,Obligatory,Ikoro 1996;Ikoro 1994[12],http://wals.info/valuesets/55A-kan,http://wals.info/languoid/lect/wals_code_kan,http://wals.info/feature/55A,http://wals.info/refdb/record/Ikoro-1996;http://wals.info/refdb/record/Ikoro-1994[12]
+Kannada,Absent,,http://wals.info/valuesets/55A-knd,http://wals.info/languoid/lect/wals_code_knd,http://wals.info/feature/55A,
+Kanuri,Absent,Cyffer 1998,http://wals.info/valuesets/55A-knr,http://wals.info/languoid/lect/wals_code_knr,http://wals.info/feature/55A,http://wals.info/refdb/record/Cyffer-1998
+Karok,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-krk,http://wals.info/languoid/lect/wals_code_krk,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Kâte,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-kat,http://wals.info/languoid/lect/wals_code_kat,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Kayah Li (Eastern),Obligatory,,http://wals.info/valuesets/55A-kyl,http://wals.info/languoid/lect/wals_code_kyl,http://wals.info/feature/55A,
+Kayan (Baram),Optional,Omar 1983[533],http://wals.info/valuesets/55A-kbr,http://wals.info/languoid/lect/wals_code_kbr,http://wals.info/feature/55A,http://wals.info/refdb/record/Omar-1983[533]
+Kayu Agung,Optional,"Gani et al. 1986[88, 110, 122]",http://wals.info/valuesets/55A-kag,http://wals.info/languoid/lect/wals_code_kag,http://wals.info/feature/55A,"http://wals.info/refdb/record/Gani-et-al-1986[88, 110, 122]"
+Kei,Obligatory,,http://wals.info/valuesets/55A-kei,http://wals.info/languoid/lect/wals_code_kei,http://wals.info/feature/55A,
+Kelabit,Absent,Omar 1983[562],http://wals.info/valuesets/55A-klt,http://wals.info/languoid/lect/wals_code_klt,http://wals.info/feature/55A,http://wals.info/refdb/record/Omar-1983[562]
+Kenyah (Uma' Lung),Optional,,http://wals.info/valuesets/55A-keu,http://wals.info/languoid/lect/wals_code_keu,http://wals.info/feature/55A,
+Ke'o,Obligatory,Baird 2001,http://wals.info/valuesets/55A-keo,http://wals.info/languoid/lect/wals_code_keo,http://wals.info/feature/55A,http://wals.info/refdb/record/Baird-2001
+Ketapang,Obligatory,,http://wals.info/valuesets/55A-ktp,http://wals.info/languoid/lect/wals_code_ktp,http://wals.info/feature/55A,
+Kewa,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-kew,http://wals.info/languoid/lect/wals_code_kew,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Khalkha,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-kha,http://wals.info/languoid/lect/wals_code_kha,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Kham,Obligatory,Noonan 2003c,http://wals.info/valuesets/55A-kmh,http://wals.info/languoid/lect/wals_code_kmh,http://wals.info/feature/55A,http://wals.info/refdb/record/Noonan-2003c
+Kharia,Optional,,http://wals.info/valuesets/55A-khr,http://wals.info/languoid/lect/wals_code_khr,http://wals.info/feature/55A,
+Khmer,Optional,Ehrman 1972b[17-18],http://wals.info/valuesets/55A-khm,http://wals.info/languoid/lect/wals_code_khm,http://wals.info/feature/55A,http://wals.info/refdb/record/Ehrman-1972b[17-18]
+Khmu',Obligatory,,http://wals.info/valuesets/55A-kmu,http://wals.info/languoid/lect/wals_code_kmu,http://wals.info/feature/55A,
+Khoekhoe,Absent,Nichols 1992[295],http://wals.info/valuesets/55A-kho,http://wals.info/languoid/lect/wals_code_kho,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[295]
+Khumi,Obligatory,,http://wals.info/valuesets/55A-khu,http://wals.info/languoid/lect/wals_code_khu,http://wals.info/feature/55A,
+Kilivila,Obligatory,,http://wals.info/valuesets/55A-klv,http://wals.info/languoid/lect/wals_code_klv,http://wals.info/feature/55A,
+Kiowa,Absent,Nichols 1992[301],http://wals.info/valuesets/55A-kio,http://wals.info/languoid/lect/wals_code_kio,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[301]
+Kiribati,Obligatory,Groves et al. 1985[34-38],http://wals.info/valuesets/55A-krb,http://wals.info/languoid/lect/wals_code_krb,http://wals.info/feature/55A,http://wals.info/refdb/record/Groves-et-al-1985[34-38]
+Kiwai,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-kiw,http://wals.info/languoid/lect/wals_code_kiw,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Klamath,Absent,Kinkade 2001,http://wals.info/valuesets/55A-klm,http://wals.info/languoid/lect/wals_code_klm,http://wals.info/feature/55A,http://wals.info/refdb/record/Kinkade-2001
+Kobon,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-kob,http://wals.info/languoid/lect/wals_code_kob,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Koiari,Absent,Dutton 1996,http://wals.info/valuesets/55A-koi,http://wals.info/languoid/lect/wals_code_koi,http://wals.info/feature/55A,http://wals.info/refdb/record/Dutton-1996
+Kombai,Absent,de Vries 1993[39-41],http://wals.info/valuesets/55A-kmb,http://wals.info/languoid/lect/wals_code_kmb,http://wals.info/feature/55A,http://wals.info/refdb/record/de-Vries-1993[39-41]
+Komi-Zyrian,Absent,Nichols 1992[295],http://wals.info/valuesets/55A-kzy,http://wals.info/languoid/lect/wals_code_kzy,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[295]
+Konua,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-knu,http://wals.info/languoid/lect/wals_code_knu,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Korafe,Absent,Farr 1999,http://wals.info/valuesets/55A-krf,http://wals.info/languoid/lect/wals_code_krf,http://wals.info/feature/55A,http://wals.info/refdb/record/Farr-1999
+Korean,Obligatory,,http://wals.info/valuesets/55A-kor,http://wals.info/languoid/lect/wals_code_kor,http://wals.info/feature/55A,
+Korku,Absent,Nagaraja 1999[91],http://wals.info/valuesets/55A-kku,http://wals.info/languoid/lect/wals_code_kku,http://wals.info/feature/55A,http://wals.info/refdb/record/Nagaraja-1999[91]
+Koromfe,Absent,Rennison 1997[233],http://wals.info/valuesets/55A-kfe,http://wals.info/languoid/lect/wals_code_kfe,http://wals.info/feature/55A,http://wals.info/refdb/record/Rennison-1997[233]
+Kosraean,Obligatory,Lee 1975[119-123],http://wals.info/valuesets/55A-kos,http://wals.info/languoid/lect/wals_code_kos,http://wals.info/feature/55A,http://wals.info/refdb/record/Lee-1975[119-123]
+Kota,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-kot,http://wals.info/languoid/lect/wals_code_kot,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Koyra Chiini,Absent,Heath 1999b,http://wals.info/valuesets/55A-kch,http://wals.info/languoid/lect/wals_code_kch,http://wals.info/feature/55A,http://wals.info/refdb/record/Heath-1999b
+Kpelle,Absent,Welmers 1973[294],http://wals.info/valuesets/55A-kpe,http://wals.info/languoid/lect/wals_code_kpe,http://wals.info/feature/55A,http://wals.info/refdb/record/Welmers-1973[294]
+Kualan,Obligatory,,http://wals.info/valuesets/55A-kua,http://wals.info/languoid/lect/wals_code_kua,http://wals.info/feature/55A,
+Kutenai,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-kut,http://wals.info/languoid/lect/wals_code_kut,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Kwaza,Obligatory,,http://wals.info/valuesets/55A-kwz,http://wals.info/languoid/lect/wals_code_kwz,http://wals.info/feature/55A,
+Lachi,Obligatory,,http://wals.info/valuesets/55A-lch,http://wals.info/languoid/lect/wals_code_lch,http://wals.info/feature/55A,
+Lahu,Obligatory,,http://wals.info/valuesets/55A-lah,http://wals.info/languoid/lect/wals_code_lah,http://wals.info/feature/55A,
+Lai,Obligatory,,http://wals.info/valuesets/55A-lai,http://wals.info/languoid/lect/wals_code_lai,http://wals.info/feature/55A,
+Lakhota,Absent,Faltz 1995,http://wals.info/valuesets/55A-lkt,http://wals.info/languoid/lect/wals_code_lkt,http://wals.info/feature/55A,http://wals.info/refdb/record/Faltz-1995
+Lango,Absent,Noonan 1992,http://wals.info/valuesets/55A-lan,http://wals.info/languoid/lect/wals_code_lan,http://wals.info/feature/55A,http://wals.info/refdb/record/Noonan-1992
+Larike,Obligatory,Laidig and Laidig 1995[34],http://wals.info/valuesets/55A-lrk,http://wals.info/languoid/lect/wals_code_lrk,http://wals.info/feature/55A,http://wals.info/refdb/record/Laidig-and-Laidig-1995[34]
+Latvian,Absent,Fennell and Gelsen 1980,http://wals.info/valuesets/55A-lat,http://wals.info/languoid/lect/wals_code_lat,http://wals.info/feature/55A,http://wals.info/refdb/record/Fennell-and-Gelsen-1980
+Leti,Absent,,http://wals.info/valuesets/55A-let,http://wals.info/languoid/lect/wals_code_let,http://wals.info/feature/55A,
+Lezgian,Absent,Haspelmath 1993[561],http://wals.info/valuesets/55A-lez,http://wals.info/languoid/lect/wals_code_lez,http://wals.info/feature/55A,http://wals.info/refdb/record/Haspelmath-1993[561]
+Limbu,Absent,Noonan 2003c,http://wals.info/valuesets/55A-lim,http://wals.info/languoid/lect/wals_code_lim,http://wals.info/feature/55A,http://wals.info/refdb/record/Noonan-2003c
+Loniu,Obligatory,Hamel 1994[54-66],http://wals.info/valuesets/55A-lon,http://wals.info/languoid/lect/wals_code_lon,http://wals.info/feature/55A,http://wals.info/refdb/record/Hamel-1994[54-66]
+Loven,Obligatory,,http://wals.info/valuesets/55A-lov,http://wals.info/languoid/lect/wals_code_lov,http://wals.info/feature/55A,
+Lucazi,Absent,Fleisch 2001[101-103],http://wals.info/valuesets/55A-luc,http://wals.info/languoid/lect/wals_code_luc,http://wals.info/feature/55A,http://wals.info/refdb/record/Fleisch-2001[101-103]
+Luganda,Absent,Welmers 1973[293],http://wals.info/valuesets/55A-lda,http://wals.info/languoid/lect/wals_code_lda,http://wals.info/feature/55A,http://wals.info/refdb/record/Welmers-1973[293]
+Lugbara,Absent,Nichols 1992[295],http://wals.info/valuesets/55A-lug,http://wals.info/languoid/lect/wals_code_lug,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[295]
+Luiseño,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-lui,http://wals.info/languoid/lect/wals_code_lui,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Lun Dayeh,Optional,Omar 1983[319-320],http://wals.info/valuesets/55A-lud,http://wals.info/languoid/lect/wals_code_lud,http://wals.info/feature/55A,http://wals.info/refdb/record/Omar-1983[319-320]
+Luo,Absent,Tucker 1994[265-268],http://wals.info/valuesets/55A-luo,http://wals.info/languoid/lect/wals_code_luo,http://wals.info/feature/55A,http://wals.info/refdb/record/Tucker-1994[265-268]
+Luri,Optional,,http://wals.info/valuesets/55A-lur,http://wals.info/languoid/lect/wals_code_lur,http://wals.info/feature/55A,
+Maasai,Absent,Nichols 1992[295],http://wals.info/valuesets/55A-maa,http://wals.info/languoid/lect/wals_code_maa,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[295]
+Magar (Syangja),Absent,Noonan 2003c,http://wals.info/valuesets/55A-msy,http://wals.info/languoid/lect/wals_code_msy,http://wals.info/feature/55A,http://wals.info/refdb/record/Noonan-2003c
+Mah Meri,Optional,,http://wals.info/valuesets/55A-mhm,http://wals.info/languoid/lect/wals_code_mhm,http://wals.info/feature/55A,
+Maidu (Northeast),Absent,Nichols 1992[299],http://wals.info/valuesets/55A-mne,http://wals.info/languoid/lect/wals_code_mne,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Makassar,Optional,,http://wals.info/valuesets/55A-mks,http://wals.info/languoid/lect/wals_code_mks,http://wals.info/feature/55A,
+Máku,Absent,Aikhenvald and Dixon 1999[362],http://wals.info/valuesets/55A-mkw,http://wals.info/languoid/lect/wals_code_mkw,http://wals.info/feature/55A,http://wals.info/refdb/record/Aikhenvald-and-Dixon-1999[362]
+Malagasy,Absent,,http://wals.info/valuesets/55A-mal,http://wals.info/languoid/lect/wals_code_mal,http://wals.info/feature/55A,
+Malakmalak,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-mlk,http://wals.info/languoid/lect/wals_code_mlk,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Malayalam,Absent,,http://wals.info/valuesets/55A-mym,http://wals.info/languoid/lect/wals_code_mym,http://wals.info/feature/55A,
+Mali,Absent,Stebbins 2002,http://wals.info/valuesets/55A-mli,http://wals.info/languoid/lect/wals_code_mli,http://wals.info/feature/55A,http://wals.info/refdb/record/Stebbins-2002
+Mandan,Absent,Mixco 1997,http://wals.info/valuesets/55A-mdn,http://wals.info/languoid/lect/wals_code_mdn,http://wals.info/feature/55A,http://wals.info/refdb/record/Mixco-1997
+Mandar,Optional,Muthalib et al. 1992,http://wals.info/valuesets/55A-mnr,http://wals.info/languoid/lect/wals_code_mnr,http://wals.info/feature/55A,http://wals.info/refdb/record/Muthalib-et-al-1992
+Mandarin,Obligatory,,http://wals.info/valuesets/55A-mnd,http://wals.info/languoid/lect/wals_code_mnd,http://wals.info/feature/55A,
+Mandinka,Absent,Nichols 1992[295],http://wals.info/valuesets/55A-mdk,http://wals.info/languoid/lect/wals_code_mdk,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[295]
+Mangarrayi,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-myi,http://wals.info/languoid/lect/wals_code_myi,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Mapudungun,Absent,Nichols 1992[301],http://wals.info/valuesets/55A-map,http://wals.info/languoid/lect/wals_code_map,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[301]
+Marathi,Absent,,http://wals.info/valuesets/55A-mhi,http://wals.info/languoid/lect/wals_code_mhi,http://wals.info/feature/55A,
+Margi,Absent,Hoffmann 1963,http://wals.info/valuesets/55A-mrg,http://wals.info/languoid/lect/wals_code_mrg,http://wals.info/feature/55A,http://wals.info/refdb/record/Hoffmann-1963
+Maricopa,Absent,,http://wals.info/valuesets/55A-mar,http://wals.info/languoid/lect/wals_code_mar,http://wals.info/feature/55A,
+Martuthunira,Absent,Dench 1995,http://wals.info/valuesets/55A-mrt,http://wals.info/languoid/lect/wals_code_mrt,http://wals.info/feature/55A,http://wals.info/refdb/record/Dench-1995
+Maung,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-mau,http://wals.info/languoid/lect/wals_code_mau,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Maybrat,Optional,Dol 1999[144];Reesink 1996[9-10],http://wals.info/valuesets/55A-may,http://wals.info/languoid/lect/wals_code_may,http://wals.info/feature/55A,http://wals.info/refdb/record/Dol-1999[144];http://wals.info/refdb/record/Reesink-1996[9-10]
+Mazanderani,Optional,,http://wals.info/valuesets/55A-mzn,http://wals.info/languoid/lect/wals_code_mzn,http://wals.info/feature/55A,
+Mbugu,Absent,,http://wals.info/valuesets/55A-mbg,http://wals.info/languoid/lect/wals_code_mbg,http://wals.info/feature/55A,
+Me'en,Absent,Will 1989,http://wals.info/valuesets/55A-mee,http://wals.info/languoid/lect/wals_code_mee,http://wals.info/feature/55A,http://wals.info/refdb/record/Will-1989
+Melanau,Optional,Omar 1983[625],http://wals.info/valuesets/55A-mel,http://wals.info/languoid/lect/wals_code_mel,http://wals.info/feature/55A,http://wals.info/refdb/record/Omar-1983[625]
+Mende,Absent,Innes 1971,http://wals.info/valuesets/55A-mde,http://wals.info/languoid/lect/wals_code_mde,http://wals.info/feature/55A,http://wals.info/refdb/record/Innes-1971
+Minangkabau,Optional,,http://wals.info/valuesets/55A-min,http://wals.info/languoid/lect/wals_code_min,http://wals.info/feature/55A,
+Miskito,Absent,Nichols 1992[301],http://wals.info/valuesets/55A-mis,http://wals.info/languoid/lect/wals_code_mis,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[301]
+Mituku,Absent,Stappers 1973[34-36],http://wals.info/valuesets/55A-mit,http://wals.info/languoid/lect/wals_code_mit,http://wals.info/feature/55A,http://wals.info/refdb/record/Stappers-1973[34-36]
+Miwok (Southern Sierra),Absent,Nichols 1992[299],http://wals.info/valuesets/55A-mss,http://wals.info/languoid/lect/wals_code_mss,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Mixtec (Chalcatongo),Absent,Nichols 1992[301],http://wals.info/valuesets/55A-mxc,http://wals.info/languoid/lect/wals_code_mxc,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[301]
+Miya,Absent,Schuh 1998,http://wals.info/valuesets/55A-miy,http://wals.info/languoid/lect/wals_code_miy,http://wals.info/feature/55A,http://wals.info/refdb/record/Schuh-1998
+Mlabri (Minor),Obligatory,Rischel 1995[143-144],http://wals.info/valuesets/55A-mlm,http://wals.info/languoid/lect/wals_code_mlm,http://wals.info/feature/55A,http://wals.info/refdb/record/Rischel-1995[143-144]
+Mokilese,Obligatory,Harrison 1976[93-97],http://wals.info/valuesets/55A-mok,http://wals.info/languoid/lect/wals_code_mok,http://wals.info/feature/55A,http://wals.info/refdb/record/Harrison-1976[93-97]
+Molala,Absent,Kinkade 2001,http://wals.info/valuesets/55A-mll,http://wals.info/languoid/lect/wals_code_mll,http://wals.info/feature/55A,http://wals.info/refdb/record/Kinkade-2001
+Mordvin (Erzya),Absent,,http://wals.info/valuesets/55A-moe,http://wals.info/languoid/lect/wals_code_moe,http://wals.info/feature/55A,
+Mosetén,Absent,,http://wals.info/valuesets/55A-mos,http://wals.info/languoid/lect/wals_code_mos,http://wals.info/feature/55A,
+Muisca,Absent,Ostler 1994,http://wals.info/valuesets/55A-msc,http://wals.info/languoid/lect/wals_code_msc,http://wals.info/feature/55A,http://wals.info/refdb/record/Ostler-1994
+Mundurukú,Absent,Derbyshire and Payne 1990[261],http://wals.info/valuesets/55A-muu,http://wals.info/languoid/lect/wals_code_muu,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[261]
+Mupun,Absent,Frajzyngier 1993,http://wals.info/valuesets/55A-mup,http://wals.info/languoid/lect/wals_code_mup,http://wals.info/feature/55A,http://wals.info/refdb/record/Frajzyngier-1993
+Nahali,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-nah,http://wals.info/languoid/lect/wals_code_nah,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Nahuatl (Tetelcingo),Absent,Tuggy 1979[73],http://wals.info/valuesets/55A-nht,http://wals.info/languoid/lect/wals_code_nht,http://wals.info/feature/55A,http://wals.info/refdb/record/Tuggy-1979[73]
+Nanai,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-nai,http://wals.info/languoid/lect/wals_code_nai,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Napu,Optional,Garantjang et al. 1989[57-58],http://wals.info/valuesets/55A-npu,http://wals.info/languoid/lect/wals_code_npu,http://wals.info/feature/55A,http://wals.info/refdb/record/Garantjang-et-al-1989[57-58]
+Nara (in Ethiopia),Absent,Nichols 1992[295],http://wals.info/valuesets/55A-nar,http://wals.info/languoid/lect/wals_code_nar,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[295]
+Narom,Optional,Omar 1983[642-643],http://wals.info/valuesets/55A-nrm,http://wals.info/languoid/lect/wals_code_nrm,http://wals.info/feature/55A,http://wals.info/refdb/record/Omar-1983[642-643]
+Nasioi,Absent,Foley 1986[83-85];Nichols 1992[299],http://wals.info/valuesets/55A-nas,http://wals.info/languoid/lect/wals_code_nas,http://wals.info/feature/55A,http://wals.info/refdb/record/Foley-1986[83-85];http://wals.info/refdb/record/Nichols-1992[299]
+Nauruan,Obligatory,Lynch 1998[120];Kayser 1993[68-76],http://wals.info/valuesets/55A-nau,http://wals.info/languoid/lect/wals_code_nau,http://wals.info/feature/55A,http://wals.info/refdb/record/Lynch-1998[120];http://wals.info/refdb/record/Kayser-1993[68-76]
+Navajo,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-nav,http://wals.info/languoid/lect/wals_code_nav,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Ndyuka,Absent,Huttar and Huttar 1994[532],http://wals.info/valuesets/55A-ndy,http://wals.info/languoid/lect/wals_code_ndy,http://wals.info/feature/55A,http://wals.info/refdb/record/Huttar-and-Huttar-1994[532]
+Nelemwa,Obligatory,,http://wals.info/valuesets/55A-nel,http://wals.info/languoid/lect/wals_code_nel,http://wals.info/feature/55A,
+Nenets,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-nen,http://wals.info/languoid/lect/wals_code_nen,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Neo-Aramaic (Arbel Jewish),Absent,Khan 1999[244-246],http://wals.info/valuesets/55A-naj,http://wals.info/languoid/lect/wals_code_naj,http://wals.info/feature/55A,http://wals.info/refdb/record/Khan-1999[244-246]
+Newari (Kathmandu),Obligatory,Noonan 2003c,http://wals.info/valuesets/55A-new,http://wals.info/languoid/lect/wals_code_new,http://wals.info/feature/55A,http://wals.info/refdb/record/Noonan-2003c
+Ngad'a,Obligatory,Djawanai 2002,http://wals.info/valuesets/55A-ngd,http://wals.info/languoid/lect/wals_code_ngd,http://wals.info/feature/55A,http://wals.info/refdb/record/Djawanai-2002
+Ngarinyman,Absent,,http://wals.info/valuesets/55A-ngy,http://wals.info/languoid/lect/wals_code_ngy,http://wals.info/feature/55A,
+Ngiyambaa,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-ngi,http://wals.info/languoid/lect/wals_code_ngi,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Ngizim,Absent,Schuh 1972,http://wals.info/valuesets/55A-ngz,http://wals.info/languoid/lect/wals_code_ngz,http://wals.info/feature/55A,http://wals.info/refdb/record/Schuh-1972
+Nicobarese (Car),Optional,Braine 1970[112-113],http://wals.info/valuesets/55A-nca,http://wals.info/languoid/lect/wals_code_nca,http://wals.info/feature/55A,http://wals.info/refdb/record/Braine-1970[112-113]
+Nivkh,Obligatory,Nichols 1992[295],http://wals.info/valuesets/55A-niv,http://wals.info/languoid/lect/wals_code_niv,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[295]
+Nivkh (South Sakhalin),Obligatory,,http://wals.info/valuesets/55A-nvs,http://wals.info/languoid/lect/wals_code_nvs,http://wals.info/feature/55A,
+Nubian (Dongolese),Absent,Armbruster 1960[358],http://wals.info/valuesets/55A-nbd,http://wals.info/languoid/lect/wals_code_nbd,http://wals.info/feature/55A,http://wals.info/refdb/record/Armbruster-1960[358]
+Nunggubuyu,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-nug,http://wals.info/languoid/lect/wals_code_nug,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Nyelâyu,Obligatory,,http://wals.info/valuesets/55A-nyl,http://wals.info/languoid/lect/wals_code_nyl,http://wals.info/feature/55A,
+Nyulnyul,Absent,McGregor 1996,http://wals.info/valuesets/55A-nyu,http://wals.info/languoid/lect/wals_code_nyu,http://wals.info/feature/55A,http://wals.info/refdb/record/McGregor-1996
+Ocaina,Optional,Derbyshire and Payne 1990[257],http://wals.info/valuesets/55A-oca,http://wals.info/languoid/lect/wals_code_oca,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[257]
+O'odham,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-ood,http://wals.info/languoid/lect/wals_code_ood,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Orejón,Optional,Derbyshire and Payne 1990[256],http://wals.info/valuesets/55A-ore,http://wals.info/languoid/lect/wals_code_ore,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[256]
+Orig,Absent,Nichols 1992[295],http://wals.info/valuesets/55A-ori,http://wals.info/languoid/lect/wals_code_ori,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[295]
+Oromo (Harar),Absent,Nichols 1992[295],http://wals.info/valuesets/55A-orh,http://wals.info/languoid/lect/wals_code_orh,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[295]
+Padoe,Optional,Karhunen 1994,http://wals.info/valuesets/55A-pad,http://wals.info/languoid/lect/wals_code_pad,http://wals.info/feature/55A,http://wals.info/refdb/record/Karhunen-1994
+Paiute (Northern),Absent,Snapp et al. 1982,http://wals.info/valuesets/55A-pno,http://wals.info/languoid/lect/wals_code_pno,http://wals.info/feature/55A,http://wals.info/refdb/record/Snapp-et-al-1982
+Paiute (Southern),Absent,Nichols 1992[299],http://wals.info/valuesets/55A-put,http://wals.info/languoid/lect/wals_code_put,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Palikur,Obligatory,Derbyshire and Payne 1990[262-263],http://wals.info/valuesets/55A-plk,http://wals.info/languoid/lect/wals_code_plk,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[262-263]
+Panare,Absent,Derbyshire and Payne 1990[263-264],http://wals.info/valuesets/55A-pnr,http://wals.info/languoid/lect/wals_code_pnr,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[263-264]
+Parecis,Absent,Derbyshire and Payne 1990[259-260],http://wals.info/valuesets/55A-prc,http://wals.info/languoid/lect/wals_code_prc,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[259-260]
+Paumarí,Absent,Derbyshire and Payne 1990[249-252],http://wals.info/valuesets/55A-pau,http://wals.info/languoid/lect/wals_code_pau,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[249-252]
+Pawnee,Absent,Nichols 1992[301],http://wals.info/valuesets/55A-pwn,http://wals.info/languoid/lect/wals_code_pwn,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[301]
+Persian,Optional,Mahootian 1997[195],http://wals.info/valuesets/55A-prs,http://wals.info/languoid/lect/wals_code_prs,http://wals.info/feature/55A,http://wals.info/refdb/record/Mahootian-1997[195]
+Piaroa,Optional,Derbyshire and Payne 1990[258],http://wals.info/valuesets/55A-pia,http://wals.info/languoid/lect/wals_code_pia,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[258]
+Pileni,Optional,Næss 2000[12-13],http://wals.info/valuesets/55A-pil,http://wals.info/languoid/lect/wals_code_pil,http://wals.info/feature/55A,http://wals.info/refdb/record/Naess-2000[12-13]
+Pima Bajo,Absent,Estrada Fernández 1996,http://wals.info/valuesets/55A-pba,http://wals.info/languoid/lect/wals_code_pba,http://wals.info/feature/55A,http://wals.info/refdb/record/Estrada-Fernandez-1996
+Pipil,Absent,Nichols 1992[301],http://wals.info/valuesets/55A-pip,http://wals.info/languoid/lect/wals_code_pip,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[301]
+Pirahã,Absent,Derbyshire and Payne 1990[252-253];Nichols 1992[301],http://wals.info/valuesets/55A-prh,http://wals.info/languoid/lect/wals_code_prh,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[252-253];http://wals.info/refdb/record/Nichols-1992[301]
+Piro,Absent,Derbyshire and Payne 1990,http://wals.info/valuesets/55A-pir,http://wals.info/languoid/lect/wals_code_pir,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990
+Pohnpeian,Obligatory,Lynch 1998[118-120],http://wals.info/valuesets/55A-poh,http://wals.info/languoid/lect/wals_code_poh,http://wals.info/feature/55A,http://wals.info/refdb/record/Lynch-1998[118-120]
+Purépecha,Obligatory,Nichols 1992[301];Suárez 1983b[88],http://wals.info/valuesets/55A-pur,http://wals.info/languoid/lect/wals_code_pur,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[301];http://wals.info/refdb/record/Suarez-1983b[88]
+Quechua (Cuzco),Absent,Faller 2001,http://wals.info/valuesets/55A-qcu,http://wals.info/languoid/lect/wals_code_qcu,http://wals.info/feature/55A,http://wals.info/refdb/record/Faller-2001
+Quechua (Huallaga),Absent,Weber 1989,http://wals.info/valuesets/55A-qhu,http://wals.info/languoid/lect/wals_code_qhu,http://wals.info/feature/55A,http://wals.info/refdb/record/Weber-1989
+Quechua (Imbabura),Absent,Derbyshire and Payne 1990[267],http://wals.info/valuesets/55A-qim,http://wals.info/languoid/lect/wals_code_qim,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[267]
+Quileute,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-qui,http://wals.info/languoid/lect/wals_code_qui,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Rapanui,Absent,Chapin 1978[152-153],http://wals.info/valuesets/55A-rap,http://wals.info/languoid/lect/wals_code_rap,http://wals.info/feature/55A,http://wals.info/refdb/record/Chapin-1978[152-153]
+Remo,Obligatory,Fernandez 1967,http://wals.info/valuesets/55A-rem,http://wals.info/languoid/lect/wals_code_rem,http://wals.info/feature/55A,http://wals.info/refdb/record/Fernandez-1967
+Romani (Sepecides),Optional,Cech and Heinschink 1996[20],http://wals.info/valuesets/55A-rse,http://wals.info/languoid/lect/wals_code_rse,http://wals.info/feature/55A,http://wals.info/refdb/record/Cech-and-Heinschink-1996[20]
+Rukai (Tanan),Absent,,http://wals.info/valuesets/55A-ruk,http://wals.info/languoid/lect/wals_code_ruk,http://wals.info/feature/55A,
+Runyoro-Rutooro,Absent,Rubongoya 1999[77-83],http://wals.info/valuesets/55A-rru,http://wals.info/languoid/lect/wals_code_rru,http://wals.info/feature/55A,http://wals.info/refdb/record/Rubongoya-1999[77-83]
+Russian,Absent,,http://wals.info/valuesets/55A-rus,http://wals.info/languoid/lect/wals_code_rus,http://wals.info/feature/55A,
+Russian-Chinese Pidgin (Birobidjan),Absent,,http://wals.info/valuesets/55A-rcp,http://wals.info/languoid/lect/wals_code_rcp,http://wals.info/feature/55A,
+Salinan,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-sal,http://wals.info/languoid/lect/wals_code_sal,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Salt-Yui,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-syu,http://wals.info/languoid/lect/wals_code_syu,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Samoan,Optional,,http://wals.info/valuesets/55A-sam,http://wals.info/languoid/lect/wals_code_sam,http://wals.info/feature/55A,
+Sandawe,Absent,Nichols 1992[295],http://wals.info/valuesets/55A-sdw,http://wals.info/languoid/lect/wals_code_sdw,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[295]
+Santali,Optional,Neukom 2001,http://wals.info/valuesets/55A-stl,http://wals.info/languoid/lect/wals_code_stl,http://wals.info/feature/55A,http://wals.info/refdb/record/Neukom-2001
+Sanuma,Optional,Derbyshire and Payne 1990[246],http://wals.info/valuesets/55A-snm,http://wals.info/languoid/lect/wals_code_snm,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[246]
+Sawu,Obligatory,Walker 1982[18-20],http://wals.info/valuesets/55A-saw,http://wals.info/languoid/lect/wals_code_saw,http://wals.info/feature/55A,http://wals.info/refdb/record/Walker-1982[18-20]
+Seediq,Absent,Holmer 1996,http://wals.info/valuesets/55A-see,http://wals.info/languoid/lect/wals_code_see,http://wals.info/feature/55A,http://wals.info/refdb/record/Holmer-1996
+Semandang,Obligatory,,http://wals.info/valuesets/55A-smd,http://wals.info/languoid/lect/wals_code_smd,http://wals.info/feature/55A,
+Semelai,Obligatory,,http://wals.info/valuesets/55A-sml,http://wals.info/languoid/lect/wals_code_sml,http://wals.info/feature/55A,
+Seneca,Absent,Nichols 1992[301],http://wals.info/valuesets/55A-snc,http://wals.info/languoid/lect/wals_code_snc,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[301]
+Sentani,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-snt,http://wals.info/languoid/lect/wals_code_snt,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Sesotho,Absent,Guma 1971,http://wals.info/valuesets/55A-ses,http://wals.info/languoid/lect/wals_code_ses,http://wals.info/feature/55A,http://wals.info/refdb/record/Guma-1971
+Shasta,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-shs,http://wals.info/languoid/lect/wals_code_shs,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Shipibo-Konibo,Absent,,http://wals.info/valuesets/55A-shk,http://wals.info/languoid/lect/wals_code_shk,http://wals.info/feature/55A,
+Simeulue,Obligatory,Abdullah Faridan et al. 1983[49],http://wals.info/valuesets/55A-sim,http://wals.info/languoid/lect/wals_code_sim,http://wals.info/feature/55A,http://wals.info/refdb/record/Abdullah-Faridan-et-al-1983[49]
+Sinhala,Absent,Gair 1970[30],http://wals.info/valuesets/55A-snh,http://wals.info/languoid/lect/wals_code_snh,http://wals.info/feature/55A,http://wals.info/refdb/record/Gair-1970[30]
+Siona,Optional,Derbyshire and Payne 1990[256],http://wals.info/valuesets/55A-sin,http://wals.info/languoid/lect/wals_code_sin,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[256]
+Siuslaw,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-siu,http://wals.info/languoid/lect/wals_code_siu,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+So,Obligatory,,http://wals.info/valuesets/55A-so,http://wals.info/languoid/lect/wals_code_so,http://wals.info/feature/55A,
+Suena,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-sue,http://wals.info/languoid/lect/wals_code_sue,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Sulka,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-sul,http://wals.info/languoid/lect/wals_code_sul,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Supyire,Absent,Carlson 1994[206-211],http://wals.info/valuesets/55A-sup,http://wals.info/languoid/lect/wals_code_sup,http://wals.info/feature/55A,http://wals.info/refdb/record/Carlson-1994[206-211]
+Swahili,Absent,Welmers 1973[291],http://wals.info/valuesets/55A-swa,http://wals.info/languoid/lect/wals_code_swa,http://wals.info/feature/55A,http://wals.info/refdb/record/Welmers-1973[291]
+Swati,Absent,Taljaard et al. 1991,http://wals.info/valuesets/55A-swt,http://wals.info/languoid/lect/wals_code_swt,http://wals.info/feature/55A,http://wals.info/refdb/record/Taljaard-et-al-1991
+Taba,Obligatory,Bowden 1997a[277],http://wals.info/valuesets/55A-tab,http://wals.info/languoid/lect/wals_code_tab,http://wals.info/feature/55A,http://wals.info/refdb/record/Bowden-1997a[277]
+Tagalog,Absent,,http://wals.info/valuesets/55A-tag,http://wals.info/languoid/lect/wals_code_tag,http://wals.info/feature/55A,
+Takelma,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-tkl,http://wals.info/languoid/lect/wals_code_tkl,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Tatar,Optional,,http://wals.info/valuesets/55A-tvo,http://wals.info/languoid/lect/wals_code_tvo,http://wals.info/feature/55A,
+Tati (Southern),Optional,,http://wals.info/valuesets/55A-tts,http://wals.info/languoid/lect/wals_code_tts,http://wals.info/feature/55A,
+Taulil,Absent,Stebbins 2002,http://wals.info/valuesets/55A-tll,http://wals.info/languoid/lect/wals_code_tll,http://wals.info/feature/55A,http://wals.info/refdb/record/Stebbins-2002
+Tawala,Absent,Ezard 1997,http://wals.info/valuesets/55A-taw,http://wals.info/languoid/lect/wals_code_taw,http://wals.info/feature/55A,http://wals.info/refdb/record/Ezard-1997
+Tehit,Obligatory,Reesink 1996[9],http://wals.info/valuesets/55A-tht,http://wals.info/languoid/lect/wals_code_tht,http://wals.info/feature/55A,http://wals.info/refdb/record/Reesink-1996[9]
+Telefol,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-tlf,http://wals.info/languoid/lect/wals_code_tlf,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Temiar,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-tmr,http://wals.info/languoid/lect/wals_code_tmr,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Tepehuan (Southeastern),Absent,Willett 1991[84-86],http://wals.info/valuesets/55A-tps,http://wals.info/languoid/lect/wals_code_tps,http://wals.info/feature/55A,http://wals.info/refdb/record/Willett-1991[84-86]
+Terêna,Absent,Derbyshire and Payne 1990[252-253],http://wals.info/valuesets/55A-trn,http://wals.info/languoid/lect/wals_code_trn,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[252-253]
+Teribe,Obligatory,Quesada 2000[48-50],http://wals.info/valuesets/55A-trb,http://wals.info/languoid/lect/wals_code_trb,http://wals.info/feature/55A,http://wals.info/refdb/record/Quesada-2000[48-50]
+Tetun,Optional,van Klinken 1999[99-109],http://wals.info/valuesets/55A-ttn,http://wals.info/languoid/lect/wals_code_ttn,http://wals.info/feature/55A,http://wals.info/refdb/record/van-Klinken-1999[99-109]
+Thai,Obligatory,,http://wals.info/valuesets/55A-tha,http://wals.info/languoid/lect/wals_code_tha,http://wals.info/feature/55A,
+Thompson,Optional,Thompson and Thompson 1992,http://wals.info/valuesets/55A-tho,http://wals.info/languoid/lect/wals_code_tho,http://wals.info/feature/55A,http://wals.info/refdb/record/Thompson-and-Thompson-1992
+Tidore,Optional,,http://wals.info/valuesets/55A-tid,http://wals.info/languoid/lect/wals_code_tid,http://wals.info/feature/55A,
+Timugon,Absent,Omar 1983[352],http://wals.info/valuesets/55A-tim,http://wals.info/languoid/lect/wals_code_tim,http://wals.info/feature/55A,http://wals.info/refdb/record/Omar-1983[352]
+Tiwi,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-tiw,http://wals.info/languoid/lect/wals_code_tiw,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Tlingit,Obligatory,Kinkade 2001,http://wals.info/valuesets/55A-tli,http://wals.info/languoid/lect/wals_code_tli,http://wals.info/feature/55A,http://wals.info/refdb/record/Kinkade-2001
+Toba,Absent,Derbyshire and Payne 1990[267],http://wals.info/valuesets/55A-tob,http://wals.info/languoid/lect/wals_code_tob,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[267]
+Tol,Absent,Holt 1999a,http://wals.info/valuesets/55A-tol,http://wals.info/languoid/lect/wals_code_tol,http://wals.info/feature/55A,http://wals.info/refdb/record/Holt-1999a
+Tolai,Absent,,http://wals.info/valuesets/55A-tla,http://wals.info/languoid/lect/wals_code_tla,http://wals.info/feature/55A,
+Tongan,Optional,Lynch 1998[120],http://wals.info/valuesets/55A-tng,http://wals.info/languoid/lect/wals_code_tng,http://wals.info/feature/55A,http://wals.info/refdb/record/Lynch-1998[120]
+Tonkawa,Absent,Nichols 1992[301],http://wals.info/valuesets/55A-ton,http://wals.info/languoid/lect/wals_code_ton,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[301]
+Toqabaqita,Optional,,http://wals.info/valuesets/55A-toq,http://wals.info/languoid/lect/wals_code_toq,http://wals.info/feature/55A,
+Totonac (Papantla),Obligatory,Suárez 1983b[87-88],http://wals.info/valuesets/55A-tpa,http://wals.info/languoid/lect/wals_code_tpa,http://wals.info/feature/55A,http://wals.info/refdb/record/Suarez-1983b[87-88]
+Toussian (Win),Obligatory,,http://wals.info/valuesets/55A-tow,http://wals.info/languoid/lect/wals_code_tow,http://wals.info/feature/55A,
+Tsimshian (Coast),Obligatory,Boas 1911c[396-398],http://wals.info/valuesets/55A-tsi,http://wals.info/languoid/lect/wals_code_tsi,http://wals.info/feature/55A,http://wals.info/refdb/record/Boas-1911c[396-398]
+Tsou,Absent,,http://wals.info/valuesets/55A-tso,http://wals.info/languoid/lect/wals_code_tso,http://wals.info/feature/55A,
+Tuareg (Ghat),Absent,Nehlil 1909,http://wals.info/valuesets/55A-tgh,http://wals.info/languoid/lect/wals_code_tgh,http://wals.info/feature/55A,http://wals.info/refdb/record/Nehlil-1909
+Tucano,Optional,Derbyshire and Payne 1990[255-256],http://wals.info/valuesets/55A-tuc,http://wals.info/languoid/lect/wals_code_tuc,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[255-256]
+Tukang Besi,Optional,Donohue 1999a[107-111],http://wals.info/valuesets/55A-tuk,http://wals.info/languoid/lect/wals_code_tuk,http://wals.info/feature/55A,http://wals.info/refdb/record/Donohue-1999a[107-111]
+Tunen,Absent,,http://wals.info/valuesets/55A-tnn,http://wals.info/languoid/lect/wals_code_tnn,http://wals.info/feature/55A,
+Tunica,Absent,Nichols 1992[301],http://wals.info/valuesets/55A-tun,http://wals.info/languoid/lect/wals_code_tun,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[301]
+Turkish,Optional,Lewis 1967[80-81],http://wals.info/valuesets/55A-tur,http://wals.info/languoid/lect/wals_code_tur,http://wals.info/feature/55A,http://wals.info/refdb/record/Lewis-1967[80-81]
+Tuvaluan,Optional,Besnier 2000[558-568],http://wals.info/valuesets/55A-tvl,http://wals.info/languoid/lect/wals_code_tvl,http://wals.info/feature/55A,http://wals.info/refdb/record/Besnier-2000[558-568]
+Tuvan,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-tuv,http://wals.info/languoid/lect/wals_code_tuv,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Tuyuca,Obligatory,Barnes 1990,http://wals.info/valuesets/55A-tuy,http://wals.info/languoid/lect/wals_code_tuy,http://wals.info/feature/55A,http://wals.info/refdb/record/Barnes-1990
+Tzeltal,Obligatory,Suárez 1983b[88],http://wals.info/valuesets/55A-tze,http://wals.info/languoid/lect/wals_code_tze,http://wals.info/feature/55A,http://wals.info/refdb/record/Suarez-1983b[88]
+Ulithian,Obligatory,Lynch 1998[120],http://wals.info/valuesets/55A-uli,http://wals.info/languoid/lect/wals_code_uli,http://wals.info/feature/55A,http://wals.info/refdb/record/Lynch-1998[120]
+Ungarinjin,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-ung,http://wals.info/languoid/lect/wals_code_ung,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Ura,Absent,Crowley 1998c,http://wals.info/valuesets/55A-ura,http://wals.info/languoid/lect/wals_code_ura,http://wals.info/feature/55A,http://wals.info/refdb/record/Crowley-1998c
+Uradhi,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-uhi,http://wals.info/languoid/lect/wals_code_uhi,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Vafsi,Optional,,http://wals.info/valuesets/55A-vaf,http://wals.info/languoid/lect/wals_code_vaf,http://wals.info/feature/55A,
+Vietnamese,Obligatory,Thompson 1965,http://wals.info/valuesets/55A-vie,http://wals.info/languoid/lect/wals_code_vie,http://wals.info/feature/55A,http://wals.info/refdb/record/Thompson-1965
+Waigali,Absent,Nichols 1992[297],http://wals.info/valuesets/55A-wgl,http://wals.info/languoid/lect/wals_code_wgl,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[297]
+Waorani,Obligatory,Derbyshire and Payne 1990[259];Nichols 1992[301],http://wals.info/valuesets/55A-wao,http://wals.info/languoid/lect/wals_code_wao,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[259];http://wals.info/refdb/record/Nichols-1992[301]
+Wappo,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-wap,http://wals.info/languoid/lect/wals_code_wap,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Warekena,Obligatory,Aikhenvald 1998[298],http://wals.info/valuesets/55A-wrk,http://wals.info/languoid/lect/wals_code_wrk,http://wals.info/feature/55A,http://wals.info/refdb/record/Aikhenvald-1998[298]
+Wari',Absent,Everett and Kern 1997,http://wals.info/valuesets/55A-war,http://wals.info/languoid/lect/wals_code_war,http://wals.info/feature/55A,http://wals.info/refdb/record/Everett-and-Kern-1997
+Warndarang,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-wrn,http://wals.info/languoid/lect/wals_code_wrn,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Washo,Absent,Kroeber 1906,http://wals.info/valuesets/55A-was,http://wals.info/languoid/lect/wals_code_was,http://wals.info/feature/55A,http://wals.info/refdb/record/Kroeber-1906
+Waurá,Optional,Derbyshire and Payne 1990[262-263],http://wals.info/valuesets/55A-wur,http://wals.info/languoid/lect/wals_code_wur,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[262-263]
+Wembawemba,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-wem,http://wals.info/languoid/lect/wals_code_wem,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Wintu,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-win,http://wals.info/languoid/lect/wals_code_win,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Worora,Absent,Love 2000[24],http://wals.info/valuesets/55A-wor,http://wals.info/languoid/lect/wals_code_wor,http://wals.info/feature/55A,http://wals.info/refdb/record/Love-2000[24]
+/Xam,Absent,,http://wals.info/valuesets/55A-xam,http://wals.info/languoid/lect/wals_code_xam,http://wals.info/feature/55A,
+!Xóõ,Absent,,http://wals.info/valuesets/55A-xoo,http://wals.info/languoid/lect/wals_code_xoo,http://wals.info/feature/55A,
+Yagua,Obligatory,Derbyshire and Payne 1990[253-254];Nichols 1992[301],http://wals.info/valuesets/55A-yag,http://wals.info/languoid/lect/wals_code_yag,http://wals.info/feature/55A,http://wals.info/refdb/record/Derbyshire-and-Payne-1990[253-254];http://wals.info/refdb/record/Nichols-1992[301]
+Yami,Absent,,http://wals.info/valuesets/55A-ymi,http://wals.info/languoid/lect/wals_code_ymi,http://wals.info/feature/55A,
+Yapese,Optional,Jensen et al. 1977[153];Lynch 1998[120],http://wals.info/valuesets/55A-yap,http://wals.info/languoid/lect/wals_code_yap,http://wals.info/feature/55A,http://wals.info/refdb/record/Jensen-et-al-1977a[153];http://wals.info/refdb/record/Lynch-1998[120]
+Yawelmani,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-ywl,http://wals.info/languoid/lect/wals_code_ywl,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Yessan-Mayo,Absent,Foreman 1974,http://wals.info/valuesets/55A-yes,http://wals.info/languoid/lect/wals_code_yes,http://wals.info/feature/55A,http://wals.info/refdb/record/Foreman-1974
+Yidiny,Absent,Dixon 1977a,http://wals.info/valuesets/55A-yid,http://wals.info/languoid/lect/wals_code_yid,http://wals.info/feature/55A,http://wals.info/refdb/record/Dixon-1977a
+Yimas,Absent,Foley 1991[101-105],http://wals.info/valuesets/55A-yim,http://wals.info/languoid/lect/wals_code_yim,http://wals.info/feature/55A,http://wals.info/refdb/record/Foley-1991[101-105]
+Yingkarta,Absent,Dench 1998,http://wals.info/valuesets/55A-yng,http://wals.info/languoid/lect/wals_code_yng,http://wals.info/feature/55A,http://wals.info/refdb/record/Dench-1998
+Yoruba,Absent,Nichols 1992[295];Welmers 1973[289],http://wals.info/valuesets/55A-yor,http://wals.info/languoid/lect/wals_code_yor,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[295];http://wals.info/refdb/record/Welmers-1973[289]
+Yucatec,Obligatory,Suárez 1983b[88],http://wals.info/valuesets/55A-yct,http://wals.info/languoid/lect/wals_code_yct,http://wals.info/feature/55A,http://wals.info/refdb/record/Suarez-1983b[88]
+Yuchi,Absent,Nichols 1992[301],http://wals.info/valuesets/55A-yuc,http://wals.info/languoid/lect/wals_code_yuc,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[301]
+Yukaghir (Kolyma),Absent,,http://wals.info/valuesets/55A-yko,http://wals.info/languoid/lect/wals_code_yko,http://wals.info/feature/55A,
+Yukulta,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-yuk,http://wals.info/languoid/lect/wals_code_yuk,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]
+Zulu,Absent,"Doke 1927[94-97, 325-329]",http://wals.info/valuesets/55A-zul,http://wals.info/languoid/lect/wals_code_zul,http://wals.info/feature/55A,"http://wals.info/refdb/record/Doke-1927[94-97, 325-329]"
+Zuni,Absent,Nichols 1992[299],http://wals.info/valuesets/55A-zun,http://wals.info/languoid/lect/wals_code_zun,http://wals.info/feature/55A,http://wals.info/refdb/record/Nichols-1992[299]

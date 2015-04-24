@@ -1,0 +1,39 @@
+LANGUAGE_NAME,VALUE,SOURCE_NAME,ID,LANGUAGE_ID,FEATURE_ID,SOURCE
+Adamorobe Sign Language,None,,http://wals.info/valuesets/140A-ada,http://wals.info/languoid/lect/wals_code_ada,http://wals.info/feature/140A,
+American Sign Language,One,Fischer 2003,http://wals.info/valuesets/140A-asl,http://wals.info/languoid/lect/wals_code_asl,http://wals.info/feature/140A,http://wals.info/refdb/record/Fischer-2003
+Auslan,None,,http://wals.info/valuesets/140A-aus,http://wals.info/languoid/lect/wals_code_aus,http://wals.info/feature/140A,
+British Sign Language,None,Sutton-Spence and Woll 1999[passim],http://wals.info/valuesets/140A-bsl,http://wals.info/languoid/lect/wals_code_bsl,http://wals.info/feature/140A,http://wals.info/refdb/record/Sutton-Spence-and-Woll-1999[passim]
+Chinese Sign Language,More than one,,http://wals.info/valuesets/140A-csl,http://wals.info/languoid/lect/wals_code_csl,http://wals.info/feature/140A,
+Deutsche Gebärdensprache,None,,http://wals.info/valuesets/140A-dge,http://wals.info/languoid/lect/wals_code_dge,http://wals.info/feature/140A,
+Finnish Sign Language,One,Savolainen 2003,http://wals.info/valuesets/140A-fsl,http://wals.info/languoid/lect/wals_code_fsl,http://wals.info/feature/140A,http://wals.info/refdb/record/Savolainen-2003
+Greek Sign Language,None,,http://wals.info/valuesets/140A-gsl,http://wals.info/languoid/lect/wals_code_gsl,http://wals.info/feature/140A,
+Hong Kong Sign Language,More than one,Tang 2003,http://wals.info/valuesets/140A-hks,http://wals.info/languoid/lect/wals_code_hks,http://wals.info/feature/140A,http://wals.info/refdb/record/Tang-2003
+Icelandic Sign Language,None,,http://wals.info/valuesets/140A-ics,http://wals.info/languoid/lect/wals_code_ics,http://wals.info/feature/140A,
+Indo-Pakistani Sign Language (Indian dialects),None,,http://wals.info/valuesets/140A-ipi,http://wals.info/languoid/lect/wals_code_ipi,http://wals.info/feature/140A,
+Irish Sign Language,None,,http://wals.info/valuesets/140A-irs,http://wals.info/languoid/lect/wals_code_irs,http://wals.info/feature/140A,
+Israeli Sign Language,None,Meir 2003,http://wals.info/valuesets/140A-iss,http://wals.info/languoid/lect/wals_code_iss,http://wals.info/feature/140A,http://wals.info/refdb/record/Meir-2003
+Kata Kolok,None,,http://wals.info/valuesets/140A-kkl,http://wals.info/languoid/lect/wals_code_kkl,http://wals.info/feature/140A,
+Kenyan Sign Language,One,Akach 1991[500ff.],http://wals.info/valuesets/140A-ksl,http://wals.info/languoid/lect/wals_code_ksl,http://wals.info/feature/140A,http://wals.info/refdb/record/Akach-1991[500ff.]
+Langue des Signes Française,None,Moody et al. 1983[passim],http://wals.info/valuesets/140A-lsf,http://wals.info/languoid/lect/wals_code_lsf,http://wals.info/feature/140A,http://wals.info/refdb/record/Moody-et-al-1983[passim]
+Langue des Signes Québecoise,None,Dubuisson et al. 1999[passim],http://wals.info/valuesets/140A-lsq,http://wals.info/languoid/lect/wals_code_lsq,http://wals.info/feature/140A,http://wals.info/refdb/record/Dubuisson-et-al-1999[passim]
+Lengua de Señas Argentina,None,Veinberg n.d.[passim],http://wals.info/valuesets/140A-lsa,http://wals.info/languoid/lect/wals_code_lsa,http://wals.info/feature/140A,http://wals.info/refdb/record/Veinberg-nd[passim]
+Lengua de Señas Española,One,,http://wals.info/valuesets/140A-lse,http://wals.info/languoid/lect/wals_code_lse,http://wals.info/feature/140A,
+Língua de Sinais Brasileira,None,,http://wals.info/valuesets/140A-lsb,http://wals.info/languoid/lect/wals_code_lsb,http://wals.info/feature/140A,
+Língua Gestual Portuguesa,None,Amaral et al. 1994[passim],http://wals.info/valuesets/140A-lgp,http://wals.info/languoid/lect/wals_code_lgp,http://wals.info/feature/140A,http://wals.info/refdb/record/Amaral-et-al-1994[passim]
+Lingua Italiana dei Segni,None,Celo 1996[142ff],http://wals.info/valuesets/140A-lii,http://wals.info/languoid/lect/wals_code_lii,http://wals.info/feature/140A,http://wals.info/refdb/record/Celo-1996[142ff]
+Lughat al-Isharat al-Lubnaniya,None,,http://wals.info/valuesets/140A-lgh,http://wals.info/languoid/lect/wals_code_lgh,http://wals.info/feature/140A,
+Nederlandse Gebarentaal,None,Coerts 1992[passim],http://wals.info/valuesets/140A-ned,http://wals.info/languoid/lect/wals_code_ned,http://wals.info/feature/140A,http://wals.info/refdb/record/Coerts-1992[passim]
+New Zealand Sign Language,None,,http://wals.info/valuesets/140A-nzs,http://wals.info/languoid/lect/wals_code_nzs,http://wals.info/feature/140A,
+Nihon Shuwa (Japanese Sign Language),One,Morgan 2003,http://wals.info/valuesets/140A-nih,http://wals.info/languoid/lect/wals_code_nih,http://wals.info/feature/140A,http://wals.info/refdb/record/Morgan-2003
+Norsk Tegnspråk,None,Vogt-Svendsen 1990[passim],http://wals.info/valuesets/140A-nte,http://wals.info/languoid/lect/wals_code_nte,http://wals.info/feature/140A,http://wals.info/refdb/record/Vogt-Svendsen-1990[passim]
+Plains-Indians Sign Language,One,Taylor 1996[280f],http://wals.info/valuesets/140A-psl,http://wals.info/languoid/lect/wals_code_psl,http://wals.info/feature/140A,http://wals.info/refdb/record/Taylor-1996[280f]
+Russian Sign Language,None,,http://wals.info/valuesets/140A-rsl,http://wals.info/languoid/lect/wals_code_rsl,http://wals.info/feature/140A,
+South Korean Sign Language,More than one,,http://wals.info/valuesets/140A-ssl,http://wals.info/languoid/lect/wals_code_ssl,http://wals.info/feature/140A,
+Svenska Teckenspråket,None,Bergman 1988[passim],http://wals.info/valuesets/140A-svt,http://wals.info/languoid/lect/wals_code_svt,http://wals.info/feature/140A,http://wals.info/refdb/record/Bergman-1988[passim]
+Taiwanese Sign Language (Ziran Shouyu),More than one,,http://wals.info/valuesets/140A-tzi,http://wals.info/languoid/lect/wals_code_tzi,http://wals.info/feature/140A,
+Tanzania Sign Language,One,,http://wals.info/valuesets/140A-tsl,http://wals.info/languoid/lect/wals_code_tsl,http://wals.info/feature/140A,
+Thai Sign Language,None,Suwanarat and Reilly 1986[passim],http://wals.info/valuesets/140A-ths,http://wals.info/languoid/lect/wals_code_ths,http://wals.info/feature/140A,http://wals.info/refdb/record/Suwanarat-and-Reilly-1986[passim]
+Türk Isaret Dili,One,,http://wals.info/valuesets/140A-tui,http://wals.info/languoid/lect/wals_code_tui,http://wals.info/feature/140A,
+Ugandan Sign Language,None,,http://wals.info/valuesets/140A-ugs,http://wals.info/languoid/lect/wals_code_ugs,http://wals.info/feature/140A,
+Urubú Sign Language,One,Kakumasu 1966[279],http://wals.info/valuesets/140A-usl,http://wals.info/languoid/lect/wals_code_usl,http://wals.info/feature/140A,http://wals.info/refdb/record/Kakumasu-1966[279]
+Vlaamse Gebarentaal,None,,http://wals.info/valuesets/140A-vla,http://wals.info/languoid/lect/wals_code_vla,http://wals.info/feature/140A,

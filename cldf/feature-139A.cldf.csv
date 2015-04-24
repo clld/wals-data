@@ -1,0 +1,36 @@
+LANGUAGE_NAME,VALUE,SOURCE_NAME,ID,LANGUAGE_ID,FEATURE_ID,SOURCE
+Adamorobe Sign Language,Some (2-5),,http://wals.info/valuesets/139A-ada,http://wals.info/languoid/lect/wals_code_ada,http://wals.info/feature/139A,
+American Sign Language,Many (more than 5),Baker-Shenk and Cokely 1996[152];Deuchar 1987[37],http://wals.info/valuesets/139A-asl,http://wals.info/languoid/lect/wals_code_asl,http://wals.info/feature/139A,http://wals.info/refdb/record/Baker-Shenk-and-Cokely-1996[152];http://wals.info/refdb/record/Deuchar-1987[37]
+Auslan,Many (more than 5),,http://wals.info/valuesets/139A-aus,http://wals.info/languoid/lect/wals_code_aus,http://wals.info/feature/139A,
+British Sign Language,Many (more than 5),Deuchar 1987[37];Sutton-Spence and Woll 1999[passim],http://wals.info/valuesets/139A-bsl,http://wals.info/languoid/lect/wals_code_bsl,http://wals.info/feature/139A,http://wals.info/refdb/record/Deuchar-1987[37];http://wals.info/refdb/record/Sutton-Spence-and-Woll-1999[passim]
+Chinese Sign Language,Many (more than 5),Yang and Fischer 2002[passim],http://wals.info/valuesets/139A-csl,http://wals.info/languoid/lect/wals_code_csl,http://wals.info/feature/139A,http://wals.info/refdb/record/Yang-and-Fischer-2002[passim]
+Deutsche Gebärdensprache,Many (more than 5),,http://wals.info/valuesets/139A-dge,http://wals.info/languoid/lect/wals_code_dge,http://wals.info/feature/139A,
+Finnish Sign Language,Many (more than 5),Savolainen 2003,http://wals.info/valuesets/139A-fsl,http://wals.info/languoid/lect/wals_code_fsl,http://wals.info/feature/139A,http://wals.info/refdb/record/Savolainen-2003
+Greek Sign Language,Many (more than 5),,http://wals.info/valuesets/139A-gsl,http://wals.info/languoid/lect/wals_code_gsl,http://wals.info/feature/139A,
+Hong Kong Sign Language,Many (more than 5),Tang 2003,http://wals.info/valuesets/139A-hks,http://wals.info/languoid/lect/wals_code_hks,http://wals.info/feature/139A,http://wals.info/refdb/record/Tang-2003
+Icelandic Sign Language,Some (2-5),,http://wals.info/valuesets/139A-ics,http://wals.info/languoid/lect/wals_code_ics,http://wals.info/feature/139A,
+Indo-Pakistani Sign Language (Indian dialects),One,,http://wals.info/valuesets/139A-ipi,http://wals.info/languoid/lect/wals_code_ipi,http://wals.info/feature/139A,
+Indo-Pakistani Sign Language (Karachi dialect),None,,http://wals.info/valuesets/139A-ipk,http://wals.info/languoid/lect/wals_code_ipk,http://wals.info/feature/139A,
+International Sign,Some (2-5),Webb and Supalla 1994[177],http://wals.info/valuesets/139A-isl,http://wals.info/languoid/lect/wals_code_isl,http://wals.info/feature/139A,http://wals.info/refdb/record/Webb-and-Supalla-1994[177]
+Irish Sign Language,Some (2-5),,http://wals.info/valuesets/139A-irs,http://wals.info/languoid/lect/wals_code_irs,http://wals.info/feature/139A,
+Israeli Sign Language,Many (more than 5),Meir 2003,http://wals.info/valuesets/139A-iss,http://wals.info/languoid/lect/wals_code_iss,http://wals.info/feature/139A,http://wals.info/refdb/record/Meir-2003
+Kata Kolok,One,,http://wals.info/valuesets/139A-kkl,http://wals.info/languoid/lect/wals_code_kkl,http://wals.info/feature/139A,
+Langue des Signes Française,Many (more than 5),Moody et al 1986[passim],http://wals.info/valuesets/139A-lsf,http://wals.info/languoid/lect/wals_code_lsf,http://wals.info/feature/139A,http://wals.info/refdb/record/Moody-et-al-1986[passim]
+Langue des Signes Québecoise,Many (more than 5),Berthiaume and Rinfret 2000[6f],http://wals.info/valuesets/139A-lsq,http://wals.info/languoid/lect/wals_code_lsq,http://wals.info/feature/139A,http://wals.info/refdb/record/Berthiaume-and-Rinfret-2000[6f]
+Lengua de Señas Argentina,Many (more than 5),Veinberg 1993[103],http://wals.info/valuesets/139A-lsa,http://wals.info/languoid/lect/wals_code_lsa,http://wals.info/feature/139A,http://wals.info/refdb/record/Veinberg-1993[103]
+Lengua de Señas Española,One,,http://wals.info/valuesets/139A-lse,http://wals.info/languoid/lect/wals_code_lse,http://wals.info/feature/139A,
+Língua de Sinais Brasileira,Many (more than 5),,http://wals.info/valuesets/139A-lsb,http://wals.info/languoid/lect/wals_code_lsb,http://wals.info/feature/139A,
+Lingua Italiana dei Segni,Some (2-5),Radutzky et al 1992[passim],http://wals.info/valuesets/139A-lii,http://wals.info/languoid/lect/wals_code_lii,http://wals.info/feature/139A,http://wals.info/refdb/record/Radutzky-et-al-1992[passim]
+Lughat al-Isharat al-Lubnaniya,Some (2-5),,http://wals.info/valuesets/139A-lgh,http://wals.info/languoid/lect/wals_code_lgh,http://wals.info/feature/139A,
+Nederlandse Gebarentaal,Some (2-5),,http://wals.info/valuesets/139A-ned,http://wals.info/languoid/lect/wals_code_ned,http://wals.info/feature/139A,
+New Zealand Sign Language,Many (more than 5),McKee 2003,http://wals.info/valuesets/139A-nzs,http://wals.info/languoid/lect/wals_code_nzs,http://wals.info/feature/139A,http://wals.info/refdb/record/McKee-2003
+Nihon Shuwa (Japanese Sign Language),Many (more than 5),Morgan 2003,http://wals.info/valuesets/139A-nih,http://wals.info/languoid/lect/wals_code_nih,http://wals.info/feature/139A,http://wals.info/refdb/record/Morgan-2003
+Russian Sign Language,Many (more than 5),Grenoble 1992[331ff],http://wals.info/valuesets/139A-rsl,http://wals.info/languoid/lect/wals_code_rsl,http://wals.info/feature/139A,http://wals.info/refdb/record/Grenoble-1992[331ff]
+South Korean Sign Language,Many (more than 5),,http://wals.info/valuesets/139A-ssl,http://wals.info/languoid/lect/wals_code_ssl,http://wals.info/feature/139A,
+Svenska Teckenspråket,Many (more than 5),Bergman 1995[89ff],http://wals.info/valuesets/139A-svt,http://wals.info/languoid/lect/wals_code_svt,http://wals.info/feature/139A,http://wals.info/refdb/record/Bergman-1995[89ff]
+Taiwanese Sign Language (Ziran Shouyu),Many (more than 5),,http://wals.info/valuesets/139A-tzi,http://wals.info/languoid/lect/wals_code_tzi,http://wals.info/feature/139A,
+Tanzania Sign Language,Some (2-5),,http://wals.info/valuesets/139A-tsl,http://wals.info/languoid/lect/wals_code_tsl,http://wals.info/feature/139A,
+Thai Sign Language,Some (2-5),Suwanarat and Reilly 1986[passim],http://wals.info/valuesets/139A-ths,http://wals.info/languoid/lect/wals_code_ths,http://wals.info/feature/139A,http://wals.info/refdb/record/Suwanarat-and-Reilly-1986[passim]
+Türk Isaret Dili,Some (2-5),,http://wals.info/valuesets/139A-tui,http://wals.info/languoid/lect/wals_code_tui,http://wals.info/feature/139A,
+Ugandan Sign Language,Many (more than 5),,http://wals.info/valuesets/139A-ugs,http://wals.info/languoid/lect/wals_code_ugs,http://wals.info/feature/139A,
+Vlaamse Gebarentaal,Many (more than 5),,http://wals.info/valuesets/139A-vla,http://wals.info/languoid/lect/wals_code_vla,http://wals.info/feature/139A,
