@@ -1,0 +1,14 @@
+{
+  "name": "Number of y",
+  "description": "...",
+  "domain": [
+    {
+      "name": "Large",
+      "description": "more than x y"
+    },
+    {
+      "name": "Small",
+      "description": "less than x y"
+    }
+  ]
+}
