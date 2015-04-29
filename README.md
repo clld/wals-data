@@ -27,7 +27,6 @@ The World Atlas Of Language Structures Online (http://wals.info).
 
 
 2014
-~~~~
+----
 
-- gzipped sql-dump from postgresql 9.1.
-
+- gzipped sql-dump from postgresql 9.1, `alembic_version.version_num==12dbc8689bb`.
