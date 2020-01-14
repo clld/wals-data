@@ -1,8 +1,12 @@
 WALS data
 =========
 
-Data of previous editions of
-The World Atlas Of Language Structures Online (http://wals.info).
+Curation of the data for [WALS Online](https://wals.info) has moved to https://github.com/cldf-datasets/wals
+
+To report errors, please file an issue at https://github.com/cldf-datasets/wals/issues
+
+Data of previous editions of The World Atlas Of Language Structures Online (http://wals.info) is available at https://github.com/cldf-datasets/wals/releases
+
 
 2008
 ----
